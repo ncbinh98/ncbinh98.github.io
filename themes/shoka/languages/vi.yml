@@ -1,0 +1,143 @@
+name: Tiếng Việt
+
+favicon:
+  show: （●´3｀●）Sunbeam Homestay
+  hide: (´Д｀)Sunbeam Homestay need you!
+
+title:
+  archive: Lưu trữ
+  category: Danh mục
+  tag: Thẻ
+  all: Tất cả
+  not_found: Σ( ° △ °|||)︴404!
+  category_in: Đăng trong danh mục "%s"
+  tag_in: Đăng với thẻ "%s"
+  archive_in: Đăng vào ngày "%s"
+
+menu:
+  home: Trang chủ
+  posts: Bài viết
+  archives: Lưu trữ
+  categories: Danh mục
+  tags: Thẻ
+  about: Giới thiệu
+  search: Tìm kiếm
+
+sidebar:
+  overview: Tổng quan
+  toc: Mục lục
+  related: Liên quan
+
+index:
+  sticky: Bài viết nổi bật
+  category: Danh mục
+  posts: Danh sách bài viết
+  random_posts: Bài viết ngẫu nhiên
+  recent_comments: Bình luận gần đây
+
+post:
+  posted: Đăng vào ngày
+  edited: Chỉnh sửa vào ngày
+  created: Tạo
+  modified: Chỉnh sửa
+  edit: Chỉnh sửa bài viết này
+  in: Trong
+  read_more: Đọc thêm
+  untitled: Không có tiêu đề
+  sticky: Nổi bật
+  views: Lượt xem
+  related_posts: Bài viết liên quan
+  next: Bài viết tiếp theo
+  prev: Bài viết trước
+  copyright:
+    author: Tác giả bài viết
+    link: Liên kết bài viết
+    license_title: Thông báo bản quyền
+    license_content: "Tất cả bài viết trên blog này đều được cấp phép theo %s trừ khi có ghi chú thêm."
+    nocopy: "<span class=\"red\">Trang này bị cấm sao chép.</span>"
+
+footer:
+  powered: "Cung cấp bởi %s"
+  total_views: Tổng lượt xem
+  total_visitors: Tổng số khách
+
+counter:
+  index:
+    post: "%d bài viết"
+    category: "%d danh mục phụ"
+  tag_cloud:
+    zero: Không có thẻ
+    one: 1 thẻ
+    other: "%d thẻ"
+  categories:
+    zero: Không có danh mục
+    one: 1 danh mục
+    other: "%d danh mục"
+  archive_posts:
+    zero: Không có bài viết.
+    one: 1 bài viết.
+    other: "%d bài viết."
+
+state:
+  posts: bài viết
+  tags: thẻ
+  categories: danh mục
+
+search:
+  placeholder: Tìm kiếm bài viết
+  empty: "Chúng tôi không tìm thấy kết quả nào cho tìm kiếm: ${query}"
+  stats: "${hits} kết quả tìm thấy trong ${time} ms"
+
+cheers:
+  um: Ờ..
+  ok: OK
+  nice: Tốt
+  good: Tốt
+  great: Tuyệt vời
+  excellent: Xuất sắc
+
+keep_on: Tiếp tục đăng bài.
+
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  year: "Năm"
+  month: "Tháng"
+
+reward:
+  donate: Quyên góp
+  text: Hãy cho tôi một cốc [cà phê]~(￣▽￣)~*
+  wechatpay: WeChat Pay
+  alipay: Alipay
+  paypal: PayPal
+  bitcoin: Bitcoin
+
+follow_me:
+  welcome: Chào mừng đến với các kênh xuất bản khác của tôi
+
+accessibility:
+  nav_toggle: Chuyển đổi thanh điều hướng
+  prev_page: Trang trước
+  next_page: Trang sau
+
+symbols_count_time:
+  count: Số ký tự trong bài viết
+  count_total: Tổng số ký tự
+  time: Thời gian đọc
+  time_total: Tổng thời gian đọc
+  time_minutes: phút.
+  word: từ
+  view: lần
+
+tips:
+  copyright: "Sao chép vào clipboard thành công! <br> Tất cả bài viết trên blog này đều được cấp phép theo %s."
+  nocopy: "Sao chép vào clipboard thất bại! Trang này bị cấm sao chép."
+
+quiz:
+  choice: Trắc nghiệm
+  multiple: Câu trả lời đa
+  true_false: Đúng/Sai
+  essay: Câu hỏi
+  gap_fill: Điền vào chỗ trống
+  mistake: Câu trả lời sai
