@@ -8,24 +8,60 @@
     <span>{{ _url(item.link or item.path, postText + (postTitleIcon or ''), {title: postText}) }}</span>
   </li>
 {% endmacro %}
-
 {% macro render(item) %}
-{%- if theme.widgets.random_posts %}
-<div class="rpost pjax">
-  <h2>{{__('index.random_posts')}}</h2>
-  <ul>
-    {%- set posts = site.posts.shuffle().limit(10).toArray() %}
-    {%- for item in posts %}
-      {{field(item)}}
-    {%- endfor %}
-  </ul>
-</div>
-{%- endif %}
-
-{%- if theme.widgets.recent_comments %}
-<div>
-  <h2>{{__('index.recent_comments')}}</h2>
-  <ul class="leancloud-recent-comment"></ul>
-</div>
-{%- endif %}
+  {%- if theme.widgets.random_posts %}
+    <div class="rpost pjax">
+      <h2>{{ __('index.random_posts') }}</h2>
+      <ul>
+        {%- set posts = site.posts.shuffle().limit(10).toArray() %}
+        {%- for item in posts %}
+          {{ field(item) }}
+        {%- endfor %}
+      </ul>
+    </div>
+  {%- endif %}
+  <div>
+    <div class="contact-info">
+      <h2>Liên hệ Sunbeam Homestay Vũng Tàu</h2>
+      <ul>
+        <li>
+          <strong>Địa chỉ:</strong>
+          165A Đường Thùy Vân, Phường Thắng Tam, Thành phố Vũng Tàu</li>
+        <li>
+          <strong>Điện thoại:</strong>
+          0346519821</li>
+        <li>
+          <strong>Email:</strong>
+          <a href="mailto:sunbeam.homestay.vt@gmail.com">sunbeam.homestay.vt@gmail.com</a>
+        </li>
+        <li>
+          <strong>Website:</strong>
+          <a href="https://sunbeamhomestay.com" target="_blank">sunbeamhomestay.com</a>
+        </li>
+      </ul>
+    </div>
+    <div class="contact-info">
+      <h2>Mạng Xã Hội</h2>
+      <ul>
+        <li>
+          <strong>Facebook:</strong>
+          <a href="http://www.facebook.com/sunbeamhomestay" target="_blank">Sunbeam Homestay</a>
+        </li>
+        <li>
+          <strong>Instagram:</strong>
+          <a href="https://www.instagram.com/sunbeam.homestay" target="_blank">@sunbeam.homestay</a>
+        </li>
+        <li>
+          <strong>Agoda:</strong>
+          <a
+            href="https://www.agoda.com/vi-vn/seaview-50m-from-beach-2-bedrooms-bluesea/hotel/vung-tau-vn.html?ds=kJ0zn2gFOIAcm%2FzB"
+            target="_blank">@sunbeamhomestay Agoda</a>
+        </li>
+        <li>
+          <strong>Airbnb:</strong>
+          <a href="https://airbnb.com/h/sunbeam-homestay" target="_blank">@sunbeamhomestay Airbnb</a>
+        </li>
+      </ul>
+    </div>
+  </div>
 {% endmacro %}
