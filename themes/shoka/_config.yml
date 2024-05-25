@@ -94,6 +94,7 @@ menu:
   home: / || home
   about: /about/ || user
   contact: /contact/ || heart
+  booking: /booking/ || magic
   # posts:
   #   default: / || feather
   #   archives: /archives/ || list-alt
