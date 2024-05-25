@@ -1,11 +1,6 @@
 title: Căn Hộ 90m2 Với 2 Phòng Ngủ - Hoàn Hảo Cho Kỳ Nghỉ Của Bạn
 date: 2013-12-25 00:16:18
-photos:
-
-- https://drscdn.500px.org/photo/1093681090/q%3D90_m%3D2048/v2?sig=bd6d9426ced272bc11fa5286e6b8489ca296ffd4c4c7840d5e6d66ca449c6d8f
-- https://drscdn.500px.org/photo/1093681089/q%3D80_m%3D600/v2?sig=8fec906af46b78c9f2944a6bb54307a2cff2422b09b820cfe5662a98d1227718
-- https://drscdn.500px.org/photo/1093681098/q%3D80_m%3D600/v2?sig=ca40a0018ee57099a4692afcaf0b4bba442b1fb78f6e834a9c4043b5052cc8f0
-- https://drscdn.500px.org/photo/1093681093/q%3D80_m%3D600/v2?sig=34a5a5e25279ed3dd4484b9665f4611e99cead7723740bf7ccf2fdebff58e5a2
+cover: https://drscdn.500px.org/photo/1093681098/q%3D80_m%3D600/v2?sig=ca40a0018ee57099a4692afcaf0b4bba442b1fb78f6e834a9c4043b5052cc8f0
 
 sticky: true
 

@@ -35,6 +35,20 @@
   <meta name="baidu-site-verification" content="{{ theme.baidu_site_verification }}">
 {%- endif %}
 
+{%- if theme.google_analytics %}
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-LEXRV3FWQL"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', '{{ theme.google_analytics }}');
+      </script>
+      <!-- End Google Analytics -->
+    {%- endif %}
+
 
 <link rel="alternate" type="application/rss+xml" title="{{config.title}}" href="{{ full_url_for('/rss.xml') }}" />
 <link rel="alternate" type="application/atom+xml" title="{{config.title}}" href="{{ full_url_for('/atom.xml') }}" />
