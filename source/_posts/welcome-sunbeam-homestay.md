@@ -10,6 +10,8 @@ tags:
 
 Bạn đang mơ về một kỳ nghỉ tuyệt vời với view biển thơ mộng? Sunbeam Homestay chính là điểm đến lý tưởng cho bạn! 🏖️
 
+![](https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/442495684_122110418840315348_6319460233493683558_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=34RWTT0joDQQ7kNvgEyGS1p&_nc_ht=scontent.fsgn5-14.fna&oh=00_AYAZk2BaSev0mUvra_9BrZRVmKmg4PrMN2OIw3RdwYElNw&oe=66578431)
+
 ## ✨ Điểm nổi bật của Sunbeam Homestay:
 
 ### 🌅 View Biển Tuyệt Đẹp
