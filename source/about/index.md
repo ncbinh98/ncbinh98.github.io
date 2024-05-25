@@ -46,6 +46,16 @@ Nếu bạn có bất kỳ thắc mắc hay yêu cầu đặt phòng, đừng ng
 - **Địa chỉ:** 165A Đường Thùy Vân, Phường Thắng Tam, Thành phố Vũng Tàu
 - **Điện thoại:** 0346519821
 - **Email:** sunbeam.homestay.vt@gmail.com
+- **Website:** [sunbeamhomestay.com](http://sunbeamhomestay.com)
+
+## Mạng Xã Hội
+
+Kết nối với chúng tôi qua các mạng xã hội để cập nhật những tin tức mới nhất và ưu đãi đặc biệt:
+
+- **Facebook:** [Sunbeam Homestay](http://www.facebook.com/sunbeamhomestay)
+- **Instagram:** [@sunbeam.homestay](https://www.instagram.com/sunbeam.homestay)
+- **Agoda:** [@sunbeamhomestay Agoda](https://www.agoda.com/vi-vn/seaview-50m-from-beach-2-bedrooms-bluesea/hotel/vung-tau-vn.html?ds=kJ0zn2gFOIAcm%2FzB)
+- **Airbnb:** [@sunbeamhomestay Airbnb](https://airbnb.com/h/sunbeam-homestay)
 
 Sunbeam Homestay luôn sẵn sàng chào đón bạn đến khám phá và trải nghiệm những điều tuyệt vời tại Vũng Tàu. Hãy để chúng tôi là nơi lưu giữ những kỷ niệm đẹp trong hành trình của bạn!
 

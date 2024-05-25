@@ -32,19 +32,30 @@ Luôn kết nối với internet tốc độ cao miễn phí, dù bạn đang th
 
 Tham gia các hoạt động thú vị như đi xe đạp dọc bờ biển, tản bộ hoặc tham gia các môn thể thao nước.
 
-### 🅿️ Đậu Xe Miễn Phí
-
-Chỗ đậu xe an toàn và rộng rãi cho khách hàng có phương tiện riêng.
-
 ## 📸 Đừng quên chia sẻ những bức ảnh đẹp tại Sunbeam Homestay với hashtag #SunbeamHomestay để có cơ hội nhận được những phần quà hấp dẫn!
+
+ <img src='https://drscdn.500px.org/photo/1093681073/q%3D90_m%3D2048/v2?sig=4e792a6c05728efc8b55ade970ebe8fb13b86b690cb1c3b04e50d68ca289ffd2' alt='z5435761817312_71766ff90c2508daa6bc0831b85d43fb by Sunbeam Homestay on 500px.com' />
 
 ## 📍 Địa chỉ
 
 Chung cư 22 tầng, 165A Thuỳ Vân, Thắng Tam, Vũng Tàu
 
-## 📞 Liên hệ đặt phòng
+## 📞 Liên Hệ Đặt Phòng
 
-0326130505 / 0346519821
+Hãy liên hệ với chúng tôi để đặt phòng và nhận được những ưu đãi đặc biệt:
+
+- **Điện thoại:** 0326130505 / 0346519821
+- **Email:** sunbeam.homestay.vt@gmail.com
+- **Website:** [sunbeamhomestay.com](http://sunbeamhomestay.com)
+
+## Mạng Xã Hội
+
+Kết nối với chúng tôi qua các mạng xã hội để cập nhật những tin tức mới nhất và ưu đãi đặc biệt:
+
+- **Facebook:** [Sunbeam Homestay](http://www.facebook.com/sunbeamhomestay)
+- **Instagram:** [@sunbeam.homestay](https://www.instagram.com/sunbeam.homestay)
+- **Agoda:** [@sunbeamhomestay Agoda](https://www.agoda.com/vi-vn/seaview-50m-from-beach-2-bedrooms-bluesea/hotel/vung-tau-vn.html?ds=kJ0zn2gFOIAcm%2FzB)
+- **Airbnb:** [@sunbeamhomestay Airbnb](https://airbnb.com/h/sunbeam-homestay)
 
 ## 🎉 Ưu đãi đặc biệt
 
