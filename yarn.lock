@@ -851,6 +851,11 @@ hexo-log@^4.0.1:
   dependencies:
     picocolors "^1.0.0"
 
+hexo-pagecounter@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/hexo-pagecounter/-/hexo-pagecounter-1.0.1.tgz"
+  integrity sha512-lg8+S2SbZi7zcaNg2w8VF6Vw27f7kK5dQ6dN5dJHyk2oRQlv3eR6/1D9Nn5YtiQRCLpkwelc1xDQShkfYRQ/gA==
+
 hexo-pagination@3.0.0:
   version "3.0.0"
   resolved "https://registry.npmjs.org/hexo-pagination/-/hexo-pagination-3.0.0.tgz"
