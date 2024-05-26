@@ -2,7 +2,8 @@
 title: Khám Phá Bánh Khọt Vũng Tàu – Món Ngon "Quên Lối Về" 🌊🍤
 date: 2024-05-26 11:35:14
 cover: https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/04/banh-khot-vung-tau-7.jpg
-categories: [Ẩm Thực]
+categories:
+  - [Ẩm Thực]
 tags:
 ---
 

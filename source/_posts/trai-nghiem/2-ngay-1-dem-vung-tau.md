@@ -3,7 +3,8 @@ title: 🌞Lịch Trình Du Lịch Vũng Tàu 2 Ngày 1 Đêm🌊
 date: 2024-05-26 11:35:14
 cover: https://i1-dulich.vnecdn.net/2022/07/02/Bai-Truoc-Vung-Tau-jpeg-4282-1-7949-8853-1656726927.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=UqjncBASWP8eV4B3QEmZwA
 sticky: true
-categories: [Trải Nghiệm]
+categories:
+  - [Trải Nghiệm]
 tags:
 ---
 
