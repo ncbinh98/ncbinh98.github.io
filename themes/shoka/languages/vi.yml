@@ -91,7 +91,7 @@ search:
   stats: "${hits} kết quả tìm thấy trong ${time} ms"
 
 cheers:
-  um: Ờ..
+  um: Hm...
   ok: OK
   nice: Tốt
   good: Tốt
