@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+sitemap: https://sunbeamhomestay.com/post-sitemap.xml
+sitemap: https://sunbeamhomestay.com/page-sitemap.xml
+sitemap: https://sunbeamhomestay.com/category-sitemap.xml
