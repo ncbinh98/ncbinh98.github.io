@@ -2,7 +2,7 @@
 {%- if home %}
 <div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
 <i class="ic i-home"></i>
-<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" itemprop="name"><a href="{{ url_for(site.path) }}">{{ __('menu.home') }}</a></span>
+<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a itemprop="item" rel="index" href="{{ url_for(site.path) }}"><span itemprop="name">{{ __('menu.home') }}</span></a><meta itemprop="position" content="0" /></span>
 {%- else %}
 <div class="breadcrumb">
 {%- endif %}
@@ -20,8 +20,6 @@
 <i class="ic i-angle-right"></i>
 {%- endif %}
 {%- endfor %}
-{%- else %}
-<meta itemprop="position" content="0" /></span>
 {%- endif %}
 
 </div>
