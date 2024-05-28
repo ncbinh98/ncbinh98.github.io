@@ -29,7 +29,7 @@ darkmode: false
 
 # By default the page will automatically scroll to the last viewed position
 # if `false`, automatic positioning will be turned off
-auto_scroll: true
+auto_scroll: false
 
 # Whether to show the loading cat
 loader:
