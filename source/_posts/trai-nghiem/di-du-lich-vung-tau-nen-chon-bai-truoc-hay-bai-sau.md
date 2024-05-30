@@ -1,6 +1,8 @@
 ---
 title: Đi Du Lịch Vũng Tàu - Nên Chọn Bãi Trước Hay Bãi Sau? 🏖️
 date: 2024-05-30 11:02:25
+categories:
+  - [Trải Nghiệm]
 cover: https://ik.imagekit.io/tvlk/blog/2023/09/bai-truoc-20.jpg?tr=dpr-2,w-675
 tags: [du lịch Vũng Tàu, bãi Trước, bãi Sau, bãi biển Vũng Tàu, homestay Vũng Tàu, đặt phòng homestay, bờ biển Vũng Tàu, hải sản Vũng Tàu, ngắm biển Vũng Tàu, nghỉ dưỡng Vũng Tàu, bình minh Vũng Tàu, bãi biển đẹp, bãi biển nhộn nhịp, thiên nhiên Vũng Tàu, địa điểm du lịch Vũng Tàu, món ăn Vũng Tàu, bạch tuộc Takoyaki, cổng trời Nghinh Phong, nhà hàng CSJ, Hồ Mây
 ]
