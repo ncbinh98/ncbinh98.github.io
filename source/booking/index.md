@@ -29,7 +29,7 @@ Kết nối với chúng tôi qua các mạng xã hội để cập nhật nhữ
 
 Sunbeam Homestay luôn sẵn sàng chào đón bạn đến khám phá và trải nghiệm những điều tuyệt vời tại Vũng Tàu. Hãy để chúng tôi là nơi lưu giữ những kỷ niệm đẹp trong hành trình của bạn!
 
-![](https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/442495684_122110418840315348_6319460233493683558_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=34RWTT0joDQQ7kNvgEyGS1p&_nc_ht=scontent.fsgn5-14.fna&oh=00_AYAZk2BaSev0mUvra_9BrZRVmKmg4PrMN2OIw3RdwYElNw&oe=66578431)
+![Book phòng ngày với Sunbeam](https://drscdn.500px.org/photo/1094005634/q%3D80_m%3D600/v2?sig=2e2bb6cbedd0e5eba40f94e23d3e842b30681957a9f3ff11deaac484bdbf2cc6 "Book phòng ngày với Sunbeam")
 
 ---
 
