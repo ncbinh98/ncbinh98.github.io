@@ -1,7 +1,7 @@
 ---
 title: 🌊 Chào mừng đến với Sunbeam Homestay 🌊
 date: 2024-05-24 21:34:19
-cover: https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/442475707_122107018454315348_45376187794268888_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DkeoOvUPjrEQ7kNvgFCH_OY&_nc_ht=scontent.fsgn5-8.fna&oh=00_AYADFtFvP9C-EMYq4lm4g0t4EF2sDxFHF6X1smWH0UXw_Q&oe=66568988
+cover: https://drscdn.500px.org/photo/1094005634/q%3D80_m%3D600/v2?sig=2e2bb6cbedd0e5eba40f94e23d3e842b30681957a9f3ff11deaac484bdbf2cc6
 tags:
 ---
 
@@ -9,7 +9,7 @@ tags:
 
 Bạn đang mơ về một kỳ nghỉ tuyệt vời với view biển thơ mộng? Sunbeam Homestay chính là điểm đến lý tưởng cho bạn! 🏖️
 
-![](https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/442495684_122110418840315348_6319460233493683558_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=34RWTT0joDQQ7kNvgEyGS1p&_nc_ht=scontent.fsgn5-14.fna&oh=00_AYAZk2BaSev0mUvra_9BrZRVmKmg4PrMN2OIw3RdwYElNw&oe=66578431)
+![Đặt phòng Sunbeam Homestay](https://drscdn.500px.org/photo/1094005634/q%3D80_m%3D600/v2?sig=2e2bb6cbedd0e5eba40f94e23d3e842b30681957a9f3ff11deaac484bdbf2cc6 "Đặt phòng Sunbeam Homestay")
 
 ## ✨ Điểm nổi bật của Sunbeam Homestay:
 
@@ -17,13 +17,13 @@ Bạn đang mơ về một kỳ nghỉ tuyệt vời với view biển thơ mộ
 
 Tận hưởng khung cảnh hoàng hôn rực rỡ và bình minh yên bình ngay từ ban công phòng bạn. Mỗi sáng thức dậy với tiếng sóng vỗ bờ, bạn sẽ cảm thấy như đang sống trong một bức tranh thơ mộng.
 
-![View biển tại Sunbeam Homestay](https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/442501809_122108265722315348_8283391155925981555_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DGbBzpIrHGIQ7kNvgFgIfmP&_nc_ht=scontent.fsgn5-9.fna&oh=00_AYCWXThh-Jie5yUsB397XddDPo9FC1rzNLreVvHErNVZJQ&oe=66569253)
+![View biển tại Sunbeam Homestay](https://drscdn.500px.org/photo/1094006796/q%3D80_m%3D600/v2?sig=48cdd3f977260300746ac85f9f160f042d87226334358d63794bffc60a24c935 "View biển tại Sunbeam Homestay")
 
 ### 🛏 Phòng Nghỉ Tiện Nghi
 
 Phòng ốc được thiết kế hiện đại, rộng rãi với đầy đủ tiện nghi như điều hòa, TV màn hình phẳng, và phòng tắm riêng.
 
-![Phòng nghỉ tiện nghi](https://scontent.fsgn5-8.fna.fbcdn.net/v/t39.30808-6/442475707_122107018454315348_45376187794268888_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DkeoOvUPjrEQ7kNvgFCH_OY&_nc_ht=scontent.fsgn5-8.fna&oh=00_AYADFtFvP9C-EMYq4lm4g0t4EF2sDxFHF6X1smWH0UXw_Q&oe=66568988)
+![Phòng nghỉ tiện nghi](https://drscdn.500px.org/photo/1093681090/q%3D80_m%3D600/v2?sig=24cc1dc03e1a9af5ae4652a10ef32602c27409c0f237acdfded3926fc97955b1 "Phòng nghỉ tiện nghi")
 
 ### 🌐 Wi-Fi Miễn Phí
 

@@ -2,14 +2,14 @@
 title: Sunbeam Homestay - Nơi Lưu Trú Lý Tưởng Để Khám Phá Vũng Tàu
 date: 2024-05-28 09:29:45
 tags: [khám phá Vũng Tàu, Sunbeam Homestay, địa điểm nổi tiếng Vũng Tàu, sân golf Paradise, LOTTE Mart Vũng Tàu, công viên Thỏ Trắng, chợ đêm Bãi Sau, Mũi Nghinh Phong, Tượng Chúa Kitô Vua, Hòn Bà, du lịch Vũng Tàu, nơi lưu trú Vũng Tàu, homestay Vũng Tàu, điểm đến Vũng Tàu, văn hóa Vũng Tàu, cảnh quan Vũng Tàu, vui chơi Vũng Tàu, ăn uống Vũng Tàu, mua sắm Vũng Tàu, thư giãn Vũng Tàu.]
-cover: https://scontent.fhan3-3.fna.fbcdn.net/v/t39.30808-6/445220743_122112588830315348_7376637251181618387_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ZPcyihSczIwQ7kNvgE4Rnb0&_nc_ht=scontent.fhan3-3.fna&oh=00_AYBkI73Szyz0eZncK5nqBbJxqomoaz6km-5AbA0qr6LCzA&oe=665B28B4
+cover: https://drscdn.500px.org/photo/1094005521/q%3D80_m%3D600/v2?sig=67fab24fc80e5bad0d3ffa49704a7fae5c50c5209a8a853de10d9b89f0ca1839
 ---
 
 # Sunbeam Homestay - Nơi Lưu Trú Lý Tưởng Để Khám Phá Vũng Tàu
 
 Dưới đây là hướng dẫn từ Sunbeam Homestay đến một số địa điểm không thể bỏ qua:
 
-![ban_do](https://scontent.fhan3-3.fna.fbcdn.net/v/t39.30808-6/445220743_122112588830315348_7376637251181618387_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ZPcyihSczIwQ7kNvgE4Rnb0&_nc_ht=scontent.fhan3-3.fna&oh=00_AYBkI73Szyz0eZncK5nqBbJxqomoaz6km-5AbA0qr6LCzA&oe=665B28B4 "Bản đồ điểm du lịch Vũng Tàu")
+![ban_do](https://drscdn.500px.org/photo/1094005521/q%3D80_m%3D600/v2?sig=67fab24fc80e5bad0d3ffa49704a7fae5c50c5209a8a853de10d9b89f0ca1839 "Bản đồ điểm du lịch Vũng Tàu")
 
 🏌️‍♂️ **Sân Golf Paradise (1,1KM)**
 ![san_golf_paradise](https://golfparadise.com.vn/wp-content/uploads/2023/05/background-trang-chu-1-compressed.jpg "Sân Golf Paradise")
