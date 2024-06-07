@@ -1,7 +1,7 @@
 ---
 title: Top 10 Quán Ăn Ngon Phải Thử Khi Đến Vũng Tàu 🏖️
 date: 2024-06-07 19:02:43
-cover: https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/04/banh-khot-vung-tau-7.jpg
+cover: https://cdn.tgdd.vn/Files/2021/03/25/1338146/10-mon-ngon-tai-vung-tau-ma-ban-nhat-dinh-phai-thu-202201031535002554.jpg
 categories:
   - [Ẩm Thực]
 tags:
