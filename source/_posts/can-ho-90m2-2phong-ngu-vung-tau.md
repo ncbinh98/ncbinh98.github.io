@@ -1,5 +1,5 @@
 title: Căn Hộ 90m2 Với 2 Phòng Ngủ - Hoàn Hảo Cho Kỳ Nghỉ Của Bạn
-date: 2024-07-06 23:18:26
+date: 2024-07-21 23:18:26
 cover: https://drscdn.500px.org/photo/1093681098/q%3D80_m%3D600/v2?sig=ca40a0018ee57099a4692afcaf0b4bba442b1fb78f6e834a9c4043b5052cc8f0
 
 sticky: true
@@ -20,6 +20,12 @@ Căn hộ có **2 phòng ngủ** rộng rãi, mỗi phòng đều được trang
 
 <img src='https://drscdn.500px.org/photo/1093681098/q%3D90_m%3D2048/v2?sig=76d762fbe70254646a4ec33e600df55bb3959fb9c5e28a571684d90c4fe31e58' alt='z5435761803568_23a3381ab6d2c7b70be333e199b2bc93 by Sunbeam Homestay on 500px.com' />
 
+<br/>
+
+<img src='https://drscdn.500px.org/photo/1093681095/q%3D90_m%3D2048/v2?sig=71b3e33e27db8fe91c7389a70fca47eb55d60cbd1d461e017c0ca196c316b4a7' alt='z5435761803568_23a3381ab6d2c7b70be333e199b2bc93 by Sunbeam Homestay on 500px.com' />
+<br/>
+
+<img src='https://drscdn.500px.org/photo/1093681089/q%3D90_m%3D2048/v2?sig=4b37b931da8e68c3008f6108cd03e5fbb8258883f0d6e51fd91488a95a34ffd0' alt='z5435761803568_23a3381ab6d2c7b70be333e199b2bc93 by Sunbeam Homestay on 500px.com' />
 <br/>
 
  <img src='https://drscdn.500px.org/photo/1093681072/q%3D90_m%3D2048/v2?sig=15daaffb2d502981364ac4c777d2803cfc1402e81c009b6a5053819042b78baa' alt='z5435761804985_0c82c756b23b86b38cbec82b0e49cab4 by Sunbeam Homestay on 500px.com' />
@@ -55,6 +61,9 @@ Phòng bếp được trang bị đầy đủ dụng cụ và thiết bị nấu
 <br/>
 
  <img src='https://drscdn.500px.org/photo/1093681069/q%3D90_m%3D2048/v2?sig=e26db5d55357fe9d1390413f9fd2c913066467ecfaec2657a785ceb7c83813db' alt='z5435761804314_dbaccdd35c0151fed2646b1db39b9f0a by Sunbeam Homestay on 500px.com' />
+ <br/>
+
+ <img src='https://drscdn.500px.org/photo/1093681073/q%3D90_m%3D2048/v2?sig=4e792a6c05728efc8b55ade970ebe8fb13b86b690cb1c3b04e50d68ca289ffd2' alt='z5435761804314_dbaccdd35c0151fed2646b1db39b9f0a by Sunbeam Homestay on 500px.com' />
 ## 📍 Vị Trí Tiện Lợi
 
 Căn hộ nằm tại chung cư 22 tầng, 165A Thuỳ Vân, Thắng Tam, Vũng Tàu, chỉ cách bãi tắm và chợ đêm vài phút đi bộ. Vị trí thuận lợi giúp bạn dễ dàng tiếp cận các địa điểm vui chơi, giải trí và ẩm thực nổi tiếng của thành phố.
