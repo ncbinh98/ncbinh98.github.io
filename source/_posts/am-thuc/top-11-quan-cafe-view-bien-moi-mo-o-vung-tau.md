@@ -1,6 +1,6 @@
 ---
 title: Top 11 Quán Cafe View Biển Mới Mở Ở Vũng Tàu ✨🌊
-date: 2024-07-20 21:19:28
+date: 2024-08-24 21:19:28
 cover: https://ticotravel.com.vn/wp-content/uploads/2021/05/MILLA-NAKEDSOUL-11-Nhung-quan-cafe-tai-Vung-Tau-co-view-bien-dep-het-y.jpg
 categories:
   - [Ẩm Thực]
