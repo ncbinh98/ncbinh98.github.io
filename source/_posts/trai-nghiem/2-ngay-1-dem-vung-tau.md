@@ -1,6 +1,6 @@
 ---
 title: 🌞Lịch Trình Du Lịch Vũng Tàu 2 Ngày 1 Đêm🌊
-date: 2024-12-19 11:35:14
+date: 2025-01-11 11:35:14
 cover: https://i1-dulich.vnecdn.net/2022/07/02/Bai-Truoc-Vung-Tau-jpeg-4282-1-7949-8853-1656726927.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=UqjncBASWP8eV4B3QEmZwA
 sticky: true
 categories:
@@ -10,7 +10,7 @@ tags:
 
 # Lịch Trình Du Lịch Vũng Tàu 2 Ngày 1 Đêm: Tận Hưởng Kỳ Nghỉ Hoàn Hảo 🌊🌞
 
-## Đôi Nét Về Vũng Tàu 🏖️
+## Đôi Nét Về Vũng Tàu 🏖️a
 
 Vũng Tàu, nằm cách TP. Hồ Chí Minh chỉ 125km về phía Đông Nam, là một điểm đến lý tưởng cho những chuyến đi cuối tuần. Với bờ biển dài 42km, Vũng Tàu luôn sôi động và thu hút đông đảo du khách mỗi dịp hè về. Khí hậu mát mẻ quanh năm cùng nhiều danh lam thắng cảnh đẹp mắt làm nơi đây trở thành lựa chọn hoàn hảo để "đi trốn" 🌴.
 
