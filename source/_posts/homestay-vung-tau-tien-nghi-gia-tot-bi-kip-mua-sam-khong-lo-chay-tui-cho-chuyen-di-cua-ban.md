@@ -20,7 +20,7 @@ Ngoài những siêu thị quen thuộc như Co.opmart, thì Vũng Tàu còn có
 
 ![(Cửa Hàng Tự Chọn Thành Lập)](https://global-uploads.webflow.com/60af8c708c6f35480d067652/61d270f9c96c942a9d92a492_screenshot_1641181320.png "Cửa Hàng Tự Chọn Thành Lập")
 
-* **Địa chỉ:** 11 Khả Vạn Cân, Phường 7, Vũng Tàu
+* **Địa chỉ:** 11 Kha Vạn Cân, Phường 7, Vũng Tàu
 * **Điểm cộng:** Ở đây đúng là "tất tần tật" mọi thứ bạn cần cho căn bếp nhỏ xinh của homestay hay đơn giản là nhu yếu phẩm hàng ngày. Từ mắm muối, đường bột, rau củ quả tươi ngon (nếu có), đến bánh kẹo, nước giải khát, rồi cả những món đồ gia dụng nhỏ xinh như chén bát, thìa dĩa... Giá thì khỏi bàn, "hạt dẻ" hơn nhiều so với siêu thị đó nha!
 
 ### 📍 Cửa Hàng Tự Chọn Minh Châu: Đa Dạng Mặt Hàng, Tha Hồ Lựa Chọn
