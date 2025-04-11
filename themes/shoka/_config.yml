@@ -139,7 +139,7 @@ widgets:
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  since: 2010
+  since: 2021
   icon:
     name: sakura rotate
     # Change the color of icon, using Hex Code.

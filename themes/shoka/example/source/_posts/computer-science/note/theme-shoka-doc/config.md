@@ -217,7 +217,7 @@ widgets:
 ```yml
 # 页尾全站统计
 footer:
-  since: 2010
+  since: 2021
   count: true
 
 # 文章界面统计
