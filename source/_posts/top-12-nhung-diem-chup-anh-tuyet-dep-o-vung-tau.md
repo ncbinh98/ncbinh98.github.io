@@ -1,6 +1,6 @@
 ---
 title: Top 12 Những Điểm Chụp Ảnh Tuyệt Đẹp Ở Vũng Tàu 📸
-date: 2025-01-11 22:45:25
+date: 2025-05-19 22:45:25
 tags:
   [
     Vũng Tàu,
@@ -26,6 +26,8 @@ tags:
   ]
 
 cover: https://mia.vn/media/uploads/blog-du-lich/san-lung-bai-bien-dep-o-vung-tau-it-nguoi-biet-den-02-1635564348.jpeg
+
+sticky: true
 ---
 
 ### Top 12 Những Điểm Chụp Ảnh Tuyệt Đẹp Ở Vũng Tàu 📸
