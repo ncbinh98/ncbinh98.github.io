@@ -1,6 +1,6 @@
 ---
 title: Trải Nghiệm Tượng Đài Chúa Kitô Vua Vũng Tàu - Hướng Dẫn Chi Tiết và Kinh Nghiệm
-date: 2024-05-27 06:35:14
+date: 2025-07-27 06:35:14
 cover: https://ik.imagekit.io/tvlk/blog/2023/01/tuong-dai-chua-kito-vua-1.jpg?tr=dpr-2,w-675
 categories:
   - [Trải Nghiệm]
