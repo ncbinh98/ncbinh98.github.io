@@ -1,6 +1,6 @@
 ---
 title: Vũng Tàu 48H - Kinh Nghiệm "oanh tạc" Homestay View Biển Cực Chill!
-date: 2025-10-01 11:02:25
+date: 2025-11-01 11:02:25
 categories:
   - [Trải Nghiệm]
 cover: https://i1-dulich.vnecdn.net/2024/05/03/Vung-Tau-6034-1714726487.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=WLkXKd2z8hZXTTJJAJVW2w
