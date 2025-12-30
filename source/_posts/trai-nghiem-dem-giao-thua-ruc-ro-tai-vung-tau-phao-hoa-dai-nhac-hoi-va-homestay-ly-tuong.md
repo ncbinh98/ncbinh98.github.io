@@ -1,6 +1,6 @@
 ---
 title: Đêm Giao Thừa Rực Rỡ Tại Vũng Tàu Với Pháo Hoa Và Đại Nhạc Hội🎆
-date: 2025-01-12 11:02:25
+date: 2023-01-01 11:02:25
 categories:
   - [Trải Nghiệm]
 cover: https://www.baobariavungtau.com.vn/dataimages/202501/original/images1992967_ban_phao_hoa.jpg

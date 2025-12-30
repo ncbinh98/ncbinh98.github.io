@@ -45,7 +45,7 @@ Từ khóa: homestay Vũng Tàu, mua sắm Vũng Tàu, đồ dùng gia đình gi
 
 Hãy liên hệ với chúng tôi để đặt phòng và nhận được những ưu đãi đặc biệt:
 
-- **Điện thoại:** 0326130505 / 0346519821
+- **Điện thoại:**   0346519821
 - **Email:** sunbeam.homestay.vt@gmail.com
 - **Website:** [sunbeamhomestay.com](http://sunbeamhomestay.com)
 

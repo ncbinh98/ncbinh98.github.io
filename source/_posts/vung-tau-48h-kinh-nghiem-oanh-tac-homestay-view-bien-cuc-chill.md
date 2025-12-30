@@ -1,13 +1,13 @@
 ---
 title: Vũng Tàu 48H - Kinh Nghiệm "oanh tạc" Homestay View Biển Cực Chill!
-date: 2025-11-01 11:02:25
+date: 2025-30-12 11:02:25
 categories:
   - [Trải Nghiệm]
 cover: https://i1-dulich.vnecdn.net/2024/05/03/Vung-Tau-6034-1714726487.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=WLkXKd2z8hZXTTJJAJVW2w
 tags: [Vũng Tàu, du lịch Vũng Tàu, homestay Vũng Tàu, khách sạn Vũng Tàu, ăn uống Vũng Tàu, địa điểm du lịch Vũng Tàu, biển Vũng Tàu, bánh khọt Vũng Tàu, hải sản Vũng Tàu, tượng Chúa Kito Vũng Tàu, Bạch Dinh Vũng Tàu, làng bè Long Sơn, chợ đêm Vũng Tàu, Gành Hào, Hạ Long, Trần Phú, Thùy Vân, Núi Nhỏ, mũi Nghinh Phong, Hồ Mây
 ]
 
-sticky: true
+sticky: false
 ---
 
 ## Vũng Tàu 48H: Kinh Nghiệm "oanh tạc" Homestay View Biển Cực Chill!
@@ -94,7 +94,7 @@ Chúc bạn có một chuyến đi Vũng Tàu thật vui vẻ và đáng nhớ!
 
 Hãy liên hệ với chúng tôi để đặt phòng và nhận được những ưu đãi đặc biệt:
 
-- **Điện thoại:** 0326130505 / 0346519821
+- **Điện thoại:**   0346519821
 - **Email:** sunbeam.homestay.vt@gmail.com
 - **Website:** [sunbeamhomestay.com](http://sunbeamhomestay.com)
 
