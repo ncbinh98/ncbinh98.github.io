@@ -1,0 +1,629 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link [ref=e8] [cursor=pointer]:
+          - /url: /vi-vn
+          - img [ref=e9]
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e14] [cursor=pointer]:
+              - img [ref=e16]
+              - generic [ref=e19]: VND | VI
+              - img [ref=e20]
+            - link "Khuyến mãi" [ref=e23] [cursor=pointer]:
+              - /url: https://www.traveloka.com/vi-vn/promotion
+              - img [ref=e25]
+              - generic [ref=e26]: Khuyến mãi
+            - link "Hợp tác với chúng tôi" [ref=e28] [cursor=pointer]:
+              - /url: /vi-vn/partnership
+              - generic [ref=e29]: Hợp tác với chúng tôi
+            - generic [ref=e32] [cursor=pointer]:
+              - generic [ref=e34]: Hỗ trợ
+              - img [ref=e36]
+            - link "Đặt chỗ của tôi" [ref=e39] [cursor=pointer]:
+              - /url: /vi-vn/retrieve
+              - generic [ref=e40]: Đặt chỗ của tôi
+          - generic [ref=e41]:
+            - button "Đăng Nhập" [ref=e42] [cursor=pointer]:
+              - generic [ref=e43]:
+                - generic [ref=e44]: Đăng Nhập
+                - img [ref=e46]
+            - button "Đăng ký" [ref=e49] [cursor=pointer]:
+              - generic [ref=e51]: Đăng ký
+      - generic [ref=e55]:
+        - link "Khách sạn" [ref=e56] [cursor=pointer]:
+          - /url: /vi-vn/hotel
+          - generic [ref=e57]: Khách sạn
+        - link "Vé máy bay" [ref=e58] [cursor=pointer]:
+          - /url: /vi-vn/flight
+          - generic [ref=e59]: Vé máy bay
+        - link "Vé xe khách" [ref=e60] [cursor=pointer]:
+          - /url: /vi-vn/bus-and-shuttle
+          - generic [ref=e61]: Vé xe khách
+        - link "Đưa đón sân bay" [ref=e62] [cursor=pointer]:
+          - /url: /vi-vn/airport-transfer
+          - generic [ref=e63]: Đưa đón sân bay
+        - link "Cho thuê xe" [ref=e64] [cursor=pointer]:
+          - /url: /vi-vn/car-rental
+          - generic [ref=e65]: Cho thuê xe
+        - link "Hoạt động & Vui chơi" [ref=e66] [cursor=pointer]:
+          - /url: /vi-vn/activities
+          - generic [ref=e67]: Hoạt động & Vui chơi
+        - generic [ref=e70] [cursor=pointer]:
+          - generic [ref=e71]: More
+          - img [ref=e73]
+    - generic [ref=e76]:
+      - generic [ref=e79]:
+        - generic [ref=e81]:
+          - img [ref=e82]
+          - generic [ref=e86]:
+            - link "traveloka Explore" [ref=e87] [cursor=pointer]:
+              - /url: /vi-vn/explore
+            - link "/ destinations" [ref=e88] [cursor=pointer]:
+              - /url: /vi-vn/explore/destinations
+        - heading "1001 lí do để Vũng Tàu xứng đáng là nơi gửi gắm tuổi thanh xuân" [level=1] [ref=e89]
+        - generic [ref=e90]:
+          - generic [ref=e92]:
+            - img [ref=e93]
+            - generic [ref=e94]: Traveloka VN
+            - generic [ref=e95]: 19 thg 8 2021 - Đọc trong khoảng 16 phút
+          - generic [ref=e97]:
+            - button "facebook" [ref=e99]:
+              - img [ref=e101]
+            - button "twitter" [ref=e103]:
+              - img [ref=e105]
+            - img [ref=e108] [cursor=pointer]
+            - img [ref=e118] [cursor=pointer]
+      - generic [ref=e121]:
+        - generic [ref=e123]:
+          - img [ref=e125]
+          - generic [ref=e126]:
+            - paragraph [ref=e129]:
+              - generic [ref=e130]: Thành phố biển Vũng Tàu là điểm đến không còn xa lạ với các tín đồ du lịch. Những ngày nghỉ lễ, chúng tớ đã chuyến khám phá Vũng Tàu đầy thú vị, hấp dẫn. Để tớ kể cho các bạn nghe 1001 lí do để Vũng Tàu xứng đáng là nơi để gửi gắm cả tuổi thanh xuân tươi đẹp bên những người bạn của mình nhé! Hãy theo chân chúng tớ nào trong hành trình khám phá Vũng Tàu có gì chơi trong 2 ngày 1 đêm nhé!
+            - paragraph [ref=e134]: Thanh xuân ở Vũng Tàu.
+            - paragraph [ref=e137]: Nằm cách thành phố Hồ Chí Minh khoảng 100 km, Vũng Tàu được mệnh danh là thành phố biển đẹp nhất nhì phía Nam. Để tới Vũng Tàu, chúng tớ chọn phương tiện xe khách để tiết kiệm thời gian và “dành sức” để chơi đó bạn. Hơn 1 giờ đồng hồ là chúng tớ đã đặt chân tới thành phố biển xinh đẹp này rồi. Lần đầu tiên tới Vũng Tàu, thành phố đã làm chúng tớ “yêu ngay từ cái nhìn đầu tiên” bởi những bờ biển xanh sóng vỗ, bởi không khí trong lành nơi biển khơi, bởi những điểm du lịch hấp dẫn, bởi những quán cà phê siêu xinh,...
+            - 'heading "Lí do 1: Cây cô đơn ở bãi Dứa mộng mơ" [level=2] [ref=e139]'
+            - paragraph [ref=e142]: Bãi Dứa (hay còn gọi là Bãi Lãng Du) nằm ở giữa Bãi Trước và Bãi Sau, phía Tây núi Nhỏ, gần mũi Nghinh Phong. Bãi Dứa là một trong những bãi biển đẹp nhất Vũng Tàu và thu hút nhiều khách du lịch đến Vũng Tàu. Cái tên bãi Dứa xuất phát từ những cây dứa dại - một loại thảo mộc có gai, có hương thơm như gạo nếp hoặc gạo nàng hương tỏa hương thơm ngát một vùng - mọc rất nhiều ở những triền núi nhô ra biển. Ngoài ra, bãi biển còn có tên gọi khác là Bãi Lãng Du do một chủ kinh doanh đặt tên cho bãi tắm mình quản lý tại đây.
+            - generic [ref=e143]:
+              - img "vũng tàu có gì chơi-bãi dứa" [ref=e144]
+              - paragraph [ref=e147]: Bãi Dứa buổi chiều.
+            - paragraph [ref=e150]: Chúng tớ ghé bãi Dứa vào buổi chiều, hôm ý trời nắng vàng ươm. Những cây dứa dại hay làn nước biển dưới vạt nắng trở nên rực rỡ hơn rất nhiều. Người dân gần đây bảo ngắm hoàng hôn trên biển bãi Dứa là khoảnh khắc mà khách du lịch không nên bỏ lỡ. Chúng tớ không được ngắm nhìn khoảnh khắc cuối ngày đó vì 5 giờ chiều, trời cơn mưa nhưng bù lại, cảnh sắc bãi Dứa khi ấy làm lòng tớ xốn xang làm sao!
+            - generic [ref=e151]:
+              - img "vũng tàu có gì chơi-bãi dứa" [ref=e152]
+              - paragraph [ref=e155]: Màu xanh của nước biển và bầu trời.
+            - generic [ref=e156]:
+              - img "vũng tàu có gì chơi-bãi dứa" [ref=e157]
+              - paragraph [ref=e160]: Bức ảnh thanh xuân.
+            - generic [ref=e161]:
+              - img "vũng tàu có gì chơi-bãi dứa" [ref=e162]
+              - paragraph [ref=e165]: Cảnh đẹp như “ở bển”.
+            - paragraph [ref=e168]: Đi tản bộ dưới bãi đá, chúng tớ bắt gặp cái cây cô đơn đang vươn mình ra biển. Dứa dại mọc trên đá. Bầu trời xanh, nước biển xanh,... Chúng tớ không quên lưu lại những bức hình thanh xuân ở bãi Dứa.
+            - 'heading "Lí do 2: Ngọn hải đăng lâu đời nhất Đông Nam Á" [level=2] [ref=e170]'
+            - paragraph [ref=e173]: Tọa lạc trên đỉnh núi Nhỏ (hay còn gọi là núi Tương Phùng), thuộc thành phố Vũng Tàu, hải đăng Vũng Tàu nằm ở độ cao 170 m so với mực nước biển. Đây là một trong những ngọn hải đăng có lịch sử lâu đời nhất Việt Nam cũng như trong khu vực Đông Nam Á.
+            - generic [ref=e174]:
+              - img "vũng tàu có gì chơi-hải đăng vũng tàu" [ref=e175]
+              - paragraph [ref=e178]: Từ ngọn hải đăng nhìn ra tượng Chúa Kito.
+            - paragraph [ref=e181]: Chúng tớ tham quan ngọn hải đăng - biểu tượng của thành phố biển - vào buổi chiều. Con đường đèo dốc lên dốc xuống dẫn tớ tới điểm du lịch hấp dẫn của Vũng Tàu - ngọn hải đăng. Điều đặc biệt của hải đăng Vũng Tàu không chỉ là kiến trúc cổ kính mà còn là view ngắm trọn vẹn thành phố biển từ trên cao.
+            - generic [ref=e182]:
+              - img "vũng tàu có gì chơi-hải đăng vũng tàu" [ref=e183]
+              - paragraph [ref=e186]: Bức ảnh thanh xuân thứ hai.
+            - generic [ref=e187]:
+              - img "vũng tàu có gì chơi-hải đăng vũng tàu" [ref=e188]
+              - paragraph [ref=e191]: Từ dưới nhìn lên hải đăng.
+            - paragraph [ref=e194]: Được thiết kế với kiến trúc hình trụ cao 18 m, có đường kính 3 m, hải đăng có màu sơn trắng. Vì lên muộn nên khi ấy chúng tớ không lên được ngọn hải đăng, lời khuyên dành cho bạn là hãy ghé tham quan địa điểm này sớm nhé!
+            - 'heading "Lí do 3: Ngồi ngắm biển dài nhất Vũng Tàu vào sáng sớm" [level=2] [ref=e196]'
+            - paragraph [ref=e199]: Trong những bãi biển tại Vũng Tàu, Bãi Sau - Bãi Thùy Vân là bãi biển dài nhất của Vũng Tàu (8 km) và cũng là bãi biển đắt khách nhất Vũng Tàu với hàng trăm khách sạn, nhả nghỉ từ nhỏ lẻ đến sang trọng, cùng hệ thống dịch vụ phong phú và đa dạng. Bãi Sau được ưa thích bởi cả dân địa phương và khách du lịch là vì bãi biển đẹp, có góc nhìn xa xa ra Hòn Bà, và an toàn hơn hẳn Bãi Trước do bãi cát đều, thoai thoải.
+            - generic [ref=e200]:
+              - img "vũng tàu có gì chơi-bãi sau-bãi thùy vân"
+              - paragraph [ref=e203]: Đợi bình minh lên.
+            - generic [ref=e204]:
+              - img "vũng tàu có gì chơi-bãi sau-bãi thùy vân"
+              - paragraph [ref=e207]: Người dân đi tập thể dục.
+            - generic [ref=e208]:
+              - img "vũng tàu có gì chơi-bãi sau-bãi thùy vân"
+              - paragraph [ref=e211]: Khung cảnh bình yên.
+            - generic [ref=e212]:
+              - img "vũng tàu có gì chơi-bãi sau-bãi thùy vân"
+              - paragraph [ref=e215]: Trên bờ biển.
+            - 'heading "Lí do 4: Cổng Trời nơi hạ giới" [level=2] [ref=e217]'
+            - paragraph [ref=e220]: Cổng trời tọa lạc tại Khu du lịch Mũi Nghinh Phong, số 1 đường Hạ Long, thành phố Vũng Tàu, ngay gần cung đường đến tượng Chúa dang tay. Mới nổi lên cách đây 1 năm, giờ đây Cổng Trời đã là tọa độ check-in không thể bỏ qua khi tới thành phố. Cổng Trời thần kì màu vàng này mở ra trước mắt bạn bức tranh biển cả mênh mông hòa cùng màu trời xanh thanh thiên.
+            - generic [ref=e221]:
+              - img "vũng tàu có gì chơi-Cổng Trời"
+              - paragraph [ref=e224]: Cổng Trời nhìn ra biển.
+            - generic [ref=e225]:
+              - img "vũng tàu có gì chơi-Cổng Trời"
+              - paragraph [ref=e228]: Đẹp như một bức tranh.
+            - paragraph [ref=e231]: Chỉ cần đứng vào Cổng Trời nơi hạ giới này, bạn sẽ ngay những shoot hình siêu “nghệ” đó! Thêm một lí do cho bạn tới Vũng Tàu rồi phải không nào?
+            - 'heading "Lí do 5: Mũi Nghinh Phong “độc nhất vô nhị”" [level=2] [ref=e233]'
+            - paragraph [ref=e236]: Mũi Nghinh Phong là mũi đất vươn dài phía Nam bán đảo Vũng Tàu. Nghinh Phong có nghĩa là đón gió, địa điểm này đón gió 4 mùa và vươn dài ra biển tạo hai Vịnh lớn và hai bãi tắm nổi tiếng là bãi Vọng Nguyệt (hay Ô Quắn) - bãi Hương Phong (hay bãi Dứa).Nếu bạn gõ tìm kiếm trên mạng Mũi Nghinh Phong - Vũng Tàu khi hiện trên đó là những bức hình phong cảnh sơn thủy hữu tình, đặc biệt là những nấc thang nằm giữa màu xanh của cỏ cây trông rất hút mắt.
+            - generic [ref=e237]:
+              - img "vũng tàu có gì chơi-mũi nghinh phong"
+              - paragraph [ref=e240]: Bức ảnh thanh xuân thứ 3.
+            - paragraph [ref=e243]: "Chúng tớ tới khu du lịch này và tìm kiếm những gì như đã thấy trong “ảnh mạng” nhưng theo lời chú bảo vệ, để ra được đó thì phải đi qua quán cà phê bỏ hoang mà giờ đây, vì sự an toàn nên quán đã bị cấm vào hoàn toàn. Bù lại đó, chúng tớ được ngắm nhìn bãi Vọng Nguyệt với làn nước rất trong và sạch. Bạn lưu ý nhé: Sóng ở đây lớn và xoáy nên bạn chỉ nên tới đây hóng gió chứ đừng tắm đó!"
+            - 'heading "Lí do 6: Điều ước ở tượng Chúa dang tay" [level=2] [ref=e245]'
+            - paragraph [ref=e248]: Tượng Chúa Kito (còn gọi là tượng Chúa dang tay) tọa lạc trên đỉnh núi Tao Phùng cao 176 m. Người ta bảo nếu đứng trên cánh tay Chúa cầu nguyện thì mọi điều ước chân chính đều trở thành hiện thực. Phải chăng vì lí do đó mà rất nhiều khách du lịch tới đây, đặc biệt là những cặp đôi yêu nhau.
+            - generic [ref=e249]:
+              - img "vũng tàu có gì chơi-Tượng chúa Kito"
+              - paragraph [ref=e252]: Tượng chúa Kito.
+            - paragraph [ref=e255]: Để hiện thực hóa ước mơ của mình, bạn sẽ phải leo qua 777 bậc đá để tới điểm đến. Chúng tớ leo lên tượng Chúa vào buổi trưa nắng, lúc mỏi chân thì mấy đứa ngồi ghế đá nghỉ ngơi một xíu rồi đi tiếp. Khung cảnh hai bên đường với những cây hoa sứ thơm thoang thoảng như làm xua đi nỗi mệt của mấy đứa.
+            - generic [ref=e256]:
+              - img "vũng tàu có gì chơi-Tượng chúa Kito"
+              - paragraph [ref=e259]: Chỗ nghỉ chân.
+            - generic [ref=e260]:
+              - img "vũng tàu có gì chơi-Tượng chúa Kito"
+              - paragraph [ref=e263]: Buổi trưa nắng.
+            - paragraph [ref=e266]: Vì không tìm hiểu kĩ nên chúng tớ lên tới nơi, tượng Chúa đã đóng cửa nên lời khuyên dành cho bạn là hãy lên trước 12 giờ trưa và sau 2 giờ chiều để có thể vào bên trong tượng Chúa, đứng trên cánh tay của Chúa để ngắm nhìn cảnh biển Vũng Tàu nên thơ nhé!
+            - paragraph [ref=e269]:
+              - strong [ref=e270]: Tham khảo thêm các bí kíp oanh tạc Vũng Tàu dưới đây bạn nha!
+            - generic [ref=e271]:
+              - link "Khám Phá Hết Những Địa Điểm Check-in Vũng Tàu Nổi Tiếng Chỉ Với 50.000 VND" [ref=e278] [cursor=pointer]:
+                - /url: https://www.traveloka.com/vi-vn/explore/destination/check-in-het-vung-tau-2-ngay-1-dem/58767?funnel_source=content_article&funnel_id=WP_58859
+                - strong [ref=e279]: Khám Phá Hết Những Địa Điểm Check-in Vũng Tàu Nổi Tiếng Chỉ Với 50.000 VND
+              - link "Rủ Đám Bạn Cuối Tuần Đi Cắm Trại Tại 4 Địa Điểm “Xinh Lung Linh\" Ở Vũng Tàu" [ref=e286] [cursor=pointer]:
+                - /url: https://www.traveloka.com/vi-vn/explore/destination/doi-gio-voi-4-dia-diem-cam-trai-vung-tau-gan-sai-gon/58455?funnel_source=content_article&funnel_id=WP_58859
+                - strong [ref=e287]: Rủ Đám Bạn Cuối Tuần Đi Cắm Trại Tại 4 Địa Điểm “Xinh Lung Linh" Ở Vũng Tàu
+              - link "Thực Đơn Cho Nhóm Bạn Đi Vũng Tàu 2 Ngày 1 Đêm Chưa Biết Ăn Gì" [ref=e294] [cursor=pointer]:
+                - /url: https://www.traveloka.com/vi-vn/explore/destination/an-gi-o-vung-tau/58857?funnel_source=content_article&funnel_id=WP_58859
+                - strong [ref=e295]: Thực Đơn Cho Nhóm Bạn Đi Vũng Tàu 2 Ngày 1 Đêm Chưa Biết Ăn Gì
+              - link "Vác \"Chiếc Bụng Đói\" Và 300.000 VND Oanh Tạc Hàng Quán Vũng Tàu" [ref=e302] [cursor=pointer]:
+                - /url: https://www.traveloka.com/vi-vn/explore/activities/goi-y-quan-an-ngon-vung-tau/59052?funnel_source=content_article&funnel_id=WP_58859
+                - strong [ref=e303]: Vác "Chiếc Bụng Đói" Và 300.000 VND Oanh Tạc Hàng Quán Vũng Tàu
+            - 'heading "Lí do 7: Những quán cà phê thú vị" [level=2] [ref=e305]'
+            - heading "Hãy ngồi ở “Nhà Cà Phê”" [level=3] [ref=e307]
+            - paragraph [ref=e310]: Nằm ở số 5 đường Ba Cu, Phường 1, TP. Vũng Tàu, The Coffee House là chuỗi cà phê không còn xa lạ với các bạn trẻ. Là một tín đồ của “Nhà cà phê”, tất nhiên tớ không thể không ghé The Coffee House Vũng Tàu rồi! Ấn tượng của tớ là đây là quán cà phê đẹp nhất trong chuỗi The Coffee House tớ đã ghé qua
+            - generic [ref=e311]:
+              - img "vũng tàu có gì chơi-The coffee house vũng tàu"
+              - paragraph [ref=e314]: Quán được decor siêu đẹp.
+            - generic [ref=e315]:
+              - img "vũng tàu có gì chơi-The coffee house vũng tàu"
+              - paragraph [ref=e318]: Màu xanh của cây cối.
+            - paragraph [ref=e321]: Quán có hai tầng với nhiều không gian ngồi khác nhau, được chú trọng vào khâu trang trí nên từng góc của “Nhà cà phê” đều rất xinh, “lên hình” thì đẹp miễn bàn nhé! Nếu không thích không gian trong nhà, bạn có thể chọn không gian ngoài trời thoáng đãng và yên tĩnh. Những ô cửa kính trong suốt nhìn ra lùm cây xanh rì, giàn hoa giấy đang nở rộ,... đẹp như một khúc tình tự vậy! Gọi cho mình một ly trà đen macchiato vàcà phêsữa đá, chúng tớ ngồi một góc trò chuyện và ngắm con phố bình yên qua ô cửa.
+            - generic [ref=e322]:
+              - img "vũng tàu có gì chơi-The coffee house vũng tàu"
+              - paragraph [ref=e325]: Đồ uống của chúng tớ.
+            - heading "Hãy uống một chai bia lạnh ở Milla Nakedsoul" [level=3] [ref=e327]
+            - paragraph [ref=e330]: Trước khi đi Vũng Tàu, chúng tớ đã bảo trước với nhau nhất định phải ngắm hoàng hôn ở Milla Nakedsoul - quán bar, cafe nằm ven biển. Nhưng do thành phố quy hoạch đất nên quán chuyển sang địa chỉ mới ở số 151 Ba Cu, TP. Vũng Tàu. Milla “mới” nằm trong một con ngõ nhỏ với khoảnh sân mát mẻ kê vài bộ bàn ghế gỗ thô mộc, với không gian “trong nhà” giản dị cùng bức tường đậm hơi thở biển khơi, với tường menu độc đáo,...
+            - generic [ref=e331]:
+              - img "vũng tàu có gì chơi-Milla nakedsoul"
+              - paragraph [ref=e334]: Milla mới chuyển địa điểm.
+            - generic [ref=e335]:
+              - img "vũng tàu có gì chơi-Milla nakedsoul"
+              - paragraph [ref=e338]: Menu của quán.
+            - generic [ref=e339]:
+              - img "vũng tàu có gì chơi-Milla nakedsoul"
+              - paragraph [ref=e342]: Bức tường đậm chất biển khơi.
+            - paragraph [ref=e345]: Milla không có view biển ngắm hoàng hôn đẹp như trước nhưng vẫn cho người tới kẻ đi những cung bậc cảm xúc mà chỉ có tới Milla mới có được. Chúng tớ qua quán vào buổi chiều tối. Khi ấy Milla đã lên đèn, gọi vài chai bia lạnh cùng đồ ăn vặt, mấy đứa ngồi trò chuyện rồi để những bài hát phát lên từ chiếc loa đưa chúng tớ đi hết từ cung bậc cảm xúc này sang cung bậc cảm xúc khác.
+            - generic [ref=e346]:
+              - img "vũng tàu có gì chơi-Milla nakedsoul"
+              - paragraph [ref=e349]: Một chầu bia.
+            - generic [ref=e350]:
+              - img "vũng tàu có gì chơi-Milla nakedsoul"
+              - paragraph [ref=e353]: Ánh đèn lung linh.
+            - heading "Hãy chơi một bản nhạc ở Bohemiens" [level=3] [ref=e355]
+            - paragraph [ref=e358]: Nằm ở số 155/2 đường Ba Cu, phường 4, TP. Vũng Tàu, Bohemiens là một quán cà phê mang phong cách như chính cái tên của quán. Vì nằm trong con ngõ nhỏ nên quán rất yên tĩnh, thích hợp cho những bạn muốn tìm nơi “đi trốn” khỏi những bộn bề, lo toan của cuộc sống.
+            - generic [ref=e359]:
+              - img "vũng tàu có gì chơi-Bohemiens"
+              - paragraph [ref=e362]: Cậu bạn chơi đàn.
+            - paragraph [ref=e365]: Quán có 2 tầng và không quá rộng, chúng tớ ghé buổi sáng trong tuần nên Bohemiens vẫn thưa khách. Bên trong quán được trang trí khá nhiều những vật dụng cổ như những chiếc ti vi đời đầu, máy may, máy chụp hình,... cho bạn cảm giác như đang trên chuyến tàu trở lại tuổi thơ ấu.
+            - generic [ref=e366]:
+              - img "vũng tàu có gì chơi-Bohemiens"
+              - paragraph [ref=e369]: Một góc nhỏ của quán.
+            - paragraph [ref=e372]: Phía bên ngoài ban công nhỏ xinh tầng 2 là chỗ chúng tớ ngồi. Bức tường ban công được sơn màu vàng và trang trí mang phong cách biển khơi. Gọi cà phê sữa, chúng tớ ngồi nghe cậu bạn chơi đàn, lời ca tiếng nhạc vang lên như tiếp thêm niềm vui vào lòng mỗi đứa. Bohemiens có thức uống khá độc đáo với giá cả rất “hạt dẻ”, dao động từ 15.000 – 35.000 VND tùy loại.
+            - generic [ref=e373]:
+              - img "vũng tàu có gì chơi-Bohemiens"
+              - paragraph [ref=e376]: Ban công siêu xinh.
+            - generic [ref=e377]:
+              - img "vũng tàu có gì chơi-Bohemiens"
+              - paragraph [ref=e380]: Cà phê sữa đá.
+            - paragraph [ref=e383]: Ngần ấy lí do đã đủ để trả lời Vũng Tàu có gì chơi, đủ để Vũng Tàu xứng đáng là nơi bạn gửi gắm cả tuổi thanh xuân chứ? Xách balo và tới ngay thành phố biển xinh đẹp này thôi nào!
+            - paragraph [ref=e386]:
+              - strong [ref=e387]:
+                - emphasis [ref=e388]: "Tác giả: Dương Hải Ly"
+              - strong [ref=e390]: "* Bài viết tham gia chương trình Traveloka Golocal"
+            - paragraph [ref=e394]:
+              - text: "Traveloka Golocal là chương trình viết blog giới thiệu những địa điểm đẹp trên khắp đất nước Việt Nam. Đây là cơ hội tuyệt vời để quảng bá du lịch địa phương đến mọi người. Với mỗi bài viết đạt yêu cầu bạn sẽ nhận ngay 800.000 VND và cơ hội làm Cộng tác viên với Traveloka. Thông tin chi tiết về chương trình xem tại:"
+              - link "https://www.traveloka.com/vi-vn/golocal" [ref=e395] [cursor=pointer]:
+                - /url: https://www.traveloka.com/vi-vn/golocal?funnel_source=content_article&funnel_id=WP_58859
+          - generic [ref=e397]:
+            - paragraph [ref=e400]: "Tags:"
+            - paragraph [ref=e406] [cursor=pointer]: du lich vung tau
+            - paragraph [ref=e412] [cursor=pointer]: kinh nghiem du lich vung tau
+            - paragraph [ref=e418] [cursor=pointer]: traveloka golocal
+            - paragraph [ref=e424] [cursor=pointer]: vung tau
+        - generic [ref=e425]:
+          - generic [ref=e428]:
+            - generic [ref=e429]:
+              - heading "Khách sạn được du khách ưa chuộng" [level=3] [ref=e430]
+              - generic [ref=e431]:
+                - img [ref=e433]
+                - img [ref=e436]
+            - link "Seaview Hotel Long Hai • 8.5/10 Long Hải 371.429 VND 354.528 VND" [ref=e438] [cursor=pointer]:
+              - /url: https://www.traveloka.com/vi-vn/hotel/detail?spec=14-06-2026.15-06-2026.1.1.HOTEL.3000010021931.Seaview%20Hotel%20Long%20Hai.1&contexts=%7B%22sourceHotelDetail%22%3A%22MERCHANDISING_SEARCH%22%2C%22inventoryRateKey%22%3A%22r%2F4%2FIbSpsApptn70HsOVHP1%2Bi1SHhkRa3idkrzICNj4dEvvW%2BsMTfF0LL0XINC9JeLVoMCwqM8FSpFmcLyRTwPsiEbiy2n3yBgneU5TLRjIa7aLchboS7wdNkBRjAqgQ9FjFhBfiBh7PzsdvTXIfGF4T2LjQ3X2YfYehSp%2BVq2vPt6C41bjAhgCLkFy1ZVMI%2FN%2BL2QYGhYTBeb4hABTwY2KtQ%2Fkf%2Fc2FSgqB%2Frrap%2BDDIoR2pl7IH7WdQ6r4ib6bCDk3KyjCIm7Kpf07sSQD8jECzk5btk93d03A2JK4FNf3Jn8Ua%2BuWEdx%2FrWFbVPIpG4vznd%2F1QnzauIJdRZ5GrZsKmTBcy0AU7nO6ePb51eGUrB8p2PShM8RJTUH9V0T%2Bucfec%2FAjm%2Bcm%2FHc%2F8TlP6lNoh2SjIYlldvlF2NnTIqbWOFKKuCcqgn7aYazdXijNWiOtpx7Iqs1Ga8ljcLgBE2%2BbOkoHcgnJx0Jx39M%2B%2F3FaI62nHsiqzUZryWNwuAETFEyNjhEfyeD9qP4iOjhvCn%2BdQpdNJ5Ui6adFx0wQ6YH65C6QqaSCXeObwvxM9VhQVEbFjxW5%2F2EtiBLoVWJpbCrG53ANDaQSxM%2FpII6buPZjLLlRj%2FlvBE2AueLz0xVi1e6D6pqWqRzub%2FiTreEo%2BxfMBn5EM%2BKkMI67cGXLgvFgFAAG9yrr8pK2W2oE6a%2FY9J9R2kjaGQlWV4hSPHs1doJOe%2F02ZkrN2WLYrGdQ%2BlCzCqvKhiWl0UJUwrmXOHn4DSVzabFEM1Ddmvd5ydt6NQM1OVXOCEwRFtZm6qIgy8ztbwtOxyLL4mM8B8rgzbVQyLkhdeCz2hIL7RRCWnzld%2BggB40ysclGVcCZOFIq%2BFz1bT%2BaecNhQ32u9Vxk85CRL9gTiWKlbhy%2B4TiptpzzQRaUM6NNF9VHoGePWaz7KCbwyfCbWc%2Fl%2FsLQOkuh29walviMLIRByoTblrpnKwd9g%2BpFpmg7RK3Qt0NWZjDG3uTetsVpgqD51k2%2F8c9okzZyT2k0qFwC9VEcDldApeKvor0TRCBLZrcu65YNN8%2FD99ml%2B9b2XOHFOiiSaq3l9zGNLi08nWXaf7zYiiWBtE9b4eWIRBFGidII2hvVIRC3oBfYg376RWHlsj5lDoXeMYBonS%2BFqzXK7RHFNOmK0cyigUSyVH6J5yn14bXbcHVCUFKDwOFtBPyjt1S9cjXpevmzjHkQSPrHNoBUcGrQq8aQ5rC5q5lVgE%2Fqc2p9RnQe0EeKwDDtfDob1FUDgtm4gUprjihoBQawZhtPvuRdgHQWFaqkYF4sCOwPOXwBFUAAkxup2F7sfEp%2FUCqCKNWVUhHn9RU5kxzj7FlgXYWCln3pY0t%2Bs8e0fPbibEi3VebPJfiI6W296For8Nzklp%2BX2Wvha0fFDbdRvKzYx88ocPVYUCcb%2FtY2cjhzAJLGYdL0ARHQZ9gpK%2BLwSxY7U9ZDpZQOsjbLsHA6Kkfj1v6p%2BLoB1b4xbc8Zb90AYHNVy5xPxSPOPCDfZ9MQrKK17AZ8FSBSokJVtnCc21kHsfgFiQ7txyB5FkGw7mwFxdP8blyFKTfxe3oHVmcGqy%2BqHaO%2BtDwL6tOyUQJdX6hRZjLTpLC1brzs0uvOXjQOaZBjSabsbCoj3PqLznVAg47KVXJ2MBoL3Uaqjji27h4KZieWD5hfaN9ioPWPbSDvgWxPa0H6M4YWKPfSvkEHBYFYPIQDrD7aC1PbJCpIjyt9gIpmnIpfCfgcmhWxuuPBLUDipY4bn14YzsF1WfPfK%2ByAILE2Rd3hUIER0oodRpErrbiscIn96C6vafNdX7mZdeazbOC22iB3o4z4xpSMKeYkovHoZDides3nvRB9i%2Fm3bfMyD6fhHQeMqQ%2B4Cd2pEpzPZN7n%2BtV4n3FF2ARwuNFx2haN%2FX9CVYysNwf8NC7LyPMpeRBEg9%2FGPCdnmxuFp27jFxFf3VocKsxteMnDZT3v0y%2FK%2BQNIU0XTN2CxoAz25TnDNwgojqPbBLioUIsYuMe9J%2FCd60A4qUW25ywZ11l9Jb8AV%2FeqgM7KCGd96T6GXSiSEQ9oyvNLu0OJYgJ4G7n20%2B83ftW5qGq0UUCteVSqDA5sjBWhijPaloDbXGKJcxHog1TX4%2BjG2MDOVJQZi0ZWrKT7vYgIqqSsYEaeNIkuGJgDhJdiYW2j%2BAIxulOoPsK14asccWOTs1yqEhKkK5CiDy9wd5ra9mjLAtEje%2B4VHVrWs83B%22%7D&funnel_source=content_article&funnel_id=WP_58859
+              - generic [ref=e439]:
+                - img [ref=e440]
+                - generic [ref=e441]:
+                  - heading "Seaview Hotel Long Hai" [level=4] [ref=e442]
+                  - generic [ref=e443]:
+                    - img [ref=e444]
+                    - img [ref=e446]
+                    - generic [ref=e448]: •
+                    - generic [ref=e449]:
+                      - img [ref=e450]
+                      - generic [ref=e454]: 8.5/10
+                  - generic [ref=e455]: Long Hải
+                  - generic [ref=e456]: 371.429 VND
+                  - generic [ref=e457]: 354.528 VND
+            - link "Hese Boutique Hotel & Apartment • 9/10 Phường 2 1.025.974 VND 471.799 VND" [ref=e458] [cursor=pointer]:
+              - /url: https://www.traveloka.com/vi-vn/hotel/detail?spec=14-06-2026.15-06-2026.1.1.HOTEL.3000020002293.Hese%20Boutique%20Hotel%20%26%20Apartment.1&contexts=%7B%22sourceHotelDetail%22%3A%22MERCHANDISING_SEARCH%22%2C%22inventoryRateKey%22%3A%22povEwB3ZzsU2C6pd%2B6MdU6u0YYPJ5r8SDvn1XpJMHckbO8rQcmkKeWnP4DmWLXwVfwxXnYiRzoxM4HX9sDmt9%2FAm1AYn3MeGz8Xcpq5hCtgL1xCLOS3QEi2lJkcvVDMgqaHwtqLGVvqtblcCunpdV1D3m7%2FxaadlH6yZ%2FdOTgvZaFkNKS%2BnKDO9cqKbAT1iSmh9%2Byz1fOllt6yWeB2dq1YF59UKTSlcxSttPUsmyljc4LnV%2FcuT3ltKX4BVYeJSjVg9BS2nDjciZTbA7sXrDOR3ln8BP074tNZal6j6mmpneoT8orK4GwzdQi20nS74TlJ2x87RRt2MduRFCi4UTy75DQiph6spuBEua9B6sSk9s3R8IEraBdgRzZfJdxPiqTOehMGfNquJeu767XZc5GU2isUN7HbO0ONsjqyUXZwE9m2OZoAIc0eBY2jl9YJtKDKNfCuNpYoh%2BuNZYtkPMM8N0KRTJ4VFq4ShicQGXCAjUQQmOFyb69aqe8Hll6YWZ3I9RvKjk4IEo%2BSgm41melVlJUAwrC%2F%2B5QUCsG1s1QVKv9%2BTeCYpnJJorwm%2FNFO88qp80OShCbzTGYlAUWWGP7GmaZTp%2BxcN0qzFfQ9rVkQjF06zu5Jj9URKGhYifMwn7HX%2FgjvJAXMef7VDSe%2FMsp3aLOws%2FEKdLO7SbVfhgejoEqrFulm7EMTbfM7pFYzH8QlIK7XO3Zc3kJF22%2Bncg4zr6YNymnTk58iYKaBwFeu%2Fz3M48G7wax%2F65I6K7ocGZTEz1OwP3IrAA8Jugwb1nItK86GilTqHjHMsEEFrul1Z8CS%2FWFNqllBTLDfKALgAatbkPrlGHYMvOxUcd8gSuE9olaRmAWbSrbAx4lGVLBha%2FzTvZV0gOgy8QojE2ombEM2RAiV1QOTtmeUaX2lEJenwurzX705uc8t60LxuPCl1dT4yo7yVMi%2BmzYuHZ6OdFbmtNR2QXo%2FG8RjhQAxHXag%2FSiOnntTnr3ATXaHzXHv6OSc1fPumuzfl2sXAYJpL2GIaLTBf3%2Fh5fzyaH1ZQH2nWe7XN7FYHbaNJkf%2Fp8hO8e0Ez1KRIrGQae7XZ3KXtRPfHIW3sZ1T6qp%2BAnG9fB2HVXLpY01%2BNTYGNce6AwUadd51f%2Fit2kCeA1aicuQ0mCQlxnzohKJiXJf5lH1IAjsV47Q2Mb8HvtCUcZZsPljuI7pupHdYU2MG3eyFo8DA9z5G9ZhxovG22sUybyEW4GO0uwZSFSZ4QbD4JUmgx0Z8j%2FRopL5jY%2Buf4cCBvoC%2FY20M6w6nh1M9VV66X6NOY4P3%2Bx2DfmmCsjP8u%2F4JOFC86Cvb7wsjHRTrUkBexFkeNy%2BmRoPekDUPE1ePNIHs4TCUFzJw%2B0zOB%2Fvn2iyEt7trpg41gEpJvmJJ18WKefRKIAe0s79ub4xN%2FmbVqXu9hECrGnANjQtArrsNWnpdPyotsTcO6vcP0nlM2j62xJthJ5i2S37V5TWqmUfr%2FHodNAXxnzS%2FyAbFEb1nq1%2FGSZJiSV8iJIRRv%2B8CzdtPhincqZ%2B7gVUDTifO2TjvhDtfw%2BYWAaaPK%2BujM0qHeThpc%2Blb9OTzu2Oosor7vXuiH8rxPOmAE2F35p3qk9MbPr7yDmsq6NZk6KDj76xwqrw21dPA0Ec%2B%2Fej%2FBkJHVGX7Ilo4V%2B7I0hT4J2X3COyCtLY8NcWh3jxEqMDF%2Fc4zg8XGgY3NYSnh0DHTWGsCZrr1bLhZjJ5hH3bPlI4k%2FsKuz010wCwOfK3aLziEm6eYuTK7pLswfaRZx7UalkZ2b7eFssUuKsQkLZ%2FjjoHrTEEJoDRoD%2B07Lywb7izMat6TIuFiCVk8PnrXem22rn446mXBHDVcigF7gF5k3wcbZYcCP48BSdAe8mrEBRKUco%2BZIEr48sIeEs6yD61UzCB0sFDAIWhQ0Izm1Xz%2FvpdrA8H7Y1aWA5kMg4Dva61cuuIzrrCOV9%2F2nGQCMADxcnGn0v5U6EyAOfZXPSum8S%2FoRa%2BSRnitdddkRMoX5a2ROrtY%2FbG3t1UteSNgV7sT0ex3e4wrDNKRSXVNA%2FLsvQhxA7%2BNczby1sFzYn7K5SJ60W5CYfT81mAsQEmLP%2BQssgNjZTIcwSJdAmGrYRkgfQeM3FaHStNJMcveRH4dcwMs6f1eAZm2Tz%2FkQIcGKRTJHrnwQyuN9ws9iYaNsSJBQyNqnX31f0PCnbTP1%2Bi1SHhkRa3idkrzICNj5f8I4fnH36%2BkLpqaTRZjSRllC9TAOBwhYHcrZIkcRkufJiOKzpbYqCG5E9yoqL9Htb%2FAusit2rsPIKxShaBYhZhvYVnXx82%2F29rK56nybzYg%3D%3D%22%7D&funnel_source=content_article&funnel_id=WP_58859
+              - generic [ref=e459]:
+                - img [ref=e460]
+                - generic [ref=e461]:
+                  - heading "Hese Boutique Hotel & Apartment" [level=4] [ref=e462]
+                  - generic [ref=e463]:
+                    - img [ref=e464]
+                    - img [ref=e466]
+                    - img [ref=e468]
+                    - img [ref=e470]
+                    - generic [ref=e472]: •
+                    - generic [ref=e473]:
+                      - img [ref=e474]
+                      - generic [ref=e478]: 9/10
+                  - generic [ref=e479]: Phường 2
+                  - generic [ref=e480]: 1.025.974 VND
+                  - generic [ref=e481]: 471.799 VND
+            - link "La Bonte Boutique Home Vung Tau • 8.8/10 Phường 2 290.667 VND 287.744 VND" [ref=e482] [cursor=pointer]:
+              - /url: https://www.traveloka.com/vi-vn/hotel/detail?spec=14-06-2026.15-06-2026.1.1.HOTEL.9000000801738.La%20Bonte%20Boutique%20Home%20Vung%20Tau.1&contexts=%7B%22sourceHotelDetail%22%3A%22MERCHANDISING_SEARCH%22%2C%22inventoryRateKey%22%3A%22r%2F4%2FIbSpsApptn70HsOVHP1%2Bi1SHhkRa3idkrzICNj4dEvvW%2BsMTfF0LL0XINC9JzRzLkHzQWtnpuFADdpbLnfsiEbiy2n3yBgneU5TLRjIa7aLchboS7wdNkBRjAqgQSStl2gYx8%2BPlNQ0fMJwgoKJfQE%2BpcwMEhPPLojn7u%2Fy18ShbWH0La8UL5Om5yQ%2FHxXCoobjGJuR15E9mbdk1Y78U3ceanw%2FClOs5FPRxD69vw9NO9j6Wya5691hZyVyq6TxBsooh0jAqtqPNUCa9HN%2B4HVs5CaSwqx54c1UJ2mauCkvXPNj7oTNfKoi3xOF4f0LbT5ZF1espxTshOpFKYPPffz%2B5Ovnv1%2BBnHA8Pzv63m8L%2BF5TPVPw2pgCcHQk2wcCFsem7n9pS5ymdItaA1Giq09pTC1Pq%2FGCcCQtfTuSCFWW%2F7TsSeYucY%2FLz3M%2BZO63kGjFCZ9AWSuGbmGpg7A3AYVuS40Mh8YQEMSj3QQkpQcnindWv1Y071wOXHefzhiBWHz0y%2F4E2rnjDpR%2BYAWWyoEJq6oPJO66jaJD%2Bm5%2FWqPYxQhAqYXrDxPqDyU7BdeO0nXTJ3aZm05Zx67KIyfnCNcwsAe9Zn5wTGvmbpKpU8LO6FqVuGeopk3655osfROZR%2BwpJobilGVFQDTXoaYTGpvhKXBJc1PnVUrBgSaBBpm91DpTdLg%2B%2FzK6QY%2FIKOwQsiSjtVyiUYlyNlwumKnoknlp08cs4YStdTvXPPEotusnvDk6Y5Uh8lutlEVW4LlzKWatPCX7sBY%2FFYN0oPc7JnywioxWNAhqvFD3QVJCFA%2BI5K2Gs23CIuPvYfH1Id%2BZr9FrhyJcCCaAkYrjTEHzSpIUrAjzVsYIyRcWotPcTq%2BynELKUrzF%2BczKMeBIu9IfCtZLIdw%2FiWfgp7sw0I9V3QWMM4jgdCn%2FHgDSR7erdZOVgGNUZUWSQFwFVKccF%2Fakbh5RD7Gr2K3F%2Be0JIPPT%2FXJgfJZyTw%2Bey%2Fh2NkzmMBGaauYBHs6MJ805jaJutgdfeSM%2B4nxm0jVfGEpMVidEDt%2Fr2IdUziHFE4CimztQevN3WCwhYFAVNdxHExDws9%2Bo4K7qFF5VyYJR%2BEI8da6b9gRwT2686CfVsc2V2RpAZ7LhozSGvExVRcVwSmt604WPEPPQwG9sZSD%2BXMtsT7xZ0pOtuV7zUuoQS7GdyXkahaUiF%2FsncWnKSW%2B311mF%2F%2B8LabVIC7UhgvMYwRCVymnCfyWCDNv%2FXwSqnMvqz%2B5qpFSOSfUf11y4rFm8TbqQJLlIDaYojdh3yGzUlqdYYPebgiAkeQdXececq%2BqnkGlk7g72cVehezmdp7ch31kNvaVg0BUxS8a2ktElR%2FF5cG4GjDDirRl%2BJM%2Fqb9RpHtyrFN82Q5tX3bKlzzU%2B4W13D1VJ90DQOnOyyBNDrwsUNf45suZ81ZolyvZjMplkJhlBKKhGM15UBdcvV8uwB7hEIXumDU4XNDbWBisDj32%2BCsUNvXznWjS2bwOCtpi9CAqTuEnSyDeq8knD2a3ogDiAeYONYBKSb5iSdfFinn0SiAML3aquDZ6hjCed1WKsPXsmxpwDY0LQK67DVp6XT8qLbDSz%2BBiGGKy8eCsAMq76RX4tkt%2B1eU1qplH6%2Fx6HTQF9J7eB7H4YkE7S3bWxlzLcXrfKczJNh3l%2BxOWjQWosZyNTtcOcfuetZNOxs7A6muy%2BiZBzP1fwJLy1rJLQSHhMACzKWYz3y%2BVph5O9mQtP3rsF4enj1i5GLGbU7tuniuSwy5k5epeoOBOF%2BIVq7RDGE4yDEz8jH4MuDbH8zuBvkdmBnw%2BNmjmPA6ww4k3kFoXFwbAgoQhHzNmTiKBOdYaIYhVpqimGxdoGKgHFfG4%2B%2FfilYpcog1SH3f499hBxgaUAgXPHdPUzwpc6ihAPY1zybAZNNA6tZrTt%2F4b32wOyssynJ0y%2BCO0Z%2FbH0yKLw8Tz%2Frb7LOMupEZmIVEizDsDBqgo0UCSMOBW8uDtEWg4Pa7n0js0eqUoWb2M2H8Fzz89VCVtlXFXOwtMj12jYw9i%2FhykUYSIR9RjivUWVvYKpQ9MPvfq42vDOjFQL3BUaNgRXxQgZTFHIYBcHFaeKcykZXKr81KDB7fMROiV2HbrmV9ZdjpdX086cqu6KeDRjhMjT%2FiSH6bAOkQP2xjmzjDQmx4NPuHMqfGarEGNMPKyEwpbDovkMWADE5icGbbGbkPDbtMRliiMPAuVLqgfyzXcCeyAnAk7aeJAdHNaY4I90YAFy8SVZb4C%2B0uep%2F4Bulq4Vy8em8kundleJiSOJOruJr%22%7D&funnel_source=content_article&funnel_id=WP_58859
+              - generic [ref=e483]:
+                - img [ref=e484]
+                - generic [ref=e485]:
+                  - heading "La Bonte Boutique Home Vung Tau" [level=4] [ref=e486]
+                  - generic [ref=e487]:
+                    - img [ref=e488]
+                    - img [ref=e490]
+                    - img [ref=e492]
+                    - generic [ref=e494]: •
+                    - generic [ref=e495]:
+                      - img [ref=e496]
+                      - generic [ref=e500]: 8.8/10
+                  - generic [ref=e501]: Phường 2
+                  - generic [ref=e502]: 290.667 VND
+                  - generic [ref=e503]: 287.744 VND
+            - link "Tomorrow Hostel Vung Tau • 8.2/10 Phường 3 119.336 VND 99.496 VND" [ref=e504] [cursor=pointer]:
+              - /url: https://www.traveloka.com/vi-vn/hotel/detail?spec=14-06-2026.15-06-2026.1.1.HOTEL.4000001038406.Tomorrow%20Hostel%20Vung%20Tau.1&contexts=%7B%22sourceHotelDetail%22%3A%22MERCHANDISING_SEARCH%22%2C%22inventoryRateKey%22%3A%22EPSy2lMQRUbs4Z%2BpcPzDIdNKvmhJTIhZfSXkELrlZTYuR2VLPddusuFfZ0kCEFhuWGm8V130%2Fom7%2BPXsxLVmgQkz4qbXOxhI1uFTS05kYYN%2FDFediJHOjEzgdf2wOa338CbUBifcx4bPxdymrmEK2CShiEIAG5zhQFQl0OkjNwGSNgV7sT0ex3e4wrDNKRSXmk2RU2ttmVZq5H04lIxI6BNQXy48ghAvSsJJv1c0etSXTX9m3fgIzNtCxQmfV91yj5t08rJ4RydQKvCI%2By6QNTjElpAI1l3sOb0f7MrPdKgeUFxI0cWT7oz553zWtVvB4QcYiGDQonuBkAmnDXsi0BwS0Y%2BbV%2FGpw2cGAxHzLJZa5EKLnfvmi4oXThvMWvWEYBQABvcq6%2FKStltqBOmv2P9HdT8vBLUizM5imMzDtUsPB3CxgZBaVrGEGxhN9s66ln%2FgFxHV0wlmceC6K0AobpGDexfAnQ08rLlFUgcmwAZU8LO6FqVuGeopk3655osfTIu7okYk7Mxbr9zseaCFSDqUkKh%2BpmEnQIBJ8UCgNyx5%2BGjSjsqBuyYraOUh5HY6ubVfx68T1cTgJ%2F7%2BJ7Hv5307bUF1Uy6aEonUtlZNiECq2i9%2FuXtaHo7tpxPwh7nrOSNRsykzCgPxsN19Ks29h6MmF0QTOIjheXeJElgeTj0uWRJcpEzLWntaWYgie3dgzyafMM8qQgqzImGV8WTANDjOiqdewKa%2FaMBV70F4fpfF8fZspSlKMS4DqdF5SnCes35VlISGL%2F%2FArh4IQCSC1WBMNfPJCVN%2BnYcLQKAX5Mc8pfdm2hIYx%2Byl7v9yxbzvfjcRaNFFzKX4dj3y11aHJCps3GmSQoNx8YEF9P5KlB9Q6vw3Ol4p7VnsPOiYq1m5aR6u%2BPIyH4hqP2DQXsrCQ3btXzrbC8w5uRvozKMANw1nh35dMd4dvF7Or5PkbROkOMzh9w0NQabYpNCdH77iP8JQ6fL2xHOn1%2BUnUABclBNHK2tvTzva4yIk2yepKBG%2BJjIolnuTJ%2BSLXyRIKDpZdi5SA2mKI3Yd8hs1JanWGD3m4IgJHkHV3nHnKvqp5BpZO4O9nFXoXs5nae3Id9ZDb2lYNAVMUvGtpLRJUfxeXBvsxridK%2BftTs4IifKIBCW9xTfNkObV92ypc81PuFtdw9VSfdA0DpzssgTQ68LFDX%2BObLmfNWaJcr2YzKZZCYZQSioRjNeVAXXL1fLsAe4RCF7pg1OFzQ21gYrA499vgrFDb1851o0tm8DgraYvQgKk7hJ0sg3qvJJw9mt6IA4gHmDjWASkm%2BYknXxYp59EogDC92qrg2eoYwnndVirD17JsacA2NC0Cuuw1ael0%2FKi2w0s%2FgYhhisvHgrADKu%2BkV%2BLZLftXlNaqZR%2Bv8eh00BfSe3gex%2BGJBO0t21sZcy3F63ynMyTYd5fsTlo0FqLGcjU7XDnH7nrWTTsbOwOprsvomQcz9X8CS8tayS0Eh4TAAsylmM98vlaYeTvZkLT967BeHp49YuRixm1O7bp4rkso7yhni91oSJTyUuUgYYXiOMgxM%2FIx%2BDLg2x%2FM7gb5HZgZ8PjZo5jwOsMOJN5BaFxcGwIKEIR8zZk4igTnWGiGIVaaophsXaBioBxXxuPv34pWKXKINUh93%2BPfYQcYGlAIFzx3T1M8KXOooQD2Nc8mwGTTQOrWa07f%2BG99sDsrLOyYfc%2BtfQe6mFrELEhvj2C62%2ByzjLqRGZiFRIsw7AwavG5xESIjm8mUOjl9myA5XWrUWtTS2IpsIxiCPn6XbcJcfdfMr9%2BN99sKEV80l8HRk9rOXT%2FLR5HssPPfO8mAg49kAWKuoXoP6zyH%2BVK35ZKpmyBiLp3j3qdw%2FdsYeJ1CWncMnCSUg5D9a50TplcyQaDT20SW9v07Gf7fmwzUAOiXjTW15xJfAbZ17VQ2ps7803btbYEVJSz79175fenO4xncpKfNqIaZIICsIHPX7eS3sNnfg0Aam%2BUcf%2Fn%2F8fMGA%3D%3D%22%7D&funnel_source=content_article&funnel_id=WP_58859
+              - generic [ref=e505]:
+                - img [ref=e506]
+                - generic [ref=e507]:
+                  - heading "Tomorrow Hostel Vung Tau" [level=4] [ref=e508]
+                  - generic [ref=e509]:
+                    - img [ref=e510]
+                    - generic [ref=e512]: •
+                    - generic [ref=e513]:
+                      - img [ref=e514]
+                      - generic [ref=e518]: 8.2/10
+                  - generic [ref=e519]: Phường 3
+                  - generic [ref=e520]: 119.336 VND
+                  - generic [ref=e521]: 99.496 VND
+          - generic [ref=e524]:
+            - generic [ref=e525]:
+              - heading "Hoạt động được du khách yêu thích" [level=3] [ref=e526]
+              - generic [ref=e527]:
+                - img [ref=e529]
+                - img [ref=e532]
+            - link "Sun World Vung Tau Phường 11 199.000 VND 193.030 VND" [ref=e534] [cursor=pointer]:
+              - /url: https://www.traveloka.com/vi-vn/activities/vietnam/product/sun-world-vung-tau-5468509873394
+              - generic [ref=e535]:
+                - img [ref=e536]
+                - generic [ref=e537]:
+                  - heading "Sun World Vung Tau" [level=4] [ref=e538]
+                  - generic [ref=e539]: Phường 11
+                  - generic [ref=e540]: 199.000 VND
+                  - generic [ref=e541]: 193.030 VND
+            - link "Vé Minera Hot Springs Bình Châu Bình Châu 755.354 VND" [ref=e542] [cursor=pointer]:
+              - /url: https://www.traveloka.com/vi-vn/activities/vietnam/product/minera-hot-springs-binh-chau-tickets-7875777926088
+              - generic [ref=e543]:
+                - img [ref=e544]
+                - generic [ref=e545]:
+                  - heading "Vé Minera Hot Springs Bình Châu" [level=4] [ref=e546]
+                  - generic [ref=e547]: Bình Châu
+                  - generic [ref=e548]: 755.354 VND
+            - link "Vé Công Viên Hồ Mây Phường 6 200.000 VND 175.258 VND" [ref=e549] [cursor=pointer]:
+              - /url: https://www.traveloka.com/vi-vn/activities/vietnam/product/ho-may-park-tickets-2001384235948
+              - generic [ref=e550]:
+                - img [ref=e551]
+                - generic [ref=e552]:
+                  - heading "Vé Công Viên Hồ Mây" [level=4] [ref=e553]
+                  - generic [ref=e554]: Phường 6
+                  - generic [ref=e555]: 200.000 VND
+                  - generic [ref=e556]: 175.258 VND
+            - link "Vé vào cửa Wonder Museum Hồ Tràm Phước Thuận 90.000 VND 85.500 VND" [ref=e557] [cursor=pointer]:
+              - /url: https://www.traveloka.com/vi-vn/activities/vietnam/product/wonder-museum-ho-tram-tickets-6275200208210
+              - generic [ref=e558]:
+                - img [ref=e559]
+                - generic [ref=e560]:
+                  - heading "Vé vào cửa Wonder Museum Hồ Tràm" [level=4] [ref=e561]
+                  - generic [ref=e562]: Phước Thuận
+                  - generic [ref=e563]: 90.000 VND
+                  - generic [ref=e564]: 85.500 VND
+          - generic [ref=e567]:
+            - heading "Bài viết được đề xuất" [level=3] [ref=e569]
+            - generic [ref=e572]:
+              - img [ref=e575]
+              - textbox "Search" [ref=e578]
+            - generic [ref=e579]:
+              - 'link "WEAVE tại Resorts World Sentosa: Điểm đến Phong cách sống, Ẩm thực & Giải trí của Singapore 06 May 2026 - Đọc trong khoảng 6 phút" [ref=e580] [cursor=pointer]':
+                - /url: https://www.traveloka.com/vi-vn/explore/activities/weave-at-resorts-world-sentosa/1007857
+                - generic [ref=e581]:
+                  - img [ref=e582]
+                  - generic [ref=e583]:
+                    - 'heading "WEAVE tại Resorts World Sentosa: Điểm đến Phong cách sống, Ẩm thực & Giải trí của Singapore" [level=4] [ref=e584]'
+                    - generic [ref=e585]: 06 May 2026 - Đọc trong khoảng 6 phút
+              - 'link "Vietnam Digital Arrival Card: Quy định khai báo nhập cảnh trực tuyến mới nhất 2026 mà du khách cần biết 20 Apr 2026 - Đọc trong khoảng 12 phút" [ref=e586] [cursor=pointer]':
+                - /url: https://www.traveloka.com/vi-vn/explore/tips/vietnam-digital-arrival-card/1007396
+                - generic [ref=e587]:
+                  - img [ref=e588]
+                  - generic [ref=e589]:
+                    - 'heading "Vietnam Digital Arrival Card: Quy định khai báo nhập cảnh trực tuyến mới nhất 2026 mà du khách cần biết" [level=4] [ref=e590]'
+                    - generic [ref=e591]: 20 Apr 2026 - Đọc trong khoảng 12 phút
+              - link "Lễ Hội Pháo Hoa Hàn Quốc 2026 tại Seoul & Busan có gì hot? 24 Mar 2026 - Đọc trong khoảng 3 phút" [ref=e592] [cursor=pointer]:
+                - /url: https://www.traveloka.com/vi-vn/explore/activities/korea-fireworks-festival/1007032
+                - generic [ref=e593]:
+                  - img [ref=e594]
+                  - generic [ref=e595]:
+                    - heading "Lễ Hội Pháo Hoa Hàn Quốc 2026 tại Seoul & Busan có gì hot?" [level=4] [ref=e596]
+                    - generic [ref=e597]: 24 Mar 2026 - Đọc trong khoảng 3 phút
+              - 'link "Mùa lá phong Hàn Quốc 2026: Thời điểm và địa điểm đẹp nhất 18 Mar 2026 - Đọc trong khoảng 3 phút" [ref=e598] [cursor=pointer]':
+                - /url: https://www.traveloka.com/vi-vn/explore/activities/korea-fall-foliage/1006906
+                - generic [ref=e599]:
+                  - img [ref=e600]
+                  - generic [ref=e601]:
+                    - 'heading "Mùa lá phong Hàn Quốc 2026: Thời điểm và địa điểm đẹp nhất" [level=4] [ref=e602]'
+                    - generic [ref=e603]: 18 Mar 2026 - Đọc trong khoảng 3 phút
+              - 'link "Lễ hội cỏ hồng Hueree Jeju 2026: Tọa độ check-in đẹp mê mẩn 17 Mar 2026 - Đọc trong khoảng 2 phút" [ref=e604] [cursor=pointer]':
+                - /url: https://www.traveloka.com/vi-vn/explore/accommodations/hueree-pink-muhly-festival-jeju/1006816
+                - generic [ref=e605]:
+                  - img [ref=e606]
+                  - generic [ref=e607]:
+                    - 'heading "Lễ hội cỏ hồng Hueree Jeju 2026: Tọa độ check-in đẹp mê mẩn" [level=4] [ref=e608]'
+                    - generic [ref=e609]: 17 Mar 2026 - Đọc trong khoảng 2 phút
+              - link "Sun World Vũng Tàu ở đâu? Giá vé và kinh nghiệm vui chơi A - Z 05 Feb 2026 - Đọc trong khoảng 21 phút" [ref=e610] [cursor=pointer]:
+                - /url: https://www.traveloka.com/vi-vn/explore/activities/sunworld-vung-tau/1004503
+                - generic [ref=e611]:
+                  - img [ref=e612]
+                  - generic [ref=e613]:
+                    - heading "Sun World Vũng Tàu ở đâu? Giá vé và kinh nghiệm vui chơi A - Z" [level=4] [ref=e614]
+                    - generic [ref=e615]: 05 Feb 2026 - Đọc trong khoảng 21 phút
+          - generic [ref=e618]:
+            - generic [ref=e619]:
+              - heading "Khám phá điều tuyệt vời nhất ở Bà Rịa - Vũng Tàu" [level=3] [ref=e620]
+              - generic [ref=e621]:
+                - img [ref=e623]
+                - img [ref=e626]
+            - link "Thành phố Vũng Tàu Vietnam" [ref=e628] [cursor=pointer]:
+              - /url: /vi-vn/destination/area/vung-tau-city-10009888?country=Vietnam
+              - generic [ref=e629]:
+                - img [ref=e630]
+                - generic [ref=e631]:
+                  - heading "Thành phố Vũng Tàu" [level=4] [ref=e632]
+                  - generic [ref=e633]: Vietnam
+            - link "Côn Đảo (Hòn Sơn) Vietnam" [ref=e634] [cursor=pointer]:
+              - /url: /vi-vn/destination/area/con-dao-district-10010137?country=Vietnam
+              - generic [ref=e635]:
+                - img [ref=e636]
+                - generic [ref=e637]:
+                  - heading "Côn Đảo (Hòn Sơn)" [level=4] [ref=e638]
+                  - generic [ref=e639]: Vietnam
+            - link "Bà Rịa - Vũng Tàu Vietnam" [ref=e640] [cursor=pointer]:
+              - /url: /vi-vn/destination/area/ba-ria---vung-tau-10009889?country=Vietnam
+              - generic [ref=e641]:
+                - img [ref=e642]
+                - generic [ref=e643]:
+                  - heading "Bà Rịa - Vũng Tàu" [level=4] [ref=e644]
+                  - generic [ref=e645]: Vietnam
+            - link "Thắng Tam Vietnam" [ref=e646] [cursor=pointer]:
+              - /url: /vi-vn/destination/area/thang-tam-ward-30011046?country=Vietnam
+              - generic [ref=e647]:
+                - img [ref=e648]
+                - generic [ref=e649]:
+                  - heading "Thắng Tam" [level=4] [ref=e650]
+                  - generic [ref=e651]: Vietnam
+      - generic [ref=e652]:
+        - img [ref=e653]
+        - generic [ref=e655]:
+          - generic [ref=e657] [cursor=pointer]:
+            - img [ref=e658]
+            - generic [ref=e661]: Khách sạn
+          - generic [ref=e663] [cursor=pointer]:
+            - img [ref=e664]
+            - generic [ref=e666]: Vé máy bay
+          - generic [ref=e668] [cursor=pointer]:
+            - img [ref=e669]
+            - generic [ref=e671]: Những việc cần làm
+      - generic [ref=e683]:
+        - generic [ref=e684]:
+          - generic [ref=e685]: Luôn biết thông tin mới nhất
+          - generic [ref=e686]: Đăng ký nhận bản tin của chúng tôi để biết thêm các khuyến nghị về du lịch và phong cách sống cũng như các chương trình khuyến mãi thú vị.
+        - generic [ref=e688]:
+          - generic [ref=e690]:
+            - img [ref=e693]
+            - textbox "Điền email của bạn tại đây" [ref=e695]
+          - button "Đăng ký" [ref=e697] [cursor=pointer]:
+            - generic [ref=e698]: Đăng ký
+            - generic [ref=e700]: Đăng ký
+      - generic [ref=e702]:
+        - generic [ref=e703]:
+          - generic [ref=e704]:
+            - img [ref=e705]
+            - generic [ref=e706]:
+              - generic [ref=e707]:
+                - img
+                - img
+                - link [ref=e708] [cursor=pointer]:
+                  - /url: http://online.gov.vn/HomePage/AppDisplay.aspx?DocId=738
+                  - img
+                - link [ref=e709] [cursor=pointer]:
+                  - /url: http://online.gov.vn/HomePage/WebsiteDisplay.aspx?DocId=58668
+                  - img
+              - link "Hợp tác với Traveloka" [ref=e710] [cursor=pointer]:
+                - /url: /vi-vn/partnership
+                - button "Hợp tác với Traveloka" [ref=e711]:
+                  - generic [ref=e712]:
+                    - generic [ref=e713]: Hợp tác với Traveloka
+                    - img [ref=e715]
+              - generic [ref=e718]:
+                - generic [ref=e720]: Đối tác thanh toán
+                - img [ref=e722]
+                - img [ref=e724]
+                - img [ref=e726]
+                - img [ref=e728]
+                - img [ref=e730]
+                - img [ref=e732]
+                - img [ref=e734]
+                - img [ref=e736]
+                - img [ref=e738]
+                - img [ref=e740]
+                - img [ref=e742]
+                - img [ref=e744]
+                - img [ref=e746]
+                - img [ref=e748]
+                - img [ref=e750]
+                - img [ref=e752]
+                - img [ref=e754]
+                - img [ref=e756]
+                - img [ref=e758]
+                - img [ref=e760]
+          - generic [ref=e761]:
+            - generic [ref=e762]:
+              - generic [ref=e763]:
+                - generic [ref=e765]: Về Traveloka
+                - list [ref=e766]:
+                  - listitem [ref=e767]:
+                    - link "Cách đặt chỗ" [ref=e768] [cursor=pointer]:
+                      - /url: /vi-vn/how-to/bookflight
+                  - listitem [ref=e769]:
+                    - link "Liên hệ chúng tôi" [ref=e770] [cursor=pointer]:
+                      - /url: /vi-vn/contactus?source=web_footer_menu
+                  - listitem [ref=e771]:
+                    - link "Trợ giúp" [ref=e772] [cursor=pointer]:
+                      - /url: /vi-vn/help?source=web_footer_menu
+                  - listitem [ref=e773]:
+                    - link "Tuyển dụng" [ref=e774] [cursor=pointer]:
+                      - /url: /vi-vn/careers
+                  - listitem [ref=e775]:
+                    - link "Về chúng tôi" [ref=e776] [cursor=pointer]:
+                      - /url: /vi-vn/about-us
+              - generic [ref=e777]:
+                - generic [ref=e779]: Theo dõi chúng tôi trên
+                - list [ref=e780]:
+                  - listitem [ref=e781]:
+                    - link "Facebook" [ref=e782] [cursor=pointer]:
+                      - /url: https://www.facebook.com/TravelokaVN
+                      - img [ref=e783]
+                      - text: Facebook
+                  - listitem [ref=e788]:
+                    - link "Instagram" [ref=e789] [cursor=pointer]:
+                      - /url: https://www.instagram.com/traveloka.vn/
+                      - img [ref=e790]
+                      - text: Instagram
+                  - listitem [ref=e792]:
+                    - link "TikTok" [ref=e793] [cursor=pointer]:
+                      - /url: https://www.tiktok.com/@traveloka.vn
+                      - img [ref=e794]
+                      - text: TikTok
+                  - listitem [ref=e796]:
+                    - link "Youtube" [ref=e797] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@travelokavn
+                      - img [ref=e798]
+                      - text: Youtube
+                  - listitem [ref=e801]:
+                    - link "Telegram" [ref=e802] [cursor=pointer]:
+                      - /url: https://t.me/travelokavietnamofficial
+                      - img [ref=e803]
+                      - text: Telegram
+            - generic [ref=e806]:
+              - generic [ref=e808]: Sản phẩm
+              - list [ref=e809]:
+                - listitem [ref=e810]:
+                  - link "Khách sạn" [ref=e811] [cursor=pointer]:
+                    - /url: /vi-vn/hotel
+                - listitem [ref=e812]:
+                  - link "Vé máy bay" [ref=e813] [cursor=pointer]:
+                    - /url: /vi-vn/flight
+                - listitem [ref=e814]:
+                  - link "Vé xe khách" [ref=e815] [cursor=pointer]:
+                    - /url: /vi-vn/bus-and-shuttle
+                - listitem [ref=e816]:
+                  - link "Đưa đón sân bay" [ref=e817] [cursor=pointer]:
+                    - /url: /vi-vn/airport-transfer
+                - listitem [ref=e818]:
+                  - link "Cho thuê xe" [ref=e819] [cursor=pointer]:
+                    - /url: /vi-vn/car-rental
+                - listitem [ref=e820]:
+                  - link "Hoạt động & Vui chơi" [ref=e821] [cursor=pointer]:
+                    - /url: /vi-vn/activities
+                - listitem [ref=e822]:
+                  - link "Du thuyền" [ref=e823] [cursor=pointer]:
+                    - /url: /vi-vn/p/cruise
+                - listitem [ref=e824]:
+                  - link "Biệt thự" [ref=e825] [cursor=pointer]:
+                    - /url: /vi-vn/accommodation/villa
+                - listitem [ref=e826]:
+                  - link "Căn hộ" [ref=e827] [cursor=pointer]:
+                    - /url: /vi-vn/accommodation/apartment
+            - generic [ref=e828]:
+              - generic [ref=e829]:
+                - generic [ref=e831]: Khác
+                - list [ref=e832]:
+                  - listitem [ref=e833]:
+                    - link "Traveloka Affiliate" [ref=e834] [cursor=pointer]:
+                      - /url: /vi-vn/p/affiliate
+                  - listitem [ref=e835]:
+                    - link "Giới thiệu bạn bè" [ref=e836] [cursor=pointer]:
+                      - /url: https://www.traveloka.com/vi-vn/p/traveloka-affiliate-refer-a-friend
+                  - listitem [ref=e837]:
+                    - link "Traveloka Blog" [ref=e838] [cursor=pointer]:
+                      - /url: https://www.traveloka.com/vi-vn/explore
+                  - listitem [ref=e839]:
+                    - link "Chính Sách Quyền Riêng" [ref=e840] [cursor=pointer]:
+                      - /url: /vi-vn/privacy-notice
+                  - listitem [ref=e841]:
+                    - link "Điều khoản & Điều kiện" [ref=e842] [cursor=pointer]:
+                      - /url: /vi-vn/termsandconditions
+                  - listitem [ref=e843]:
+                    - link "Đăng ký nơi nghỉ của bạn" [ref=e844] [cursor=pointer]:
+                      - /url: https://tera.traveloka.com/vi-vn/v2/landing
+                  - listitem [ref=e845]:
+                    - link "Đăng ký doanh nghiệp hoạt động du lịch của bạn" [ref=e846] [cursor=pointer]:
+                      - /url: https://internal.xxt.traveloka.com
+                  - listitem [ref=e847]:
+                    - link "Khu vực báo chí" [ref=e848] [cursor=pointer]:
+                      - /url: https://press.traveloka.com
+                  - listitem [ref=e849]:
+                    - link "Quy chế hoạt động" [ref=e850] [cursor=pointer]:
+                      - /url: /vi-vn/Regulation-for-Operation-VN
+                  - listitem [ref=e851]:
+                    - link "Vulnerability Disclosure Program" [ref=e852] [cursor=pointer]:
+                      - /url: /vi-vn/vulnerability-disclosure-program
+                  - listitem [ref=e853]:
+                    - link "Thông tin chuyên sâu về du lịch APAC" [ref=e854] [cursor=pointer]:
+                      - /url: https://www.traveloka.com/vi-vn/apac-travel-insights?funnel_source=desktop_web_footer
+              - generic [ref=e855]:
+                - generic [ref=e857]: Tải ứng dụng Traveloka
+                - generic:
+                  - link:
+                    - /url: https://traveloka.onelink.me/OzTp?c=&af_adset=vi-vn%252Fexplore%252Fdestination%252Fvung-tau-co-gi-choi%252F58859&af_ad=&af_label=&is_retargeting=true&af_click_lookback=7d&af_reengagement_window=30d&af_force_deeplink=true&pid=Traveloka%20Desktop&deep_link_value=traveloka%3A%2F%2Fpromotion%2Fnew-user-promo1&af_dp=traveloka%3A%2F%2Fpromotion%2Fnew-user-promo1
+                    - img
+                - generic:
+                  - link:
+                    - /url: https://traveloka.onelink.me/OzTp?c=&af_adset=vi-vn%252Fexplore%252Fdestination%252Fvung-tau-co-gi-choi%252F58859&af_ad=&af_label=&is_retargeting=true&af_click_lookback=7d&af_reengagement_window=30d&af_force_deeplink=true&pid=Traveloka%20Desktop&deep_link_value=traveloka%3A%2F%2Fpromotion%2Fnew-user-promo1&af_dp=traveloka%3A%2F%2Fpromotion%2Fnew-user-promo1
+                    - img
+        - separator [ref=e858]
+        - generic [ref=e859]: "Công ty TNHH Traveloka Việt Nam. Mã số doanh nghiệp 0313581779 | Địa chỉ: Tòa nhà An Phú, 117 - 119 Lý Chính Thắng, Phường Xuân Hòa, TP HCM | Đại diện pháp luật: Nguyễn Thị Thu Hương| Email: cs@traveloka.com | Tel: +84 28 3861 4699"
+        - generic [ref=e860]: Copyright © 2026 Traveloka. All rights reserved
+  - alert [ref=e861]
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic: Bạn muốn lưu mục này
+  - heading "Xem Bộ Sưu Tập" [level=3] [ref=e872] [cursor=pointer]
