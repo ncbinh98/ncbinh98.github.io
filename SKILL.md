@@ -140,7 +140,7 @@ Dựa vào nội dung crawl được, xác định loại bài:
 ### 4.2 Dữ Liệu GIỮ NGUYÊN (Tuyệt Đối Không Thay Đổi)
 
 - **Địa chỉ:** Chung cư 22 tầng, 165A Thùy Vân, Thắng Tam, Vũng Tàu
-- **SĐT:** `0346519821`
+- **SĐT:** `0326130505 (Linh)`
 - **Email:** `sunbeam.homestay.vt@gmail.com`
 - **Website:** `sunbeamhomestay.com`
 - **Facebook:** `http://www.facebook.com/sunbeamhomestay`
@@ -228,7 +228,7 @@ tags: [tag1, tag2, tag3, ...]
 
 🏡 **Sunbeam Homestay – Chung cư 22 tầng**
 - 📍 Địa chỉ: 165A Thùy Vân, Thắng Tam, Vũng Tàu
-- 📞 Điện thoại: 0346519821
+- 📞 Điện thoại: 0326130505 (Linh)
 - 📧 Email: sunbeam.homestay.vt@gmail.com
 - 🌐 Website: [sunbeamhomestay.com](http://sunbeamhomestay.com)
 
@@ -269,7 +269,7 @@ sticky: true
 
 📞 **Liên Hệ Đặt Phòng:**
 - 📍 Địa chỉ: 165A Thùy Vân, Thắng Tam, Vũng Tàu
-- 📞 Điện thoại: 0346519821
+- 📞 Điện thoại: 0326130505 (Linh)
 - 🌐 Website: [sunbeamhomestay.com](http://sunbeamhomestay.com)
 
 **Từ khóa:** ...
@@ -473,7 +473,7 @@ Theo kinh nghiệm của mình, Bãi Sau đẹp nhất vào buổi sáng sớm (
 
 🏡 **Sunbeam Homestay – Chung cư 22 tầng**
 - 📍 Địa chỉ: 165A Thùy Vân, Thắng Tam, Vũng Tàu
-- 📞 Điện thoại: 0346519821
+- 📞 Điện thoại: 0326130505 (Linh)
 - 📧 Email: sunbeam.homestay.vt@gmail.com
 - 🌐 Website: [sunbeamhomestay.com](http://sunbeamhomestay.com)
 

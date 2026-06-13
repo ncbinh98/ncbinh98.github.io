@@ -39,6 +39,6 @@ Các tổ chức, doanh nghiệp, người dân quan tâm có thể tìm hiểu,
 
 ---
 
-☎️ Vui lòng liên hệ Hotline   0346519821 hoặc inbox page để được tư vấn.
+☎️ Vui lòng liên hệ Hotline   0346519821 ho0326130505 (Linh)age để được tư vấn.
 
 🌄 Địa chỉ: Chung cư 22 tầng, 165A Thuỳ Vân, Thắng Tam, Vũng Tàu

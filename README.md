@@ -38,7 +38,7 @@ Chung cư 22 tầng, 165A Thuỳ Vân, Thắng Tam, Vũng Tàu
 
 Hãy liên hệ với chúng tôi để đặt phòng và nhận được những ưu đãi đặc biệt:
 
-- **Điện thoại:**   0346519821
+- **Điện thoại:**   03465198210326130505 (Linh)
 - **Email:** sunbeam.homestay.vt@gmail.com
 - **Website:** [sunbeamhomestay.com](http://sunbeamhomestay.com)
 

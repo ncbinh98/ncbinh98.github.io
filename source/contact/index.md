@@ -12,7 +12,7 @@ Chúng tôi luôn sẵn sàng lắng nghe và hỗ trợ bạn mọi lúc, mọi
 ## Thông Tin Liên Hệ
 
 - **Địa chỉ:** 165A Đường Thùy Vân, Phường Thắng Tam, Thành phố Vũng Tàu
-- **Điện thoại:** 0346519821
+- **Điện thoại:** 03465198210326130505 (Linh)
 - **Email:** sunbeam.homestay.vt@gmail.com
 - **Website:** [sunbeamhomestay.com](http://sunbeamhomestay.com)
 

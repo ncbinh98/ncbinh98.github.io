@@ -79,7 +79,7 @@ Bạn có thể du lịch Vũng Tàu vào bất kỳ thời điểm nào trong n
 ### Sunbeam Homestay - Chung cư 22 tầng
 
 - **Địa chỉ:** 165A Đường Thùy Vân, Phường Thắng Tam, Thành phố Vũng Tàu
-- **Điện thoại:** 0346519821
+- **Điện thoại:** 03465198210326130505 (Linh)
 - **Email:** sunbeam.homestay.vt@gmail.com
 - **Website:** [sunbeamhomestay.com](http://sunbeamhomestay.com)
 
