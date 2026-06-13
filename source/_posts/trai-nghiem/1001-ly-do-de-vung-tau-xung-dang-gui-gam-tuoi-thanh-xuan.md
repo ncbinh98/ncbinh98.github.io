@@ -97,7 +97,7 @@ Nằm ở 155/2 Ba Cu, Bohemiens là quán cafe "đi trốn" yên tĩnh dành ch
 
 🏡 **Sunbeam Homestay – Chung cư 22 tầng**
 - 📍 Địa chỉ: 165A Thùy Vân, Thắng Tam, Vũng Tàu
-- 📞 Điện thoại: 03465198210326130505 (Linh)
+- 📞 Điện thoại: 0326130505
 - 📧 Email: sunbeam.homestay.vt@gmail.com
 - 🌐 Website: [sunbeamhomestay.com](http://sunbeamhomestay.com)
 - 📘 Facebook: [Sunbeam Homestay](http://www.facebook.com/sunbeamhomestay)

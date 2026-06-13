@@ -100,7 +100,7 @@ Con đường Thùy Vân ở Bãi Sau mang nét đẹp thơ mộng và hiện đ
 ### Sunbeam Homestay - Chung cư 22 tầng
 
 - **Địa chỉ:** 165A Đường Thùy Vân, Phường Thắng Tam, Thành phố Vũng Tàu
-- **Điện thoại:** 03465198210326130505 (Linh)
+- **Điện thoại:** 0326130505
 - **Email:** sunbeam.homestay.vt@gmail.com
 - **Website:** [sunbeamhomestay.com](http://sunbeamhomestay.com)
 

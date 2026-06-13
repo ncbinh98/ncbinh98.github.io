@@ -94,7 +94,7 @@ Chúc bạn có một chuyến đi Vũng Tàu thật vui vẻ và đáng nhớ!
 
 Hãy liên hệ với chúng tôi để đặt phòng và nhận được những ưu đãi đặc biệt:
 
-- **Điện thoại:**   03465198210326130505 (Linh)
+- **Điện thoại:**   0326130505
 - **Email:** sunbeam.homestay.vt@gmail.com
 - **Website:** [sunbeamhomestay.com](http://sunbeamhomestay.com)
 
