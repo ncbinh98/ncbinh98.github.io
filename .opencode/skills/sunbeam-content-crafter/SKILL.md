@@ -1,27 +1,59 @@
 ---
 name: sunbeam-content-crafter
-description: Use when the user asks to crawl a URL and create a new blog post for Sunbeam Homestay (Vũng Tàu) — e.g. "crawl [URL] và tạo bài viết", "viết bài blog", "rewrite bài này theo style Sunbeam". Crawls content with Playwright, rewrites it in Sunbeam Homestay style (Vietnamese, mình–bạn, emoji), generates a Hexo markdown file in source/_posts/ and verifies the post checklist.
+description: Use when the user asks to crawl a URL and create a new blog post for Sunbeam Homestay (Vũng Tàu) — e.g. "crawl [URL] và tạo bài viết", "viết bài blog", "rewrite bài này theo style Sunbeam", or wants to gather info/reviews from Airbnb/Agoda listings. Crawls content with Playwright, rewrites it in Sunbeam Homestay style (Vietnamese, mình–bạn, emoji), handles images (asks user: imgbb upload vs original URL), generates a Hexo markdown file in source/_posts/ and verifies the SEO checklist.
 ---
 
 # 🏖️ Skill: Sunbeam Content Crafter
 
-**Mục đích:** Tự động crawl nội dung từ một URL bất kỳ, phân tích và viết lại thành bài blog mới theo đúng phong cách Sunbeam Homestay.
+**Mục đích:** Tự động crawl nội dung từ một URL bất kỳ (bài blog, listing Airbnb/Agoda...), phân tích, tổng hợp và viết lại thành bài blog mới hoàn chỉnh chuẩn SEO theo đúng phong cách Sunbeam Homestay.
 
 **Cách kích hoạt:**
 > hãy crawl [URL] và tạo bài viết mới cho tôi
 
 ---
 
-## 1. Quy Trình Tổng Quan (6 Bước)
+## 0. 🔐 BẢO MẬT — Quy Tắc Tuyệt Đối
+
+### 0.1 API Key imgbb Là SECRET
+
+- ❌ **KHÔNG BAO GIỜ** ghi giá trị API key imgbb vào: SKILL.md, file bài viết, script, code, chat output, commit git
+- ✅ Key chỉ được **đọc từ file `.env` ở thư mục gốc project** — biến `UPLOAD_IMG_BB_API_KEY`
+- ✅ `.env` đã nằm trong `.gitignore` — không bao giờ commit file này
+- ✅ Khi cần debug: hiển thị key đã che giấu (chỉ vài ký tự đầu + `***`), không in đầy đủ
+
+### 0.2 Quy Trình Đọc Key An Toàn
+
+```powershell
+# Đọc biến key từ .env, không echo giá trị đầy đủ
+$keyLine = (Get-Content ".env" -Encoding UTF8) | Where-Object { $_ -match '^UPLOAD_IMG_BB_API_KEY' }
+$key = ($keyLine -split '=', 2)[1].Trim()
+```
+
+### 0.3 Quy Tắc Upload Ảnh lên imgbb
+
+- ❌ **KHÔNG tự ý upload** bất kỳ ảnh nào lên imgbb — **phải hỏi user trước** (xem Bước 4)
+- ✅ Khi user đồng ý: upload bằng lệnh sau (key lấy từ `.env`, không ghi vào file):
+
+```powershell
+$resp = & curl.exe -s --request POST "https://api.imgbb.com/1/upload" --form "key=$key" --form "image=@<đường dẫn file>"
+$url = ($resp -join "`n" | ConvertFrom-Json).data.url
+```
+
+- ✅ Sau khi thay URL trong bài: xóa file ảnh local (nếu có) để không tốn dung lượng git repo
+
+## 1. Quy Trình Tổng Quan (7 Bước)
 
 | Bước | Tên | Mô tả |
 |:----:|-----|-------|
 | 1 | **CRAWL** | Dùng Playwright MCP lấy text + ảnh từ URL gốc |
 | 2 | **PHÂN TÍCH** | Xác định loại bài, trích xuất ý chính, số liệu |
 | 3 | **REWRITE** | Viết lại nội dung theo style Sunbeam |
-| 4 | **ẢNH** | Chọn ảnh phù hợp, giữ nguyên URL gốc |
-| 5 | **TẠO FILE** | Sinh file `.md` trong `source/_posts/` |
-| 6 | **VERIFY** | Kiểm tra checklist trước khi hoàn tất |
+| 4 | **HỎI ẢNH** | **Bắt buộc hỏi user**: upload imgbb hay giữ URL gốc (xem mục 6.3) |
+| 5 | **XỬ LÝ ẢNH** | Chọn ảnh phù hợp, áp dụng phương án đã chọn ở bước 4 |
+| 6 | **TẠO FILE** | Sinh file `.md` trong `source/_posts/` |
+| 7 | **VERIFY** | Kiểm tra checklist SEO trước khi hoàn tất |
+
+> ⚠️ **Không bao giờ bỏ qua bước 4.** Mọi ảnh đưa vào bài đều phải theo phương án user đã chọn.
 
 ---
 
@@ -116,6 +148,55 @@ Sau khi crawl xong, đếm số ảnh nội dung chính (bỏ qua thumbnail, ico
 
 ---
 
+## 2B. CRAWL REVIEW & LISTING – Airbnb / Agoda
+
+Khi user yêu cầu lấy thông tin homestay, đánh giá khách, hoặc bổ sung review vào bài — dùng quy trình dưới đây.
+
+### 2B.1 Airbnb Listing
+
+1. Navigate đến URL listing (`https://www.airbnb.com/rooms/[id]`)
+2. Chờ load (`time=4`) — Airbnb là SPA, cần chờ kỹ
+3. **Lấy ảnh listing:** click "Show all photos" → modal `PHOTO_TOUR_SCROLLABLE` mở → **scroll bên trong modal** để kích hoạt lazy-load toàn bộ ảnh (script tương tự 2.2.1 nhưng scroll các element có `scrollHeight > clientHeight` trong `[role="dialog"]`) → extract `img` trong dialog (src từ `a0.muscache.com`, lọc `avatar|logo|icon`, lấy ảnh gốc không query)
+4. **Lấy thông tin listing:** extract từ trang chính — title, host, số phòng/giường/phòng tắm, số khách tối đa, mô tả "The space", tiện ích, giờ check-in/check-out, phí phụ trội, listing highlights
+5. **Lấy review:** click `pdp-show-all-reviews-button` ("Show all N reviews") → dialog review mở, URL đổi sang `/reviews` → extract toàn bộ review từ dialog:
+   - Rating tổng (`4.64 · 22 reviews`), % phân bổ sao, điểm thành phần (Cleanliness, Accuracy, Check-in, Communication, Location, Value)
+   - Từng review: tên khách, nơi ở, số sao, ngày, nội dung
+   - Chú ý: text có thể bị rút gọn ("Show more") — ưu tiên lấy bản đầy đủ từ dialog snapshot
+6. **Chụp ảnh review tích cực (nếu cần):** chọn các review 4–5 sao có nội dung chi tiết → dùng `playwright_browser_take_screenshot` với `target` là ref của từng review card trong snapshot (hoặc `page.locator('li').nth(i).screenshot()`) → lưu file local (VD: `C:\Users\...\Temp\opencode\`)
+
+### 2B.2 Agoda Listing
+
+1. Navigate đến URL listing (`https://www.agoda.com/vi-vn/[slug]/hotel/vung-tau-vn.html`)
+2. Chờ load, scroll toàn trang — Agoda lazy-load nhiều section
+3. **Lấy thông tin:** tên chỗ ở, điểm tổng (`9,0/10`), điểm thành phần (Vị trí, Đáng tiền, Dịch vụ, Độ sạch sẽ, Cơ sở vật chất), phân bố loại khách, thông tin host (badge, thời gian phản hồi), quy định trong nhà, phí phụ thu
+4. **Lấy review:** tìm tab "NHẬN XÉT TRÊN AGODA (N)" → nếu bị backdrop/searchbox che, bấm `Escape` và xóa `.SearchboxBackdrop` → click tab → extract từ `[role="tabpanel"]` (class `.Review-comment` cho từng review: điểm, tên, loại khách, số đêm, tiêu đề, nội dung, phản hồi của host)
+5. **Phân trang:** click button "Trang đánh giá kế tiếp" → chờ 2-3s → extract tiếp — lặp lại để lấy đủ các trang (mỗi trang ~5 review)
+6. **Chụp ảnh review tích cực:** chọn review 9-10 điểm có nội dung chi tiết → chụp element screenshot từng `.Review-comment`
+
+### 2B.3 Quy Tắc Chọn Review Tích Cực
+
+- Chỉ chọn review **4–5 sao (Airbnb)** hoặc **≥ 8.0 (Agoda)**
+- Ưu tiên review có **nội dung chi tiết** (nhắc view biển, vị trí, host, tiện nghi...) — bỏ qua review chỉ có 1-2 từ ("Tốt", "Ok")
+- Giữ nguyên **tên khách, thời gian, số điểm** — tuyệt đối không bịa đặt
+- Có thể dịch sang tiếng Việt (giọng mình–bạn) nhưng giữ ý gốc; kèm ảnh chụp màn hình review gốc làm minh chứng
+- Số lượng: 5–12 review / bài tùy độ dài bài viết
+
+### 2B.4 Template Section Review Tích Cực
+
+```markdown
+## 💖 Review Tích Cực Từ Khách Hàng
+
+Điều làm mình tự hào nhất chính là những đánh giá chân thật từ khách hàng. Cùng xem họ nói gì nhé!
+
+### [Tên khách] – [Tháng]/[Năm] ([số sao] sao) 🌟
+
+> "[Nội dung review dịch tiếng Việt, giữ ý gốc]"
+
+![Review Airbnb của khách [Tên]]([URL ảnh review] "[Review ... của khách [Tên] trên Airbnb]")
+```
+
+---
+
 ## 3. PHÂN TÍCH – Phân Loại Bài Viết
 
 Dựa vào nội dung crawl được, xác định loại bài:
@@ -193,6 +274,21 @@ Title là yếu tố quan trọng nhất cho SEO và thu hút click. **Không đ
 | Lễ hội / mùa | 🎄 ✨ 🎆 🎉 🎊 |
 | Dùng chung | ✨ 🌟 📍 💸 ⚠️ 📝 💯 |
 
+### 4.6 Quy Tắc SEO Hoàn Chỉnh
+
+| Yếu tố | Quy tắc |
+|--------|---------|
+| **Meta description** | Front matter `description`: 120–160 ký tự, chứa từ khóa chính, viết như lời mời click |
+| **Heading** | 1 H1 duy nhất (khớp title) → H2 cho section → H3 cho sub-section, không nhảy cấp |
+| **Từ khóa chính** | Xuất hiện trong: title, H1, lead, ít nhất 1 H2, alt ảnh, description, `Từ khóa` cuối bài, tags |
+| **Mật độ** | Từ khóa chính ≤ 2–3 lần / 100 từ, không nhồi nhét |
+| **Alt text ảnh** | Mô tả tiếng Việt có từ khóa SEO, đúng nội dung ảnh |
+| **Lead** | Đoạn mở 2–4 câu: gọi "bạn", nêu giá trị chính, chứa từ khóa |
+| **Độ dài bài** | ≥ 800 từ; Travel Guide / Top List nên 1000–1500 từ |
+| **Internal link** | Nếu nhắc địa điểm/ẩm thực đã có bài → link tới bài đó trên site (kiểm tra URL đúng) |
+| **Slug** | Tên file tiếng Việt có dấu, phân cách dấu gạch ngang, chứa từ khóa chính |
+| **Từ khóa cuối bài** | Dòng `**Từ khóa:** ...` cuối bài — liệt kê đúng các tag trong front matter |
+
 ---
 
 ## 5. TEMPLATE – Cấu Trúc Bài Viết
@@ -205,6 +301,7 @@ Title là yếu tố quan trọng nhất cho SEO và thu hút click. **Không đ
 title: [Tiêu đề với emoji] 🌊🏖️
 date: YYYY-MM-DD HH:MM:SS
 cover: [URL ảnh cover từ bài gốc]
+description: [Mô tả 120–160 ký tự, chứa từ khóa SEO chính, hấp dẫn click]
 categories:
   - [Trải Nghiệm]
 tags: [tag1, tag2, tag3, ...]
@@ -250,6 +347,7 @@ tags: [tag1, tag2, tag3, ...]
 title: Top N [Chủ Đề] 📸✨
 date: YYYY-MM-DD HH:MM:SS
 cover: [URL ảnh cover]
+description: [Mô tả 120–160 ký tự, chứa từ khóa SEO chính, hấp dẫn click]
 tags: [tag1, tag2, ...]
 sticky: true
 ---
@@ -287,6 +385,7 @@ sticky: true
 ---
 title: ★★★★★ [Tiêu đề] ([Tên khách])
 date: YYYY-MM-DD HH:MM:SS
+description: [Mô tả 120–160 ký tự, chứa từ khóa SEO chính, hấp dẫn click]
 categories:
   - [Review Airbnb]  (hoặc Review Agoda)
 ---
@@ -324,6 +423,7 @@ categories:
 title: [Tiêu đề sự kiện / mùa] 🎄✨
 date: YYYY-MM-DD HH:MM:SS
 cover: [URL ảnh]
+description: [Mô tả 120–160 ký tự, chứa từ khóa SEO chính, hấp dẫn click]
 tags: [tag1, tag2, ...]
 sticky: true
 ---
@@ -368,7 +468,6 @@ sticky: true
 
 | Quy tắc | Mô tả |
 |---------|-------|
-| **URL** | Giữ nguyên URL ảnh gốc, không download, không re-upload |
 | **Định dạng** | `![alt text mô tả bằng tiếng Việt](url "title")` |
 | **Alt text** | Phải chứa ít nhất 1 từ khóa SEO, mô tả đúng nội dung ảnh |
 | **HTML `\<img\>`** | Chỉ dùng khi cần gallery ảnh chất lượng cao hoặc ảnh bắt buộc từ 500px |
@@ -376,28 +475,64 @@ sticky: true
 | **Skip** | Bỏ qua ảnh < 100x100px, ảnh logo/avatar/icon/quảng cáo/placeholder, ảnh hotel thumbnail nhỏ (< 300px) |
 | **Phân bổ** | Ảnh có alt text hoặc nội dung liên quan đến section nào → gán vào section đó. Ảnh không rõ chủ đề → gán vào section kế tiếp còn thiếu. |
 
+### 6.3 ⚠️ HỎI USER TRƯỚC KHI XỬ LÝ ẢNH (Bắt Buộc)
+
+**Không bao giờ tự ý upload ảnh lên imgbb.** Sau khi crawl xong và biết danh sách ảnh, dùng `question` tool hỏi user:
+
+**Trường hợp A — ảnh có URL gốc từ web nguồn (bài báo, blog...):**
+> Hỏi **1 lần duy nhất cho toàn bộ bài**: "Ảnh trong bài dùng URL gốc của web nguồn hay upload lên imgbb?"
+> - Option 1 (Recommended): Giữ nguyên URL gốc
+> - Option 2: Upload toàn bộ lên imgbb
+
+**Trường hợp B — ảnh screenshot do Playwright tự chụp (review Airbnb/Agoda, bất kỳ ảnh tự chụp nào):**
+> Vì ảnh này **không có URL gốc ổn định**, phải hỏi user: "Ảnh screenshot có cần upload lên imgbb không?"
+> - Option 1: Upload lên imgbb (đọc key từ `.env` — xem mục 0.3)
+> - Option 2: Không dùng ảnh này, bỏ qua
+
+### 6.4 Quy Trình Upload lên imgbb (Khi User Đồng Ý)
+
+1. Đọc API key từ `.env` (biến `UPLOAD_IMG_BB_API_KEY`) — **không echo giá trị key**
+2. Upload từng file: `curl.exe -s --request POST "https://api.imgbb.com/1/upload" --form "key=$key" --form "image=@<path>"`
+3. Lấy `data.url` từ response JSON
+4. Thay URL trong bài viết bằng URL imgbb
+5. Xóa file ảnh local (nếu có) để không tốn dung lượng git repo
+6. Ảnh tải về từ web nguồn (Airbnb CDN...) → tải về temp folder → upload → xóa temp folder
+
 ---
 
 ## 7. VERIFY – Checklist Kiểm Tra
 
 Trước khi kết thúc, kiểm tra từng mục:
 
+**Front matter & SEO:**
 - [ ] Front matter bắt đầu và kết thúc bằng `---`
 - [ ] `date` đúng format `YYYY-MM-DD HH:MM:SS`, ngày hợp lệ
 - [ ] `title` có emoji phù hợp, khớp với heading đầu bài
 - [ ] **Title không trùng với title bài gốc** (khác từ, khác cấu trúc, khác format)
 - [ ] Title có từ khóa SEO chính + động từ mạnh + độ dài 40–80 ký tự
+- [ ] **`description` dài 120–160 ký tự**, chứa từ khóa SEO chính, hấp dẫn click
+- [ ] `Từ khóa:` ở cuối bài khớp với `tags` trong front matter
+- [ ] Heading hierarchy hợp lệ: 1 H1 → H2 → H3 (không nhảy cấp)
+
+**Ảnh:**
+- [ ] **Đã hỏi user về phương án ảnh (imgbb hay URL gốc)** — xem mục 6.3
 - [ ] Cover URL tải được (test bằng browser nếu cần)
 - [ ] Tất cả ảnh có alt text tiếng Việt, chứa từ khóa SEO
 - [ ] **Mỗi section H2 có ít nhất 1 ảnh** (không section nào chỉ text trần)
+- [ ] Nếu ảnh screenshot đã upload imgbb: URL trả HTTP 200, file local đã xóa
+
+**Nội dung & liên kết:**
 - [ ] Không có internal link hỏng (không link đến bài khác trên site)
-- [ ] `Từ khóa:` ở cuối bài khớp với `tags` trong front matter
 - [ ] Thông tin liên hệ chính xác tuyệt đối (SĐT, địa chỉ, email)
 - [ ] Social links (Facebook, Instagram, Agoda, Airbnb) đúng URL
+- [ ] Số liệu, tên riêng, giá cả từ nguồn giữ chính xác 100%
 - [ ] Emoji không bị lỗi encoding
+
+**File & build:**
 - [ ] File được lưu đúng thư mục `source/_posts/[category]/`
 - [ ] Tên file: tiếng Việt có dấu, phân cách bằng dấu gạch ngang, đuôi `.md`
 - [ ] Chạy `npm run build` không báo lỗi
+- [ ] Không có secret (API key, .env content) bị ghi vào bài viết hay commit
 
 ---
 
@@ -428,13 +563,20 @@ URL: https://example.com/bai-viet-ve-bai-sau-vung-tau
 → **Thư mục:** `trai-nghiem/`
 → **Tên file:** `kham-pha-bai-sau-vung-tau-thien-duong-bien-xanh.md`
 
-### Bước 3–5: Output (Bài Viết Hoàn Chỉnh)
+### Bước 3: Rewrite
+→ Viết lại theo quy tắc mục 4 (style mình–bạn, emoji, title chuẩn SEO, description 120–160 ký tự).
+
+### Bước 4: Hỏi User Về Ảnh
+> Dùng `question` tool: "Ảnh trong bài dùng URL gốc của web nguồn hay upload lên imgbb?" → User chọn → áp dụng cho toàn bộ ảnh.
+
+### Bước 5–6: Output (Bài Viết Hoàn Chỉnh)
 
 ```markdown
 ---
 title: Khám Phá Bãi Sau Vũng Tàu – Thiên Đường Biển Xanh Ngay Trung Tâm 🌊🏖️
 date: 2026-05-31 10:00:00
 cover: https://cdn.example.com/bai-sau-1.jpg
+description: Bỏ túi kinh nghiệm khám phá Bãi Sau Vũng Tàu – bãi biển đẹp nhất trung tâm: thời điểm lý tưởng, hoạt động vui chơi, ẩm thực và gợi ý homestay view biển.
 categories:
   - [Trải Nghiệm]
 tags:
@@ -487,5 +629,5 @@ Theo kinh nghiệm của mình, Bãi Sau đẹp nhất vào buổi sáng sớm (
 **Từ khóa:** Bãi Sau Vũng Tàu, biển Vũng Tàu, du lịch Vũng Tàu, homestay Vũng Tàu, Sunbeam Homestay, khám phá Vũng Tàu, bãi biển Vũng Tàu, kinh nghiệm du lịch, du lịch biển, nghỉ dưỡng Vũng Tàu
 ```
 
-### Bước 6: Verify
-→ Kiểm tra checklist → Đạt tất cả → Hoàn tất!
+### Bước 7: Verify
+→ Kiểm tra checklist SEO → Đạt tất cả → Hoàn tất!
