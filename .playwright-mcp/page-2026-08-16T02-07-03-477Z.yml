@@ -1,0 +1,548 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: https://anchoivungtau.vn/
+        - img "Ăn chơi Vũng Tàu" [ref=e8]
+      - list [ref=e10]:
+        - listitem:
+          - list [ref=e11]:
+            - listitem [ref=e12]:
+              - link "Về chúng tôi" [ref=e13] [cursor=pointer]:
+                - /url: "#"
+              - text: 
+              - generic [ref=e14] [cursor=pointer]: 
+            - listitem [ref=e16]:
+              - link "Khám phá Vũng Tàu" [ref=e17] [cursor=pointer]:
+                - /url: https://anchoivungtau.vn/kham-pha-vung-tau/
+              - generic [ref=e18] [cursor=pointer]: 
+            - listitem [ref=e20]:
+              - link "Du Lịch VT Trọn Gói" [ref=e21] [cursor=pointer]:
+                - /url: https://anchoivungtau.vn/tin-tuc/
+              - generic [ref=e22] [cursor=pointer]: 
+            - listitem [ref=e24]:
+              - link "Tin tức" [ref=e25] [cursor=pointer]:
+                - /url: https://anchoivungtau.vn/tin-tuc/
+              - generic [ref=e26] [cursor=pointer]: 
+            - listitem [ref=e28]:
+              - link "Lịch Nước Rút" [ref=e29] [cursor=pointer]:
+                - /url: https://anchoivungtau.vn/chuyen-muc/lich-nuoc-rut-hon-ba/
+            - listitem [ref=e30]:
+              - link "Liên hệ" [ref=e31] [cursor=pointer]:
+                - /url: https://anchoivungtau.vn/lien-he/
+        - listitem [ref=e32]:
+          - link [ref=e33] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - search [ref=e34]:
+              - generic [ref=e35]:
+                - generic [ref=e36]: "Search for:"
+                - searchbox "Search for:" [ref=e37]
+              - button "Search Button Search" [ref=e38]:
+                - generic [ref=e39]: Search Button
+                - img "Search" [ref=e41]
+        - listitem [ref=e43]:
+          - link:
+            - /url: "#"
+          - link "MENU" [ref=e44] [cursor=pointer]:
+            - /url: javascript:void(0)
+  - main [ref=e46]:
+    - generic [ref=e48]:
+      - generic [ref=e50]:
+        - link "Trang chủ" [ref=e51] [cursor=pointer]:
+          - /url: " https://anchoivungtau.vn "
+        - generic [ref=e52]: \
+        - link "Du Lịch Sinh Thái" [ref=e53] [cursor=pointer]:
+          - /url: " https://anchoivungtau.vn/du-lich-sinh-thai "
+        - generic [ref=e54]: \
+        - link "THÁC HÒA BÌNH XUYÊN MỘC – THIÊN ĐƯỜNG CAMPING MÙA NÓNG" [ref=e55] [cursor=pointer]:
+          - /url: " https://anchoivungtau.vn/dia-diem-chi-tiet/thac-hoa-binh-xuyen-moc-thien-duong-camping-mua-nong/ "
+      - heading "THÁC HÒA BÌNH XUYÊN MỘC – THIÊN ĐƯỜNG CAMPING MÙA NÓNG" [level=1] [ref=e56]
+      - generic [ref=e57]:
+        - link "Du Lịch Sinh Thái" [ref=e60] [cursor=pointer]:
+          - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - generic [ref=e62]: Xuyên Mộc, Bà Rịa - Vũng Tàu
+        - generic [ref=e65]:
+          - button [ref=e67] [cursor=pointer]
+          - link [ref=e69] [cursor=pointer]:
+            - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fthac-hoa-binh-xuyen-moc-thien-duong-camping-mua-nong%2F
+          - link [ref=e71] [cursor=pointer]:
+            - /url: https://www.instagram.com/anchoivungtau
+          - link [ref=e73] [cursor=pointer]:
+            - /url: https://zalo.me/0911728668
+      - generic [ref=e74]:
+        - generic [ref=e76]:
+          - generic [ref=e78]:
+            - link "#":
+              - /url: https://anchoivungtau.vn/wp-content/uploads/2025/05/3.jpg
+              - img "#" [ref=e80] [cursor=pointer]
+          - generic [ref=e82]:
+            - generic [ref=e83]:
+              - link "#":
+                - /url: https://anchoivungtau.vn/wp-content/uploads/2025/05/26.jpg
+                - img "#" [ref=e85] [cursor=pointer]
+            - generic [ref=e86]:
+              - link "#":
+                - /url: https://anchoivungtau.vn/wp-content/uploads/2025/05/25.jpg
+                - img "#" [ref=e88] [cursor=pointer]
+            - generic [ref=e89]:
+              - link "#":
+                - /url: https://anchoivungtau.vn/wp-content/uploads/2025/05/24.jpg
+                - img "#" [ref=e91] [cursor=pointer]
+            - generic [ref=e92]:
+              - link "#":
+                - /url: https://anchoivungtau.vn/wp-content/uploads/2025/05/23.jpg
+                - img "#" [ref=e94] [cursor=pointer]
+            - generic [ref=e95]:
+              - link "#":
+                - /url: https://anchoivungtau.vn/wp-content/uploads/2025/05/22.jpg
+                - img "#" [ref=e97] [cursor=pointer]
+            - generic [ref=e98]:
+              - link "# Xem tất cả hình ảnh":
+                - /url: https://anchoivungtau.vn/wp-content/uploads/2025/05/21.jpg
+                - generic [ref=e99] [cursor=pointer]:
+                  - img "#" [ref=e100]
+                  - generic [ref=e101]: Xem tất cả hình ảnh
+        - generic [ref=e103]:
+          - generic [ref=e105]:
+            - generic [ref=e107]:
+              - heading "Giới thiệu" [level=2] [ref=e109]
+              - generic [ref=e110]:
+                - paragraph [ref=e111]: Thác Hòa Bình Xuyên Mộc như một viên ngọc quý ẩn mình giữa lòng thiên nhiên. Đến đây, bạn có thể lắng nghe tiếng nước chảy róc rách, tiếng chim hót líu lo, tiếng người xôn xao chuyện trò tạo nên một bản hòa tấu tuyệt vời, mời gọi những tâm hồn yêu thích phiêu lưu và khám phá. Cùng Ăn chơi Vũng Tàu đắm chìm trong vẻ đẹp hoang sơ của Thác Hòa Bình và khám phá trải nghiệm camping độc đáo tại đây – nơi mà thiên nhiên và con người hòa quyện trong một bức tranh tuyệt mỹ của sự bình yên và thư thái.
+                - figure [ref=e112]:
+                  - img "Thác Hòa Bình Xuyên Mộc" [ref=e113]
+                - paragraph [ref=e114]: Thác Hòa Bình chính là hiện thân của mẹ thiên nhiên với tổng hòa cả rừng núi, cỏ cây và suối chảy róc rách. Vào những ngày đầu hạ cuối tháng 3, đầu tháng 4, tiết trời mát mẻ, nắng dịu, dòng thác đổ xuống từ những tảng đá lớn tạo nên một bức tranh thiên nhiên hùng vĩ mà thơ mộng vô cùng.
+                - figure [ref=e115]:
+                  - figure [ref=e116]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e117]
+                  - figure [ref=e118]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e119]
+                  - figure [ref=e120]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e121]
+                - paragraph [ref=e122]: Nước thác trong veo, mát lạnh, mùa này du khách tới camping có thể tới chân thác khám phá, chụp ảnh. Mực nước lý tưởng trong các khe đá lớn tạo thành dòng suối mát lạnh không chỉ nuôi dưỡng cỏ cây xanh tươi mà còn như bầu sữa mẹ ấp ôm làn da của những đứa trẻ thị thành, lâu lâu được nghỉ xả hơi về lại cội nguồn tắm suối.
+                - figure [ref=e123]:
+                  - figure [ref=e124]
+                  - figure [ref=e125]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e126]
+                  - figure [ref=e127]
+                - paragraph [ref=e128]:
+                  - strong [ref=e129]: Trải nghiệm camping “có một không hai” tại thiên đường nghỉ dưỡng Xuyên Mộc
+                - figure [ref=e130]:
+                  - figure [ref=e131]
+                  - figure [ref=e132]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e133]
+                  - figure [ref=e134]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e135]
+                - paragraph [ref=e136]: Tận dụng lợi thế về cảnh quan thiên nhiên thơ mộng, khu Thác Hòa Bình cho phép du khách được trải nghiệm dịch vụ cắm trại qua đêm. Các khu lều, nhà Mông Cổ được bài trí kiên cố dọc theo triền suối, phía trước là mặt nước mát lạnh, phía sau là rừng cây bạt ngàn.
+                - figure [ref=e137]:
+                  - figure [ref=e138]
+                  - figure [ref=e139]
+                  - figure [ref=e140]
+                - paragraph [ref=e141]: Bạn có thể lựa chọn giữa lều nhỏ dành cho 2 người hoặc lều Mông Cổ vuông lớn hơn có thể chứa đến 10 người. Giá thuê lều cũng rất hợp lý, đặc biệt là trong các ngày trong tuần, dao động từ 600 ngàn ~ 2 triệu/đêm tùy vào số lượng người ở. Các lều đều đảm bảo sự riêng tư cho du khách nhưng vẫn tạo cảm giác gần gũi với thiên nhiên. Chỉ cần mở cửa lều, trước mặt đã là cả một thiên đường healing sáng giá.
+                - paragraph [ref=e142]:
+                  - strong [ref=e143]: Ẩm thực đa dạng, đậm đà hương vị đồng quê
+                - paragraph [ref=e144]: Điểm nhấn thứ ba của Thác Hòa Bình chính là ẩm thực đa dạng và hấp dẫn. Du khách có thể lựa chọn tự túc mang theo đồ ăn hoặc đặt món theo menu có sẵn. Đội ngũ đầu bếp tại đây sẵn sàng phục vụ các món ăn đa dạng, từ các món nướng thơm phức đến các món ăn dân dã đậm đà hương vị địa phương. Menu phong phú đảm bảo sẽ làm hài lòng mọi khẩu vị, mọi độ tuổi.
+                - figure [ref=e145]:
+                  - figure [ref=e146]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e147]
+                  - figure [ref=e148]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e149]
+                - paragraph [ref=e150]: Nếu có kế hoạch đi chơi ngày cuối tuần, bạn nên liên hệ trực tiếp với bộ phận ẩm thực để được tư vấn chi tiết và đặt món trước.
+                - figure [ref=e151]:
+                  - figure [ref=e152]
+                  - figure [ref=e153]
+                  - figure [ref=e154]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e155]
+                - paragraph [ref=e156]: Ngoài việc tận hưởng không gian camping và thưởng thức ẩm thực, Khu camping Thác Hòa Bình còn cung cấp nhiều hoạt động giải trí thú vị khác. Bạn có thể mang theo cần câu để thử vận may câu cá ngay trước lều của mình hay có thể tham gia hoạt động xúc hến, rèn luyện kỹ năng sống thực tế cho con. Việc tự tay bắt hến và chế biến chúng sẽ mang lại cảm giác thích thú và gần gũi với thiên nhiên đồng thời cũng giúp gắn kết các thành viên trong gia đình ngày một khăng khít.
+                - figure [ref=e157]:
+                  - figure [ref=e158]
+                  - figure [ref=e159]
+                  - figure [ref=e160]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e161]
+                - paragraph [ref=e162]:
+                  - strong [ref=e163]: Lưu ý khi đi camping tại Thác Hòa Bình
+                - paragraph [ref=e164]: "Để có một chuyến đi camping hoàn hảo tại Thác Hòa Bình, bạn nên lưu ý một số điểm sau:"
+                - list [ref=e165]:
+                  - listitem [ref=e166]: Để đảm bảo có chỗ ở, đặc biệt là vào cuối tuần hoặc ngày lễ, bạn nên đặt lều trước.
+                  - listitem [ref=e167]: Mang theo đồ dùng cá nhân cần thiết như quần áo, đồ vệ sinh, kem chống nắng, thuốc chống côn trùng.
+                  - listitem [ref=e168]: Chuẩn bị cần câu cá nếu muốn trải nghiệm tự câu và nướng cá tại suối, khu camping cũng có dịch vụ cho khách thuê cần
+                  - listitem [ref=e169]: Tham khảo trước menu và đặt món theo set, vừa phù hợp với nhóm đông người vừa thử được nhiều loại
+                  - listitem [ref=e170]: Nếu nấu nướng trực tiếp trước lều, hãy đảm bảo vệ sinh và dọn gọn gàng, sạch sẽ trước checkout
+                - figure [ref=e171]:
+                  - figure [ref=e172]
+                  - figure [ref=e173]
+                  - figure [ref=e174]:
+                    - img "Thác Hòa Bình Xuyên Mộc" [ref=e175]
+                - paragraph [ref=e176]: Thác Hòa Bình tại huyện Xuyên Mộc, tỉnh Bà Rịa Vũng Tàu không chỉ là một điểm đến mà còn là một hành trình khám phá bản thân và tận hưởng vẻ đẹp tinh khôi của thiên nhiên. Với vẻ đẹp hoang sơ, dịch vụ camping chuyên nghiệp, ẩm thực đa dạng và nhiều hoạt động giải trí thú vị, Thác Hòa Bình chắc chắn sẽ mang lại cho bạn những trải nghiệm đáng nhớ!
+                - paragraph [ref=e177]:
+                  - strong [ref=e178]:
+                    - text: "Xem thêm:"
+                    - link "THẮNG ĐỜI 10-0 KHI BIẾT HẾT 10 ĐỊA ĐIỂM CHỤP ẢNH TẠI XUYÊN MỘC" [ref=e179] [cursor=pointer]:
+                      - /url: https://anchoivungtau.vn/thang-doi-10-0-khi-biet-het-10-dia-diem-chup-anh-tai-xuyen-moc/
+                - paragraph [ref=e180]:
+                  - strong [ref=e181]:
+                    - text: Bài viết từ team
+                    - link "Ăn Chơi Vũng Tàu" [ref=e182] [cursor=pointer]:
+                      - /url: https://www.facebook.com/anchoivungtau
+            - generic [ref=e183]:
+              - generic [ref=e184]: Thông Tin Địa Điểm
+              - link "Xem trên Google map" [ref=e186] [cursor=pointer]:
+                - /url: https://maps.google.com/?q=Xuyên Mộc, Bà Rịa - Vũng Tàu
+              - generic [ref=e187]:
+                - term [ref=e188]: Loại dịch vụ
+                - definition [ref=e189]:
+                  - link "Du Lịch Sinh Thái" [ref=e191] [cursor=pointer]:
+                    - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+                - term [ref=e193]: Địa chỉ
+                - definition [ref=e194]: Xuyên Mộc, Bà Rịa - Vũng Tàu
+                - term [ref=e195]: Thành phố
+                - definition [ref=e196]: Huyện Xuyên Mộc
+                - term [ref=e197]: Phường
+                - definition [ref=e198]
+                - term [ref=e199]: Liên hệ
+                - definition [ref=e200]:
+                  - link:
+                    - /url: "tel:"
+          - generic [ref=e201]:
+            - generic [ref=e203]:
+              - heading "Liên hệ chúng tôi" [level=3] [ref=e204]
+              - generic [ref=e205]:
+                - generic [ref=e206]:
+                  - status
+                  - list
+                - form "Form liên hệ" [ref=e207]:
+                  - paragraph [ref=e209]:
+                    - textbox [ref=e212]:
+                      - /placeholder: Họ tên
+                    - textbox [ref=e215]:
+                      - /placeholder: Số điện thoại
+                    - textbox [ref=e218]:
+                      - /placeholder: Email
+                    - textbox [ref=e221]:
+                      - /placeholder: Xin chào ACVT
+                    - combobox [ref=e224]:
+                      - option "—Vui lòng chọn—" [selected]
+                      - option "Tôi muốn đặt chỗ"
+                      - option "Liên hệ quảng cáo"
+                      - option "Liên hệ làm cộng tác viên"
+                      - option "Tôi cần trao đổi thêm"
+                    - button "Gửi" [ref=e225] [cursor=pointer]
+            - generic [ref=e227]:
+              - link [ref=e229] [cursor=pointer]:
+                - /url: tel:0901362296
+                - img "#" [ref=e230]
+              - link [ref=e232] [cursor=pointer]:
+                - /url: tel:0911728668
+                - img "#" [ref=e233]
+    - link [ref=e237] [cursor=pointer]:
+      - /url: tel:0901362296
+      - img "#" [ref=e238]
+    - generic [ref=e241]:
+      - heading "Các địa điểm khác" [level=2] [ref=e242]
+      - generic [ref=e245]:
+        - group "1 / 12" [ref=e246]:
+          - generic [ref=e247]:
+            - generic [ref=e248]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/bumking-resort-xuyen-moc/
+            - generic [ref=e249]:
+              - heading [level=3] [ref=e250]:
+                - link "BUMKING RESORT XUYÊN MỘC" [ref=e251] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/bumking-resort-xuyen-moc/
+              - generic [ref=e252]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fbumking-resort-xuyen-moc%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e253]: BumKing Resort nằm ở huyện Xuyên Mộc tỉnh Bà Rịa Vũng Tàu cách Sài Gòn khoảng 100km, di chuyển dễ dàng, không gian tràn ngập màu sắc cây cỏ, vườn trái cây siêu rộng cùng khu sân vườn cực thích hợp để bạn tổ chức
+            - generic [ref=e254]: Tổ 5 Ấp Trang Hoàng
+            - generic [ref=e256]:
+              - link "Du Lịch Sinh Thái" [ref=e257] [cursor=pointer]:
+                - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+              - link "Nghỉ Dưỡng" [ref=e259] [cursor=pointer]:
+                - /url: https://anchoivungtau.vn/dia-diem/dia-diem-nghi-duong/
+        - group "2 / 12" [ref=e261]:
+          - generic [ref=e262]:
+            - generic [ref=e263]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/vuon-nhan-bap-cai-phu-trong/
+            - generic [ref=e264]:
+              - heading [level=3] [ref=e265]:
+                - link "VƯỜN NHÃN BẮP CẢI PHÚ TRỌNG" [ref=e266] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/vuon-nhan-bap-cai-phu-trong/
+              - generic [ref=e267]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fvuon-nhan-bap-cai-phu-trong%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e268]: Vườn nhãn bắp cải Phú Trọng là điểm đến yêu thích của nhiều khách du lịch trong nước lẫn nước ngoài khi qua Xuyên Mộc. Đặc biệt là mấy tháng mùa hè, nhãn bắp cải đúng đang độ chín cây, ngon ngọt và dày cơm n
+            - generic [ref=e269]: Ấp Tân Rú, Xã Phước Tân
+            - link "Du Lịch Sinh Thái" [ref=e272] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - group "3 / 12" [ref=e274]:
+          - generic [ref=e275]:
+            - generic [ref=e276]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/suoi-rao-forest/
+            - generic [ref=e277]:
+              - heading [level=3] [ref=e278]:
+                - link "SUỐI RAO FOREST" [ref=e279] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/suoi-rao-forest/
+              - generic [ref=e280]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fsuoi-rao-forest%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e281]: Suối Rao Forest cách thành phố Vũng Tàu 40km và cách thành phố Hồ Chí Minh 120km về hướng đông. Điểm đến nằm trong khu du lịch sinh thái Châu Đức này vẫn còn mang dáng vẻ hoang sơ. Được bao bọc bởi rừng, cây sao, cây
+            - generic [ref=e282]: Đường Xuân Sơn - Đá Bạc
+            - link "Du Lịch Sinh Thái" [ref=e285] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - group "4 / 12" [ref=e287]:
+          - generic [ref=e288]:
+            - generic [ref=e289]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/tommy-resort-xuyen-moc/
+            - generic [ref=e290]:
+              - heading [level=3] [ref=e291]:
+                - link "TOMMY RESORT XUYÊN MỘC" [ref=e292] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/tommy-resort-xuyen-moc/
+              - generic [ref=e293]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Ftommy-resort-xuyen-moc%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e294]: Bạn đã sẵn sàng vi vu tới Bà Rịa - Vũng Tàu và thoả thích nghỉ dưỡng, check-in tại các khu resort chill hết nấc với cảnh quan thiên nhiên tuyệt đẹp hay chưa nào? Vậy thì hãy cùng Ăn Chơi Vũng Tàu khám phá ngay Tommy Resor
+            - generic [ref=e295]: Đường ODA
+            - generic [ref=e297]:
+              - link "Du Lịch Sinh Thái" [ref=e298] [cursor=pointer]:
+                - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+              - link "Nghỉ Dưỡng" [ref=e300] [cursor=pointer]:
+                - /url: https://anchoivungtau.vn/dia-diem/dia-diem-nghi-duong/
+        - group "5 / 12" [ref=e302]:
+          - generic [ref=e303]:
+            - generic [ref=e304]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/vietgangz-beach-club/
+            - generic [ref=e305]:
+              - heading [level=3] [ref=e306]:
+                - link "VIETGANGZ BEACH CLUB" [ref=e307] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/vietgangz-beach-club/
+              - generic [ref=e308]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fvietgangz-beach-club%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e309]: Sau hàng loạt những địa điểm cắm trại sang chảnh như Tropical EGlamping, Đi Bụi Camping… nổi lên, mới đây giới trẻ Vũng Tàu
+            - link "Du Lịch Sinh Thái" [ref=e312] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - group "6 / 12" [ref=e314]:
+          - generic [ref=e315]:
+            - generic [ref=e316]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/trai-nghiem-mua-dua-luoi-ho-tram-ban-nhat-dinh-phai-thu-neu-co-dip/
+            - generic [ref=e317]:
+              - heading [level=3] [ref=e318]:
+                - link "TRẢI NGHIỆM MÙA DƯA LƯỚI HỒ TRÀM BẠN NHẤT ĐỊNH PHẢI THỬ NẾU CÓ DỊP" [ref=e319] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/trai-nghiem-mua-dua-luoi-ho-tram-ban-nhat-dinh-phai-thu-neu-co-dip/
+              - generic [ref=e320]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Ftrai-nghiem-mua-dua-luoi-ho-tram-ban-nhat-dinh-phai-thu-neu-co-dip%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e321]: Nếu có dịp ghé thăm Phước Thuận, huyện Xuyên Mộc, tỉnh Bà Rịa - Vũng Tàu, bạn sẽ không thể bỏ qua cảnh tượng tuyệt vời của những vườn dưa lưới trải dài hai bên con đường ven biển. Từ Dhawa Resort đến ngã t�
+            - generic [ref=e322]: Phước Thuận, huyện Xuyên Mộc
+            - link "Du Lịch Sinh Thái" [ref=e325] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - group "7 / 12" [ref=e327]:
+          - generic [ref=e328]:
+            - generic [ref=e329]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/suoi-rao-ecolodge-chau-duc/
+            - generic [ref=e330]:
+              - heading [level=3] [ref=e331]:
+                - link "SUỐI RAO ECOLODGE CHÂU ĐỨC" [ref=e332] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/suoi-rao-ecolodge-chau-duc/
+              - generic [ref=e333]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fsuoi-rao-ecolodge-chau-duc%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e334]: Nếu bạn thì quá chán với những địa điểm du lịch đông đúc thì sao không tham khảo một kỳ nghỉ dưỡng nhẹ nhàng tại Suoi Rao Ecolodge vớ
+            - generic [ref=e335]: Tổ 3, Thôn 1
+            - link "Du Lịch Sinh Thái" [ref=e338] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - group "8 / 12" [ref=e340]:
+          - generic [ref=e341]:
+            - generic [ref=e342]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/vuon-khoai-mai-phuoc-hoi/
+            - generic [ref=e343]:
+              - heading [level=3] [ref=e344]:
+                - link "VƯỜN KHOAI MÀI PHƯỚC HỘI" [ref=e345] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/vuon-khoai-mai-phuoc-hoi/
+              - generic [ref=e346]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fvuon-khoai-mai-phuoc-hoi%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e347]: Đi du lịch, đến các địa điểm tham quan nổi tiếng, chụp ảnh check - in, ăn uống là những hoạt động cực kỳ quen thuộc rồi! Bạn có muốn đổi gió một chút đến trải nghiệm thu hoạch khoai mài và thưởng thức ngay t
+            - generic [ref=e348]: tổ 4, ấp Hội Mỹ, xã Phước Hội
+            - link "Du Lịch Sinh Thái" [ref=e351] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - group "9 / 12" [ref=e353]:
+          - generic [ref=e354]:
+            - generic [ref=e355]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/khu-du-lich-binh-chau/
+            - generic [ref=e356]:
+              - heading [level=3] [ref=e357]:
+                - link "KHU DU LỊCH BÌNH CHÂU" [ref=e358] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/khu-du-lich-binh-chau/
+              - generic [ref=e359]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fkhu-du-lich-binh-chau%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e360]: Nằm ẩn mình giữa khu rừng nguyên sinh xanh thẳm, khu du lịch sinh thái Bình Châu nổi tiếng bởi nguồn suối nước nóng quý
+            - generic [ref=e361]: Quốc Lộ 55
+            - link "Du Lịch Sinh Thái" [ref=e364] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - group "10 / 12" [ref=e366]:
+          - generic [ref=e367]:
+            - generic [ref=e368]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/sala-beach-club-camping-long-hai/
+            - generic [ref=e369]:
+              - heading [level=3] [ref=e370]:
+                - link "SALA BEACH CLUB CAMPING LONG HẢI" [ref=e371] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/sala-beach-club-camping-long-hai/
+              - generic [ref=e372]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fsala-beach-club-camping-long-hai%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e373]: Sala Beach Club Camping nằm ở thị trấn Long Hải, huyện Long Điền, tỉnh Bà Rịa Vũng Tàu (Xem đường đi). Nếu bạn đi xe máy ho�
+            - generic [ref=e374]: Thị Trấn Long Hải
+            - link "Du Lịch Sinh Thái" [ref=e377] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - group "11 / 12" [ref=e379]:
+          - generic [ref=e380]:
+            - generic [ref=e381]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/ho-so-bong-dat-do/
+            - generic [ref=e382]:
+              - heading [level=3] [ref=e383]:
+                - link "HỒ SỞ BÔNG ĐẤT ĐỎ" [ref=e384] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/ho-so-bong-dat-do/
+              - generic [ref=e385]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fho-so-bong-dat-do%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e386]: Giữa vùng đất biển đầy nắng và gió, hồ Sở Bông hiện lên viên ngọc ẩn mình của xã Đất Đỏ, không ồn ào như phố biển Vũng Tàu, không xô bồ như những bãi tắm nổi tiếng. Nơi đây nhẹ nhàng như một khúc tình
+            - link "Du Lịch Sinh Thái" [ref=e389] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+        - group "12 / 12" [ref=e391]:
+          - generic [ref=e392]:
+            - generic [ref=e393]:
+              - link:
+                - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/khu-du-lich-sinh-thai-greenhome-xm/
+            - generic [ref=e394]:
+              - heading [level=3] [ref=e395]:
+                - link "KHU DU LỊCH SINH THÁI GREENHOME XM" [ref=e396] [cursor=pointer]:
+                  - /url: https://anchoivungtau.vn/dia-diem-chi-tiet/khu-du-lich-sinh-thai-greenhome-xm/
+              - generic [ref=e397]:
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanchoivungtau.vn%2Fdia-diem-chi-tiet%2Fkhu-du-lich-sinh-thai-greenhome-xm%2F
+                  - link:
+                    - /url: https://www.instagram.com/anchoivungtau
+                  - link:
+                    - /url: https://zalo.me/0911728668
+            - generic [ref=e398]: Nếu bạn muốn tìm một resort xinh yêu, vừa có cảnh quan đẹp, ngập tràn màu xanh thiên nhiên vừa yên bình, không xô bồ để thư giãn, nghỉ ngơi trong 2 ngày cuối cùng ngắn ngủi cùng gia đình, người thân, Greenhome XM là m�
+            - generic [ref=e399]: QL55, Xuyên Mộc
+            - link "Du Lịch Sinh Thái" [ref=e402] [cursor=pointer]:
+              - /url: https://anchoivungtau.vn/dia-diem/du-lich-sinh-thai/
+  - contentinfo [ref=e405]:
+    - generic [ref=e406]:
+      - link [ref=e408] [cursor=pointer]:
+        - /url: https://anchoivungtau.vn
+        - img "Ăn chơi vũng tàu logo" [ref=e410]
+      - generic [ref=e411]:
+        - link [ref=e413] [cursor=pointer]:
+          - /url: mailto:anchoivungtau72@gmail.com
+          - img "Email icon" [ref=e414]
+          - text: "Email: anchoivungtau72@gmail.com"
+        - link [ref=e416] [cursor=pointer]:
+          - /url: tel:0911728668
+          - img "Phone icon" [ref=e417]
+          - text: "Hotline: 0911728668"
+      - generic [ref=e418]:
+        - paragraph [ref=e419]: Kết nối với chúng tôi
+        - link [ref=e421] [cursor=pointer]:
+          - /url: https://www.facebook.com/groups/VungtauUm
+          - img "Facebook logo" [ref=e422]
+        - link [ref=e424] [cursor=pointer]:
+          - /url: https://www.tiktok.com/@anchoivungtau72
+          - img "Tiktok logo" [ref=e425]
+        - link [ref=e427] [cursor=pointer]:
+          - /url: https://www.instagram.com/anchoivungtau
+          - img "Instagram logo" [ref=e428]
+        - link [ref=e430] [cursor=pointer]:
+          - /url: https://www.youtube.com/@anchoivungtau
+          - img "Youtube logo" [ref=e431]
+        - link [ref=e433] [cursor=pointer]:
+          - /url: https://zalo.me/0911728668
+          - img "Zalo logo" [ref=e434]
+      - paragraph [ref=e436]: © 2023 Bản quyền thuộc về Công ty Cổ Phần Truyền Thông Du Phong
+      - generic [ref=e437]:
+        - link "Liên hệ":
+          - /url: tel:0911728668
+          - generic [ref=e440] [cursor=pointer]
+  - link [ref=e441] [cursor=pointer]:
+    - /url: https://www.dmca.com/Protection/Status.aspx?ID=9774c451-7d52-4d7b-aba2-500da3972e17&refurl=https://anchoivungtau.vn/dia-diem-chi-tiet/thac-hoa-binh-xuyen-moc-thien-duong-camping-mua-nong/
+    - img "DMCA.com Protection Status" [ref=e442]

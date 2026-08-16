@@ -1,6 +1,6 @@
 ---
 title: Đừng Bỏ Lỡ Pháo Hoa Tầm Cao Mừng 50 Năm TP.HCM Tại Vũng Tàu – Gần Sunbeam Homestay 🎆✨
-date: 2026-07-28 10:00:00
+date: 2026-08-15 10:00:00
 cover: https://i.ex-cdn.com/danviet.vn/files/content/2026/06/13/vung-tau_phao-hoa-0711.jpg
 tags:
   [
