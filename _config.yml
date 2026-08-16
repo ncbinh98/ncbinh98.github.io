@@ -8,7 +8,9 @@ subtitle: ''
 description: ''
 keywords:
 author: Sunbeam Homestay
-language: vi
+language:
+  - vi
+  - en
 timezone: 'Asia/Bangkok'
 
 # URL
@@ -71,6 +73,8 @@ category_map:
  Review Airbnb: review-airbnb
  Trải Nghiệm: trai-nghiem
  Ẩm Thực: am-thuc
+ Experiences: experiences
+ Food: food
 tag_map:
 
 # Metadata elements
@@ -202,3 +206,10 @@ feed:
 
 sitemap:
     path: sitemap.xml
+
+theme_config:
+    menu:
+        home: / || home
+        about: /about/ || user
+        contact: /contact/ || heart
+        booking: /booking/ || magic

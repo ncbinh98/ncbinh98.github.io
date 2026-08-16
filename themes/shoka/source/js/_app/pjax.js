@@ -106,6 +106,7 @@ const siteInit = function () {
   domInit()
 
   pjax = new Pjax({
+            elements: 'a[href]:not(.lang-switch), form[action]',
             selectors: [
               'head title',
               '.languages',

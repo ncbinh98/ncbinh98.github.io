@@ -219,7 +219,7 @@ const goToCommentHandle = function () {
 }
 
 const menuActive = function () {
-  $.each('.menu .item:not(.title)', function (element) {
+  $.each('.menu .item:not(.title):not(.lang-switch):not(.lang-switch .item)', function (element) {
     var target = element.child('a[href]');
     var parentItem = element.parentNode.parentNode;
     if (!target) return;

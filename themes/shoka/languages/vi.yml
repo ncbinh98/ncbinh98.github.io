@@ -24,11 +24,25 @@ menu:
   about: Giới thiệu
   contact: Liên hệ
   booking: Đặt phòng ngay!
+  language: Ngôn ngữ
 
 sidebar:
   overview: Tổng quan
   toc: Mục lục
   related: Liên quan
+
+contact:
+  heading: Liên hệ Sunbeam Homestay Vũng Tàu
+  address: Địa chỉ
+  phone: Điện thoại
+  email: Email
+  website: Website
+  social: Mạng Xã Hội
+
+meta:
+  title: Sunbeam Homestay Vũng Tàu - Homestay Giá Rẻ, Tiện Nghi, Gần Biển
+  description: Sunbeam Homestay Vũng Tàu cung cấp chỗ ở giá rẻ, tiện nghi hiện đại và gần biển. Đặt phòng homestay dễ dàng và tận hưởng kỳ nghỉ lý tưởng tại Vũng Tàu.
+  keywords: Sunbeam Homestay, Homestay Vũng Tàu, đặt phòng homestay, homestay gần biển, homestay giá rẻ Vũng Tàu, nghỉ dưỡng Vũng Tàu, homestay tiện nghi
 
 index:
   sticky: Bài viết nổi bật

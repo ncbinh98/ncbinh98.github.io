@@ -4,6 +4,13 @@
   {%- if not itemURL.startsWith('http') %}
     {%- set itemURL = itemURL | replace('//', '/') %}
   {%- endif %}
+  {%- if page.lang == 'en' and not itemURL.startsWith('http') %}
+    {%- if itemURL == '/' %}
+      {%- set itemURL = '/en/' %}
+    {%- else %}
+      {%- set itemURL = '/en' + itemURL %}
+    {%- endif %}
+  {%- endif %}
   {%- set menuIcon = '<i class="ic i-' + path[1] | trim + '"></i>' %}
   {%- set menuText = __('menu.' + name) | replace('menu.', '') %}
   {%- if parent %}
@@ -35,3 +42,23 @@
     {{ item(name, value) }}
   {%- endif %}
 {%- endfor %}
+
+{%- if languages and languages.length > 1 %}
+  <li class="item dropdown lang-switch" data-lang-switch>
+    <a tabindex="0" role="button" aria-haspopup="listbox" aria-expanded="false" aria-label="{{ __('menu.language') }}: {{ page.lang | upper }}">
+      <i class="ic i-flag"></i>{{ page.lang | upper }}
+    </a>
+    <ul class="submenu" role="listbox" aria-label="{{ __('menu.language') }}">
+      {%- for lang in languages %}
+        {%- if lang == languages[0] %}
+          {%- set langPath = '/' %}
+        {%- else %}
+          {%- set langPath = '/' + lang + '/' %}
+        {%- endif %}
+        <li class="item{% if page.lang == lang %} active{% endif %}">
+          <a class="lang-switch" href="{{ url_for(langPath) }}" lang="{{ lang }}" role="option"{% if page.lang == lang %} aria-selected="true"{% endif %}>{{ language_name(lang) }}</a>
+        </li>
+      {%- endfor %}
+    </ul>
+  </li>
+{%- endif %}

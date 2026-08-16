@@ -22,11 +22,27 @@ menu:
   tags: Tags
   about: About
   search: Search
+  contact: Contact
+  booking: Book now!
+  language: Language
 
 sidebar:
   overview: Overview
   toc: Contents
   related: Related
+
+contact:
+  heading: Contact Sunbeam Homestay Vung Tau
+  address: Address
+  phone: Phone
+  email: Email
+  website: Website
+  social: Social Media
+
+meta:
+  title: Sunbeam Homestay Vung Tau - Affordable, Cozy, Near The Beach
+  description: Sunbeam Homestay Vung Tau offers affordable, modern and beachside accommodation. Book easily and enjoy the ideal vacation in Vung Tau.
+  keywords: Sunbeam Homestay, Homestay Vung Tau, book homestay, homestay near the beach, cheap homestay Vung Tau, Vung Tau resort, cozy homestay
 
 index:
   sticky: Sticky Posts
