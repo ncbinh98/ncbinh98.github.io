@@ -45,3 +45,46 @@
 <ul class="menu">
   {{ partial('_partials/sidebar/menu.njk', {}, {cache: true}) }}
 </ul>
+
+<style>
+.overview .menu .item.lang-switch:hover .submenu,
+#nav .menu .item.lang-switch:hover .submenu { display: none; }
+.overview .menu .item.lang-switch.expand .submenu,
+#nav .menu .item.lang-switch.expand .submenu { display: block; }
+#nav .menu .item.lang-switch > a { cursor: pointer; }
+#nav .menu .item.lang-switch > a:focus-visible { outline: 2px solid var(--color-pink); outline-offset: 2px; }
+</style>
+<script>
+(function () {
+  var doc = document;
+  var closeAll = function () {
+    doc.querySelectorAll('.lang-switch.expand').forEach(function (li) {
+      li.classList.remove('expand');
+      var a = li.querySelector('a[aria-expanded]');
+      if (a) a.setAttribute('aria-expanded', 'false');
+    });
+  };
+  doc.addEventListener('click', function (e) {
+    var trigger = e.target.closest('.lang-switch > a[aria-haspopup]');
+    if (trigger) {
+      e.preventDefault();
+      var li = trigger.parentNode;
+      var open = li.classList.toggle('expand');
+      trigger.setAttribute('aria-expanded', open ? 'true' : 'false');
+      return;
+    }
+    closeAll();
+  });
+  doc.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter' || e.key === ' ') {
+      var trigger = e.target.closest('.lang-switch > a[aria-haspopup]');
+      if (trigger) {
+        e.preventDefault();
+        trigger.click();
+      }
+    } else if (e.key === 'Escape') {
+      closeAll();
+    }
+  });
+})();
+</script>

@@ -1,6 +1,6 @@
 ---
 name: sunbeam-content-crafter
-description: Use when the user asks to crawl a URL and create a new blog post for Sunbeam Homestay (Vũng Tàu) — e.g. "crawl [URL] và tạo bài viết", "viết bài blog", "rewrite bài này theo style Sunbeam", or wants to gather info/reviews from Airbnb/Agoda listings. Crawls content with Playwright, rewrites it in Sunbeam Homestay style (Vietnamese, mình–bạn, emoji), handles images (asks user: imgbb upload vs original URL), generates a Hexo markdown file in source/_posts/ and verifies the SEO checklist.
+description: Use when the user asks to crawl a URL and create a new blog post for Sunbeam Homestay (Vũng Tàu) — e.g. "crawl [URL] và tạo bài viết", "viết bài blog", "rewrite bài này theo style Sunbeam", "dịch bài này sang tiếng Anh", "viết bản EN cho bài [slug]", or wants to gather info/reviews from Airbnb/Agoda listings. Crawls content with Playwright, rewrites it in Sunbeam Homestay style (Vietnamese, mình–bạn, emoji), translates existing posts into English (source/_posts/en/, lang: en, alternate links), handles images (asks user: imgbb upload vs original URL), generates a Hexo markdown file in source/_posts/ and verifies the SEO checklist.
 ---
 
 # 🏖️ Skill: Sunbeam Content Crafter
@@ -9,6 +9,8 @@ description: Use when the user asks to crawl a URL and create a new blog post fo
 
 **Cách kích hoạt:**
 > hãy crawl [URL] và tạo bài viết mới cho tôi
+
+> dịch bài này sang tiếng Anh / viết bản EN cho bài [slug] (xem mục 9)
 
 ---
 
@@ -631,3 +633,68 @@ Theo kinh nghiệm của mình, Bãi Sau đẹp nhất vào buổi sáng sớm (
 
 ### Bước 7: Verify
 → Kiểm tra checklist SEO → Đạt tất cả → Hoàn tất!
+
+---
+
+## 9. TRANSLATION MODE – Dịch Bài Sang Tiếng Anh
+
+**Kích hoạt:** "dịch bài này sang tiếng Anh", "viết bản EN cho bài [slug]", "translate post X to English"
+
+### 9.1 Quy Trình Dịch (4 Bước)
+
+1. **TÌM BÀI GỐC**: Xác định file tiếng Việt trong `source/_posts/` (tìm theo slug hoặc title). Đọc toàn bộ nội dung.
+2. **DỊCH**: Viết lại hoàn toàn bằng tiếng Anh theo style EN (mục 9.3). Giữ nguyên 100% dữ liệu, số liệu, URL ảnh, link.
+3. **TẠO FILE EN**: `source/_posts/en/<slug-english>.md` với front matter chuẩn (mục 9.2).
+4. **VERIFY**: Kiểm tra checklist EN (mục 9.4) → build (`npm run build`) → xác nhận URL vi không đổi.
+
+### 9.2 Front Matter Chuẩn Cho Bài EN
+
+```yaml
+---
+title: [Title tiếng Anh có emoji phù hợp]
+date: [GIỮ NGUYÊN ngày giờ bài gốc]
+lang: en
+alternate:
+  vi: /<slug-vietnamese-cua-bai-goc>/
+cover: [GIỮ NGUYÊN URL cover bài gốc]
+sticky: [GIỮ NGUYÊN nếu bài gốc có]
+categories:
+  - [Category tiếng Anh — xem bảng map]
+tags: [tag1, tag2, ...] # dịch sang tiếng Anh
+description: [Mô tả 120–160 ký tự tiếng Anh, chứa từ khóa SEO chính]
+---
+```
+
+**Bảng map category:**
+| Category tiếng Việt | Category tiếng Anh |
+|---|---|
+| Trải Nghiệm | Experiences |
+| Ẩm Thực | Food |
+| Review Airbnb | Review Airbnb (giữ nguyên) |
+| Review Agoda | Review Agoda (giữ nguyên) |
+| (không có category) | (không có category) |
+
+> ⚠️ **Không thêm** `permalink` vào front matter — prefix `/en/` được tự động thêm bởi `scripts/i18n.js` dựa trên `lang: en`.
+
+### 9.3 Quy Tắc Dịch Nội Dung
+
+| Yếu tố | Quy tắc |
+|---------|---------|
+| **Style** | Giọng thân thiện "you/we", tương tự giọng mình–bạn tiếng Việt; giữ emoji |
+| **Dữ liệu cứng** | GIỮ NGUYÊN: SĐT, địa chỉ, email, giá cả, số liệu, tên riêng, giờ check-in/out, link Agoda/Airbnb/Facebook/Instagram |
+| **Tên riêng VN** | Địa danh/món ăn giữ tên tiếng Việt khi chuẩn quốc tế: Bánh Khọt, Bánh Canh, Núi Lớn, Bãi Sau... (thêm chú thích tiếng Anh nếu cần) |
+| **Ảnh** | GIỮ NGUYÊN URL ảnh gốc, giữ nguyên alt text (dịch alt sang tiếng Anh), không re-upload — **không cần hỏi lại user về ảnh khi dịch bài** (đã chốt chính sách giữ URL gốc cho batch dịch) |
+| **Heading** | Dịch heading, giữ cấp độ H1→H2→H3 |
+| **Slug file EN** | Slug tiếng Anh theo title dịch, chứa từ khóa chính |
+| **Keywords cuối bài** | Dòng `**Keywords:** ...` — dịch và khớp với tags EN |
+
+### 9.4 Checklist EN (Verify Trước Khi Xong)
+
+- [ ] File nằm trong `source/_posts/en/`
+- [ ] Front matter: `lang: en`, `alternate.vi` trỏ đúng URL bài gốc, `date` giống bài gốc
+- [ ] Category/tags tiếng Anh, khớp `category_map` (Experiences/Food...)
+- [ ] `description` 120–160 ký tự tiếng Anh
+- [ ] Không có `permalink` trong front matter
+- [ ] Số liệu, SĐT, địa chỉ, link giữ nguyên 100%
+- [ ] `npm run build` không lỗi; URL bài vi không đổi
+- [ ] Không có secret (API key) trong bài

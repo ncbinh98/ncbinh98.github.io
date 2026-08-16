@@ -28,13 +28,11 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
-        run: npm install
+        run: npm ci
       - name: Clean
         run: npm run clean
       - name: Build
         run: npm run build
-      - name: Deploy
-        run: npm run deploy
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
