@@ -111,10 +111,6 @@ theme: shoka
 deploy:
   type: ''
 
-autoprefixer:
-  exclude:
-    - '*.min.css'
-
 markdown:
   render: # 渲染器设置
     html: false # 过滤 HTML 标签
@@ -150,26 +146,11 @@ markdown:
 
 minify:
   html:
-    enable: true
-    stamp: false
-    exclude:
-      - '**/json.ejs'
-      - '**/atom.ejs'
-      - '**/rss.ejs'
+    enable: false
   css:
-    enable: true
-    stamp: false
-    exclude:
-      - '**/*.min.css'
+    enable: false
   js:
-    enable: true
-    stamp: false
-    mangle:
-      toplevel: true
-    output:
-    compress:
-    exclude:
-      - '**/*.min.js'
+    enable: false
 
 # algolia:
 #   appId:
