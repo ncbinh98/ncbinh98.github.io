@@ -6,7 +6,6 @@ alternate:
   vi: /trai-nghiem-thap-tam-thang-vung-tau-dia-diem-ly-tuong-cach-sunbeam-homestay-chi-vai-buoc-chan/
 cover: https://i1-vnexpress.vnecdn.net/2025/08/30/thap-tam-thang-vung-tau-175656-1914-2539-1756565110.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=V_iQAS7GUTkhtb1svTDoUw
 description: Explore Thap Tam Thang Vung Tau — history, architecture and views, just steps from Sunbeam Homestay on Thuy Van Street.
-sticky: true
 categories:
   - [Experiences]
 tags:

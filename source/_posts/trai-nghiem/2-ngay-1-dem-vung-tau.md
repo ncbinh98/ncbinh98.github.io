@@ -1,6 +1,6 @@
 ---
 title: 🌞Lịch Trình Du Lịch Vũng Tàu 2 Ngày 1 Đêm🌊
-date: 2026-08-14 11:35:14
+date: 2026-10-31 14:20:00
 cover: https://i1-dulich.vnecdn.net/2022/07/02/Bai-Truoc-Vung-Tau-jpeg-4282-1-7949-8853-1656726927.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=UqjncBASWP8eV4B3QEmZwA
 sticky: true
 categories:
@@ -39,7 +39,7 @@ Bạn có thể du lịch Vũng Tàu vào bất kỳ thời điểm nào trong n
   - Cung đường 1: Từ phà Cát Lái đến quốc lộ 51.
   - Cung đường 2: Qua quốc lộ 1A, ngã tư Vũng Tàu, quốc lộ 51.
 
-![Đường Đi Vũng Tàu](https://vietnamvivu.com/wp-content/uploads/2022/09/cac-cung-duong-phuot-tu-sai-gon-di-vung-tau-1.jpg "Đường Đi Vũng Tàu")
+![Đường Đi Vũng Tàu](https://cdn2.tuoitre.vn/plo/image/Uploaded/vuhoi/2026_04_29/cao-toc-18-5559-9885.jpg "Đường Đi Vũng Tàu")
 
 ## Lịch Trình Du Lịch Vũng Tàu 2 Ngày 1 Đêm 📅
 
@@ -55,7 +55,7 @@ Bạn có thể du lịch Vũng Tàu vào bất kỳ thời điểm nào trong n
 - **17h30**: Nghỉ ngơi tại khách sạn.
 - **19h00**: Dạo quanh thành phố, ăn hải sản ở Ốc Cám hoặc khám phá chợ đêm.
 
-![Hải Đăng Vũng Tàu](https://ittpa.baria-vungtau.gov.vn/portal/editor/images/Anh%20tin%20du%20lich/shhj123456wtrwwrwwrw1212.jpg "Hải Đăng Vũng Tàu")
+![Hải Đăng Vũng Tàu](https://static.vinwonders.com/production/2025/05/hai-dang-vung-tau-1.jpg "Hải Đăng Vũng Tàu")
 <br/>
 
 ![Bãi Trước Vũng Tàu](https://ik.imagekit.io/tvlk/blog/2023/09/bai-truoc-7.jpg?tr=dpr-2,w-675 "Bãi Trước Vũng Tàu")
@@ -72,7 +72,7 @@ Bạn có thể du lịch Vũng Tàu vào bất kỳ thời điểm nào trong n
 ![Bình Minh Bãi Sau](https://chosaigon24h.vn/upload/images/ngam-binh-minh-tren-bien.jpg "Bình Minh Bãi Sau")
 <br/>
 
-![Hẻm Sống Ảo](https://vivu.net/uploads/2021/04/hem-song-ao-vung-tau.jpg "Hẻm Sống Ảo")
+![Hẻm Sống Ảo](https://mia.vn/media/uploads/blog-du-lich/hem-107-tran-phu-1763695356.jpg "Hẻm Sống Ảo")
 
 ## Điểm Lưu Trú Lý Tưởng 🏨
 

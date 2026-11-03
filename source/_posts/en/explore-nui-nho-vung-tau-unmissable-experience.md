@@ -37,7 +37,7 @@ description: Explore Nui Nho (Small Mountain) Vung Tau — hike to the 150-year-
 
 ## Where Is Nui Nho Vung Tau Located? 📍
 
-![Nui Nho Vung Tau](https://file.hstatic.net/1000169629/file/vung_tau_a5b6ddbb954140c0941c48e0273e18b5.jpg "Nui Nho Vung Tau")
+![Nui Nho Vung Tau](https://static.vinwonders.com/production/2025/06/nui-tao-phung-vung-tau.jpg "Nui Nho Vung Tau")
 **Address:** Ward 2, Vung Tau City, Ba Ria – Vung Tau Province  
 Nui Nho (Small Mountain), also known as Tao Phung Mountain, lies in the south of Vung Tau. It rises about 170 meters and covers an area of 120 hectares. At the foot of the mountain, you'll find a coastal road lined with well-developed tourism services, where you can stop and rest at beautiful homestays and hotels. Follow Nui Nho to the end and you'll reach Nghinh Phong peak, home to Bai Huong Phong and Bai Vong Nguyet – two famous, gorgeous swimming beaches.
 

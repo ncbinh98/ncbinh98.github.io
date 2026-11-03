@@ -9,7 +9,7 @@ categories:
 description: "Guest review of Sunbeam Homestay Vung Tau: a comfortable, convenient 90m2 sea-view apartment with 2 bedrooms, 2 bathrooms and a modern kitchen."
 ---
 
-<img src='https://drscdn.500px.org/photo/1093643946/q%3D90_m%3D1024_of%3D1/v2?sig=c1f5314705b36f4a2f67b0e65a6ad3e633ab1636bcdabb6c0ea3f9a1868a5d5e' alt='Sunbeam Homestay Vung Tau apartment with beautiful sea view' />
+<img src='https://i.ibb.co/Kphx0sJ3/sunbeam-review-airbnb-753894809.png' alt="Phuong's 5-star Airbnb review of Sunbeam Homestay" />
 
 # 🛏 Sunbeam Homestay – A Comfortable and Convenient Apartment
 

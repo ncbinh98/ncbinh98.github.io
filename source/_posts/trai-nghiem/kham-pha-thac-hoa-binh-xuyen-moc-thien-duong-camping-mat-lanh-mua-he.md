@@ -1,6 +1,6 @@
 ---
 title: Khám Phá Thác Hòa Bình Xuyên Mộc – Thiên Đường Camping Mát Lạnh Mùa Hè 🌊🏕️
-date: 2026-08-16 09:09:53
+date: 2026-11-01 20:10:00
 categories:
   - [Trải Nghiệm]
 cover: https://anchoivungtau.vn/wp-content/uploads/2025/05/1.jpg

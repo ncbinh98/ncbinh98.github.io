@@ -42,7 +42,7 @@ Bạn đang lên kế hoạch cho một chuyến "trốn nóng" cuối tuần t�
 * Giá cả đa dạng, từ bình dân đến cao cấp, phù hợp với mọi túi tiền.
 * Tận hưởng không gian nghỉ dưỡng thoải mái, tiện nghi.
 
-![](https://drscdn.500px.org/photo/1093681090/q%3D90_m%3D2048/v2?sig=bd6d9426ced272bc11fa5286e6b8489ca296ffd4c4c7840d5e6d66ca449c6d8f "Homestay Vũng Tàu")
+![](https://i.ibb.co/pjLpThhJ/patio1.jpg "Homestay Vũng Tàu")
 
 ###  "Oanh tạc" ẩm thực Vũng Tàu
 

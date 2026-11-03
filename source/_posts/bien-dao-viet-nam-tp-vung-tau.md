@@ -1,13 +1,13 @@
 ---
 title: 𝙁𝙚𝙨𝙩𝙞𝙫𝙖𝙡 𝘽𝙞𝙚̂̉𝙣 𝙙𝙖̉𝙤 𝙑𝙞𝙚̣̂𝙩 𝙉𝙖𝙢
 date: 2024-05-24 23:18:26
-cover: https://ittpa.baria-vungtau.gov.vn/portal/editor/images/festival.jpg
+cover: https://image.sggp.org.vn/w1000/Uploaded/2026/buimsbjobbvobu/2024_05_24/1000023153-6867.jpg.webp
 tags:
 ---
 
 # 𝙁𝙚𝙨𝙩𝙞𝙫𝙖𝙡 𝘽𝙞𝙚̂̉𝙣 𝙙𝙖̉𝙤 𝙑𝙞𝙚̣̂𝙩 𝙉𝙖𝙢 – 𝙏𝙝𝙖̀𝙣𝙝 𝙥𝙝𝙤̂́ 𝙑𝙪̃𝙣𝙜 𝙏𝙖̀𝙪 𝟮𝟬𝟮𝟰
 
-<img src="https://drscdn.500px.org/photo/1094005433/q%3D80_m%3D600/v2?sig=2a84a751be9f9ca33e0085965bbd775b2f9ae4cd5f52bcc01abb36e6caddd739" alt="sunbeam-homestay-vt"/>
+<img src="https://i.ibb.co/pjLpThhJ/patio1.jpg" alt="sunbeam-homestay-vt"/>
 
 Festival Biển đảo Việt Nam – Thành phố Vũng Tàu 2024 sẽ diễn ra từ ngày **23 đến 26-5-2024** tại đường Quang Trung, Bãi Trước, TP Vũng Tàu. Sự kiện này hướng đến việc giới thiệu, tôn vinh và phát huy vẻ đẹp văn hóa, thiên nhiên của biển đảo Việt Nam.
 

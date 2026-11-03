@@ -4,13 +4,13 @@ date: 2024-05-24 11:35:14
 lang: en
 alternate:
   vi: /review-agoda/3/
-cover: https://drscdn.500px.org/photo/1094013006/q%3D80_m%3D600/v2?sig=5ae3911f64897271962f953e1a46d9bc7ab0140522d271a6913bd117f17c7f96
+cover: https://i.ibb.co/mkFM4pw/exterior1.jpg
 categories:
   - [Review Agoda]
 description: "Guest review of Sunbeam Homestay Vung Tau: a perfect holiday stay for Tet with sea views, 2 bedrooms, 2 bathrooms and modern amenities."
 ---
 
-<img src='https://drscdn.500px.org/photo/1094013006/q%3D80_m%3D600/v2?sig=5ae3911f64897271962f953e1a46d9bc7ab0140522d271a6913bd117f17c7f96' alt='10,0 Stay for Tet Days 1-3 (Nguyễn)' />
+<img src='https://i.ibb.co/xV3NvTT/sunbeam-review-agoda-nguy-n-7-0.png' alt='10,0 Stay for Tet Days 1-3 (Nguyễn)' />
 
 # 🌊 A Wonderful Holiday at Sunbeam Homestay Vung Tau
 

@@ -15,13 +15,13 @@ tags: [beachfront homestay Vung Tau, homestay Vung Tau for 2 people, homestay ne
 
 Looking for a romantic getaway for two? Vung Tau has plenty of charming beachfront homestays. They offer not only private, comfortable space but also gorgeous sea views.
 
-![Homestay for 2 people](https://drscdn.500px.org/photo/1093681076/q%3D80_m%3D600/v2?sig=ff7435ba2ad8d32d4fd702c0c150546370b578f6077d1e8ea0f3ca481f69773b "Homestay for 2 people")
+![Homestay for 2 people](https://i.ibb.co/667xbWQ/bedroom1a.jpg "Homestay for 2 people")
 
 ## 🌅 Homestay Near Bai Sau Vung Tau
 
 Bai Sau is one of Vung Tau's most famous beaches with fine white sand and crystal-clear water. You can easily find many homestays near Bai Sau to fully enjoy your vacation.
 
-![Homestay near Bai Sau](https://drscdn.500px.org/photo/1094006796/q%3D80_m%3D600/v2?sig=48cdd3f977260300746ac85f9f160f042d87226334358d63794bffc60a24c935 "Homestay near Bai Sau")
+![Homestay near Bai Sau](https://i.ibb.co/mkFM4pw/exterior1.jpg "Homestay near Bai Sau")
 
 ## 🌊 Homestay Vung Tau With Sea View
 
@@ -39,7 +39,7 @@ To easily enjoy seaside activities and sightseeing, pick a homestay close to the
 
 Traveling with family or a big group of friends? Renting a whole homestay apartment in Vung Tau is the ideal choice. Spacious rooms and full amenities give you the most comfortable relaxation time.
 
-![Whole apartment homestay](https://drscdn.500px.org/photo/1093681090/q%3D80_m%3D600/v2?sig=24cc1dc03e1a9af5ae4652a10ef32602c27409c0f237acdfded3926fc97955b1 "Whole apartment homestay")
+![Whole apartment homestay](https://i.ibb.co/7tH80hyf/living1.jpg "Whole apartment homestay")
 
 ### Sunbeam Homestay - 22-Storey Apartment Building
 

@@ -4,7 +4,7 @@ date: 2023-01-01 11:02:25
 lang: en
 alternate:
   vi: /trai-nghiem-dem-giao-thua-ruc-ro-tai-vung-tau-phao-hoa-dai-nhac-hoi-va-homestay-ly-tuong/
-cover: https://www.baobariavungtau.com.vn/dataimages/202501/original/images1992967_ban_phao_hoa.jpg
+cover: https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/content/2025/01/27/bjdfj-151655_981-160851.jpg
 description: A dazzling New Year's Eve in Vung Tau — fireworks, a grand concert and the ideal beachfront homestay for the celebration.
 categories:
   - [Experiences]
@@ -15,9 +15,9 @@ tags: [Vung Tau, fireworks, grand concert, New Year's Eve, Front Beach homestay,
 
 🌟 **Vung Tau** is gearing up for a colorful and vibrant New Year's Eve with a **fireworks display** combined with a **grand concert** on the night of January 28, 2025. This is a wonderful opportunity for you and your family to enjoy the festive atmosphere and find a **homestay near Front Beach** for easy access to the event.
 
-![Fireworks at Front Beach](https://www.baobariavungtau.com.vn/dataimages/202501/original/images1992967_ban_phao_hoa.jpg "Fireworks at Front Beach")  
+![Fireworks at Front Beach](https://i.ex-cdn.com/nongnghiepmoitruong.vn/files/content/2025/01/27/bjdfj-151655_981-160851.jpg "Fireworks at Front Beach")  
 
-![Grand concert at Quang Trung Flower Garden](https://www.baobariavungtau.com.vn/dataimages/202501/original/images1992968_aquanghung.jpg "Grand concert at Quang Trung Flower Garden")  
+![New Year countdown concert in Vung Tau](https://media.thuonghieucongluan.vn/uploads/2026/01/01/img-0086-1767241279.JPG "New Year countdown concert stage in Vung Tau")  
 ---
 
 ## 🎉 **New Year's Eve Event Schedule**

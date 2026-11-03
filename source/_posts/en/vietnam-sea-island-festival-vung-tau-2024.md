@@ -4,14 +4,14 @@ date: 2024-05-24 23:18:26
 lang: en
 alternate:
   vi: /bien-dao-viet-nam-tp-vung-tau/
-cover: https://ittpa.baria-vungtau.gov.vn/portal/editor/images/festival.jpg
+cover: https://image.sggp.org.vn/w1000/Uploaded/2026/buimsbjobbvobu/2024_05_24/1000023153-6867.jpg.webp
 description: The Vietnam Sea & Island Festival 2024 in Vung Tau (May 23-26) — art shows, food fairs, yoga and Ao Dai parades celebrating Vietnam's maritime culture.
 tags:
 ---
 
 # Vietnam Sea & Island Festival – Vung Tau City 2024 🌊
 
-<img src="https://drscdn.500px.org/photo/1094005433/q%3D80_m%3D600/v2?sig=2a84a751be9f9ca33e0085965bbd775b2f9ae4cd5f52bcc01abb36e6caddd739" alt="sunbeam-homestay-vt"/>
+<img src="https://i.ibb.co/pjLpThhJ/patio1.jpg" alt="sunbeam-homestay-vt"/>
 
 The Vietnam Sea & Island Festival – Vung Tau City 2024 will take place from **May 23 to 26, 2024** on Quang Trung Street, Bai Truoc, Vung Tau City. The event aims to introduce, honor and promote the cultural and natural beauty of Vietnam's seas and islands.
 

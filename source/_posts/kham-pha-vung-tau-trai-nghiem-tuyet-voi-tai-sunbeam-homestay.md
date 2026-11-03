@@ -2,21 +2,21 @@
 title: Sunbeam Homestay - Nơi Lưu Trú Lý Tưởng Để Khám Phá Vũng Tàu
 date: 2024-05-28 09:29:45
 tags: [khám phá Vũng Tàu, Sunbeam Homestay, địa điểm nổi tiếng Vũng Tàu, sân golf Paradise, LOTTE Mart Vũng Tàu, công viên Thỏ Trắng, chợ đêm Bãi Sau, Mũi Nghinh Phong, Tượng Chúa Kitô Vua, Hòn Bà, du lịch Vũng Tàu, nơi lưu trú Vũng Tàu, homestay Vũng Tàu, điểm đến Vũng Tàu, văn hóa Vũng Tàu, cảnh quan Vũng Tàu, vui chơi Vũng Tàu, ăn uống Vũng Tàu, mua sắm Vũng Tàu, thư giãn Vũng Tàu.]
-cover: https://drscdn.500px.org/photo/1094005521/q%3D80_m%3D600/v2?sig=67fab24fc80e5bad0d3ffa49704a7fae5c50c5209a8a853de10d9b89f0ca1839
+cover: https://i.ibb.co/pjLpThhJ/patio1.jpg
 ---
 
 # Sunbeam Homestay - Nơi Lưu Trú Lý Tưởng Để Khám Phá Vũng Tàu
 
 Dưới đây là hướng dẫn từ Sunbeam Homestay đến một số địa điểm không thể bỏ qua:
 
-![ban_do](https://drscdn.500px.org/photo/1094005521/q%3D80_m%3D600/v2?sig=67fab24fc80e5bad0d3ffa49704a7fae5c50c5209a8a853de10d9b89f0ca1839 "Bản đồ điểm du lịch Vũng Tàu")
+![Bản đồ địa điểm du lịch Vũng Tàu](https://wikidulich.com/wp-content/uploads/2024/06/Ban-do-du-lich-Vung-Tau-001.png "Bản đồ điểm du lịch Vũng Tàu")
 
 🏌️‍♂️ **Sân Golf Paradise (1,1KM)**
 ![san_golf_paradise](https://golfparadise.com.vn/wp-content/uploads/2023/05/background-trang-chu-1-compressed.jpg "Sân Golf Paradise")
 Thiên đường cho những người yêu thích golf với các đường fairway xanh mướt và tầm nhìn tuyệt đẹp ra biển. Bạn sẽ có trải nghiệm thư giãn và thể thao tuyệt vời.
 
 🛒 **LOTTE Mart Vũng Tàu (1KM)**
-![lotte_mart](https://displaysolution.vn/Image/Picture/man-hinh-ghep/Si%C3%AAu%20th%E1%BB%8B%20LOTTE%20Mart%20V%C5%A9ng%20T%C3%A0u.jpg "LOTTE Mart Vũng Tàu")
+![lotte_mart](https://upload.wikimedia.org/wikipedia/commons/e/e3/Vong_xoay_Dai_Liet_sy-_Duong_thi_sach%2C_Phuong_Thang_tam%2C_tp_vungtau%2C_vn_-_panoramio.jpg "LOTTE Mart Vũng Tàu")
 Điểm đến mua sắm tiện lợi cho mọi nhu cầu từ thực phẩm, thời trang đến điện tử. Đây là nơi lý tưởng để bạn tìm thấy mọi thứ cần thiết cho kỳ nghỉ của mình.
 
 🎡 **Công Viên Thỏ Trắng (450M)**
@@ -32,7 +32,7 @@ Một khu chợ sôi động với nhiều món ăn đường phố ngon và qu�
 Cảnh quan tuyệt đẹp và một nơi yên bình để thư giãn bên bờ biển. Đây là điểm đến lý tưởng để tận hưởng không gian yên tĩnh và hít thở không khí trong lành.
 
 ✝️ **Tượng Chúa Kitô (4,5KM)**
-![tuong_chua_kito_vua](https://ittpa.baria-vungtau.gov.vn/portal/editor/images/Anh%20tin%20du%20lich/fggfs1234567ssssssffdsgdgsggasg.jpg "Tượng Chúa Kitô")
+![tuong_chua_kito_vua](https://ik.imagekit.io/tvlk/blog/2023/01/tuong-dai-chua-kito-vua-1.jpg?tr=dpr-2,w-675 "Tượng Chúa Kitô")
 Một biểu tượng nổi tiếng với tầm nhìn toàn cảnh thành phố và biển. Đừng bỏ lỡ cơ hội khám phá địa danh này và chiêm ngưỡng khung cảnh tuyệt đẹp từ đỉnh núi.
 
 🏝️ **Hòn Bà (3KM)**

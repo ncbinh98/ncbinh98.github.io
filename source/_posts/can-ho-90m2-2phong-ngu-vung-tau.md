@@ -1,7 +1,7 @@
 ﻿---
 title: Căn Hộ 90m2 2 Phòng Ngủ View Biển – Lựa Chọn Hoàn Hảo Cho Kỳ Nghỉ Của Bạn 🌊✨
-date: 2026-08-16 20:18:21
-cover: https://drscdn.500px.org/photo/1093681098/q%3D80_m%3D600/v2?sig=ca40a0018ee57099a4692afcaf0b4bba442b1fb78f6e834a9c4043b5052cc8f0
+date: 2026-11-02 16:30:00
+cover: https://i.ibb.co/pjLpThhJ/patio1.jpg
 
 sticky: true
 
@@ -18,8 +18,6 @@ Chào mừng bạn đến với căn hộ rộng 90m2 tại Sunbeam Homestay Vũ
 ![Mặt tiền chung cư Sunbeam Homestay Vũng Tàu](https://i.ibb.co/mkFM4pw/exterior1.jpg "Chung cư Sunbeam Homestay trên đường Thùy Vân Vũng Tàu")
 
 ![Toàn cảnh căn hộ Sunbeam Homestay Vũng Tàu](https://i.ibb.co/7tH80hyf/living1.jpg "Phòng khách rộng rãi căn hộ Sunbeam Homestay")
-
-![Căn hộ Sunbeam Homestay view biển Vũng Tàu](https://drscdn.500px.org/photo/1093681098/q%3D90_m%3D2048/v2?sig=76d762fbe70254646a4ec33e600df55bb3959fb9c5e28a571684d90c4fe31e58 "Căn hộ Sunbeam Homestay view biển Vũng Tàu")
 
 ### Điểm Nổi Bật Nhất
 
@@ -58,18 +56,6 @@ Căn hộ có **2 phòng ngủ rộng rãi**, mỗi phòng được trang bị *
 
 ![Phòng ngủ 2 Sunbeam Homestay Vũng Tàu](https://i.ibb.co/hx42Hq4b/bedroom2c.jpg "Phòng ngủ 2 Sunbeam Homestay Vũng Tàu")
 
-<img src='https://drscdn.500px.org/photo/1093681098/q%3D90_m%3D2048/v2?sig=76d762fbe70254646a4ec33e600df55bb3959fb9c5e28a571684d90c4fe31e58' alt='Phòng ngủ Sunbeam Homestay Vũng Tàu' />
-
-<br/>
-
-<img src='https://drscdn.500px.org/photo/1093681095/q%3D90_m%3D2048/v2?sig=71b3e33e27db8fe91c7389a70fca47eb55d60cbd1d461e017c0ca196c316b4a7' alt='Phòng ngủ Sunbeam Homestay Vũng Tàu' />
-<br/>
-
-<img src='https://drscdn.500px.org/photo/1093681089/q%3D90_m%3D2048/v2?sig=4b37b931da8e68c3008f6108cd03e5fbb8258883f0d6e51fd91488a95a34ffd0' alt='Phòng ngủ Sunbeam Homestay Vũng Tàu' />
-<br/>
-
- <img src='https://drscdn.500px.org/photo/1093681072/q%3D90_m%3D2048/v2?sig=15daaffb2d502981364ac4c777d2803cfc1402e81c009b6a5053819042b78baa' alt='Phòng ngủ Sunbeam Homestay Vũng Tàu' />
-
 ### 2. Phòng Tắm
 
 Với **2 phòng tắm riêng**, căn hộ đảm bảo sự tiện lợi và riêng tư cho mọi thành viên. Mỗi phòng tắm đều được trang bị vòi sen, bồn rửa và các vật dụng cần thiết. Nhiều khách chia sẻ rằng **nhiệt độ nước tắm rất ổn định**, tắm thoải mái không lo nóng lạnh thất thường!
@@ -82,12 +68,6 @@ Với **2 phòng tắm riêng**, căn hộ đảm bảo sự tiện lợi và ri
 
 ![Phòng tắm 2 Sunbeam Homestay Vũng Tàu](https://i.ibb.co/jvHsfW1b/bath2.jpg "Phòng tắm 2 Sunbeam Homestay Vũng Tàu")
 
- <img src='https://drscdn.500px.org/photo/1093681070/q%3D90_m%3D2048/v2?sig=29b51591a8a1220c02e13d7634af8cfc7b4012f8a27705634129121f4b84a70f' alt='Phòng tắm Sunbeam Homestay Vũng Tàu' />
-
-<br/>
-
- <img src='https://drscdn.500px.org/photo/1093681082/q%3D90_m%3D2048/v2?sig=f15ccd84fae96fac408d13f7c3693d640ff5bc916cf6f1a186045a377aa920ce' alt='Phòng tắm Sunbeam Homestay Vũng Tàu' />
-
 ### 3. Phòng Khách
 
 Phòng khách rộng rãi với nội thất hiện đại, bao gồm sofa êm ái, TV màn hình phẳng và bàn trà. Đây là không gian lý tưởng để bạn thư giãn, xem phim hoặc trò chuyện cùng gia đình sau một ngày khám phá Vũng Tàu.
@@ -96,8 +76,6 @@ Phòng khách rộng rãi với nội thất hiện đại, bao gồm sofa êm �
 
 ![Phòng khách Sunbeam Homestay Vũng Tàu](https://i.ibb.co/chLwd12X/living2.jpg "Góc sofa phòng khách Sunbeam Homestay Vũng Tàu")
 
-<img src='https://drscdn.500px.org/photo/1093681090/q%3D90_m%3D2048/v2?sig=bd6d9426ced272bc11fa5286e6b8489ca296ffd4c4c7840d5e6d66ca449c6d8f' alt='Phòng khách Sunbeam Homestay Vũng Tàu' />
-
 ### 4. Phòng Bếp
 
 Phòng bếp được trang bị **đầy đủ dụng cụ và thiết bị nấu ăn**: bếp từ, lò vi sóng, tủ lạnh, bộ nồi niêu xoong chảo. Chỉ cần ra chợ sớm mua hải sản tươi, bạn đã có thể tự tay chuẩn bị bữa ăn ngon lành cho cả nhà ngay tại căn hộ!
@@ -105,8 +83,6 @@ Phòng bếp được trang bị **đầy đủ dụng cụ và thiết bị n�
 ![Phòng bếp Sunbeam Homestay Vũng Tàu](https://i.ibb.co/YT8V1gjx/kitchen1.jpg "Phòng bếp Sunbeam Homestay Vũng Tàu")
 
 ![Phòng bếp Sunbeam Homestay Vũng Tàu](https://i.ibb.co/h1Vm897H/kitchen2.jpg "Khu nấu ăn Sunbeam Homestay Vũng Tàu")
-
-  <img src='https://drscdn.500px.org/photo/1093681076/q%3D90_m%3D2048/v2?sig=1afc4e9c4a903f3a3ddf68ec66706dce06064fa3b154f260652eaefc0284f065' alt='Phòng bếp Sunbeam Homestay Vũng Tàu' />
 
 ### 5. Ban Công Rộng View Biển
 
@@ -119,15 +95,6 @@ Phòng bếp được trang bị **đầy đủ dụng cụ và thiết bị n�
 ![Góc ngồi thư giãn ban công Sunbeam Homestay](https://i.ibb.co/jPtH8CQJ/extra1.jpg "Góc thư giãn trên ban công Sunbeam Homestay Vũng Tàu")
 
 ![Bình minh từ ban công Sunbeam Homestay](https://i.ibb.co/CsTNVLfd/extra2.jpg "Bình minh đón từ ban công Sunbeam Homestay")
-
-<img src='https://drscdn.500px.org/photo/1093681092/q%3D90_m%3D2048/v2?sig=94262325b14950e52729a2fd18141ece6231dbd93290bff9aeb1aa4f1e6d74b4' alt='Ban công view biển Sunbeam Homestay Vũng Tàu' />
-
-<br/>
-
- <img src='https://drscdn.500px.org/photo/1093681069/q%3D90_m%3D2048/v2?sig=e26db5d55357fe9d1390413f9fd2c913066467ecfaec2657a785ceb7c83813db' alt='Ban công view biển Sunbeam Homestay Vũng Tàu' />
- <br/>
-
- <img src='https://drscdn.500px.org/photo/1093681073/q%3D90_m%3D2048/v2?sig=4e792a6c05728efc8b55ade970ebe8fb13b86b690cb1c3b04e50d68ca289ffd2' alt='Ban công view biển Sunbeam Homestay Vũng Tàu' />
 
 ## 📍 Vị Trí Tiện Lợi
 
@@ -318,7 +285,7 @@ Không chỉ trên Airbnb, căn hộ còn được đánh giá **9.0/10 "Trên c
 
 ![Review Agoda của khách han](https://i.ibb.co/FbR2dz0j/agoda-han.png "Review 10/10 của khách han trên Agoda")
 
-![Review Agoda của khách Tran](https://i.ibb.co/S7WpPbG6/agoda-tran.png "Review 10/10 của khách Tran trên Agoda")
+![Review Agoda của khách Tran](https://i.ibb.co/0yTv8qzw/sunbeam-review-agoda-Tran-5-2.png "Review 10/10 của khách Tran trên Agoda")
 
 ![Review Agoda của khách Tuấn](https://i.ibb.co/35LhvCGR/agoda-tuan.png "Review 9.6/10 của khách Tuấn trên Agoda")
 

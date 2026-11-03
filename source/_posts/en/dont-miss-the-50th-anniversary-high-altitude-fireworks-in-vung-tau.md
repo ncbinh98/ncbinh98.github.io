@@ -1,6 +1,6 @@
 ---
 title: Don't Miss the 50th Anniversary High-Altitude Fireworks in Vung Tau – Close to Sunbeam Homestay 🎆✨
-date: 2026-08-15 10:00:00
+date: 2026-11-01 10:45:00
 lang: en
 alternate:
   vi: /dung-bo-lo-phao-hoa-tam-cao-mung-50-nam-tphcm-tai-vung-tau/

@@ -9,7 +9,7 @@ categories:
 description: "Guest review of Sunbeam Homestay Vung Tau: enjoy spectacular sunsets from a spacious sea-view balcony in a 90m2 apartment near the beach."
 ---
 
- <img src='https://drscdn.500px.org/photo/1093686856/q%3D80_m%3D600/v2?sig=01f468a392b1dbff1e8423f940fcbe54733e74727488d7ced09c1b391a24834d' alt='z5467776454238_aee1c54b8cc34b6c142265c0a5190000 by Sunbeam Homestay on 500px.com' />
+ <img src='https://i.ibb.co/CsTNVLfd/extra2.jpg' alt='z5467776454238_aee1c54b8cc34b6c142265c0a5190000 by Sunbeam Homestay on 500px.com' />
 
 # 🌅 Watching the Sunset at Sunbeam Homestay
 

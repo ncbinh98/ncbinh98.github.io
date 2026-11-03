@@ -4,13 +4,13 @@ date: 2024-05-24 11:35:14
 lang: en
 alternate:
   vi: /review-agoda/1/
-cover: https://drscdn.500px.org/photo/1094007097/q%3D80_m%3D600/v2?sig=b529dbe87a1bb64b26e79bd23928782a1a8082e91327fdce59f4c68823256b02
+cover: https://i.ibb.co/pjLpThhJ/patio1.jpg
 categories:
   - [Review Agoda]
 description: "Guest review of Sunbeam Homestay Vung Tau: a wonderful 90m2 stay with sea view, comfortable bedrooms, clean bathrooms and modern kitchen."
 ---
 
-![](https://drscdn.500px.org/photo/1094007097/q%3D80_m%3D600/v2?sig=b529dbe87a1bb64b26e79bd23928782a1a8082e91327fdce59f4c68823256b02 "Wonderful")
+![](https://i.ibb.co/93zxYqxD/sunbeam-review-agoda-Nguyen-8-2.png "Wonderful")
 
 # 🌞 Sunbeam Homestay – A Wonderful Resort Experience
 

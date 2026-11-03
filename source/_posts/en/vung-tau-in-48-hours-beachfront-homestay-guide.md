@@ -43,7 +43,7 @@ Planning a weekend "heat escape" to Vung Tau? As someone who has lived here for 
 * Prices range from budget to luxury — something for every wallet.
 * Enjoy a comfortable, well-equipped retreat.
 
-![](https://drscdn.500px.org/photo/1093681090/q%3D90_m%3D2048/v2?sig=bd6d9426ced272bc11fa5286e6b8489ca296ffd4c4c7840d5e6d66ca449c6d8f "Vung Tau homestay")
+![](https://i.ibb.co/pjLpThhJ/patio1.jpg "Vung Tau homestay")
 
 ###  Feast On Vung Tau Food
 

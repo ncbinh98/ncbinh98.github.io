@@ -33,7 +33,7 @@ tags:
 
 ## Địa chỉ Núi Nhỏ Vũng Tàu ở đâu? 📍
 
-![Nui Nho Vung Tau](https://file.hstatic.net/1000169629/file/vung_tau_a5b6ddbb954140c0941c48e0273e18b5.jpg "Nui Nho Vung Tau")
+![Nui Nho Vung Tau](https://static.vinwonders.com/production/2025/06/nui-tao-phung-vung-tau.jpg "Nui Nho Vung Tau")
 **Địa chỉ:** Phường 2, TP Vũng Tàu, Tỉnh Bà Rịa – Vũng Tàu  
 Núi Nhỏ, hay còn gọi là núi Tao Phùng, nằm ở phía Nam Vũng Tàu. Nơi đây cao khoảng 170m và có diện tích rộng 120 ha. Dưới chân núi, bạn sẽ thấy con đường ven biển với nhiều dịch vụ du lịch phát triển, nơi bạn có thể dừng chân nghỉ ngơi ở các homestay và khách sạn đẹp. Đi hết Núi Nhỏ, bạn sẽ đến đỉnh Nghinh Phong với bãi Hương Phong và bãi Vọng Nguyệt – hai bãi tắm đẹp nổi tiếng.
 

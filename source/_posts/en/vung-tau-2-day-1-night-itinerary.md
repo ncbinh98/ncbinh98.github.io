@@ -1,6 +1,6 @@
 ---
 title: Vung Tau 2-Day 1-Night Itinerary - Enjoy The Perfect Getaway 🌊🌞
-date: 2026-08-14 11:35:14
+date: 2026-10-31 14:20:00
 lang: en
 alternate:
   vi: /2-ngay-1-dem-vung-tau/
@@ -43,7 +43,7 @@ You can visit Vung Tau at any time of the year. However, the best period is from
   - Route 1: From Cat Lai ferry to National Highway 51.
   - Route 2: Via National Highway 1A, Vung Tau intersection, National Highway 51.
 
-![Road To Vung Tau](https://vietnamvivu.com/wp-content/uploads/2022/09/cac-cung-duong-phuot-tu-sai-gon-di-vung-tau-1.jpg "Road To Vung Tau")
+![Road To Vung Tau](https://cdn2.tuoitre.vn/plo/image/Uploaded/vuhoi/2026_04_29/cao-toc-18-5559-9885.jpg "Road To Vung Tau")
 
 ## Vung Tau 2-Day 1-Night Itinerary 📅
 
@@ -59,7 +59,7 @@ You can visit Vung Tau at any time of the year. However, the best period is from
 - **5:30pm**: Rest at the hotel.
 - **7:00pm**: Wander around the city, enjoy seafood at Oc Cam or explore the night market.
 
-![Vung Tau Lighthouse](https://ittpa.baria-vungtau.gov.vn/portal/editor/images/Anh%20tin%20du%20lich/shhj123456wtrwwrwwrw1212.jpg "Vung Tau Lighthouse")
+![Vung Tau Lighthouse](https://static.vinwonders.com/production/2025/05/hai-dang-vung-tau-1.jpg "Vung Tau Lighthouse")
 <br/>
 
 ![Bai Truoc Vung Tau](https://ik.imagekit.io/tvlk/blog/2023/09/bai-truoc-7.jpg?tr=dpr-2,w-675 "Bai Truoc Vung Tau")
@@ -76,7 +76,7 @@ You can visit Vung Tau at any time of the year. However, the best period is from
 ![Sunrise At Bai Sau](https://chosaigon24h.vn/upload/images/ngam-binh-minh-tren-bien.jpg "Sunrise At Bai Sau")
 <br/>
 
-![Instagrammable Alley](https://vivu.net/uploads/2021/04/hem-song-ao-vung-tau.jpg "Instagrammable Alley")
+![Instagrammable Alley](https://mia.vn/media/uploads/blog-du-lich/hem-107-tran-phu-1763695356.jpg "Instagrammable Alley")
 
 ## Ideal Accommodation 🏨
 

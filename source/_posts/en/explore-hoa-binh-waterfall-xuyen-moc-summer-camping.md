@@ -1,6 +1,6 @@
 ---
 title: Explore Hoa Binh Waterfall Xuyen Moc – A Cool Summer Camping Paradise 🌊🏕️
-date: 2026-08-16 09:09:53
+date: 2026-11-01 20:10:00
 lang: en
 alternate:
   vi: /kham-pha-thac-hoa-binh-xuyen-moc-thien-duong-camping-mat-lanh-mua-he/

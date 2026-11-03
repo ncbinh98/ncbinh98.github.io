@@ -1,6 +1,6 @@
 ---
 title: Top 12 Most Instagrammable Photo Spots In Vung Tau 📸
-date: 2026-08-13 22:45:25
+date: 2026-10-30 09:30:00
 lang: en
 alternate:
   vi: /top-12-nhung-diem-chup-anh-tuyet-dep-o-vung-tau/

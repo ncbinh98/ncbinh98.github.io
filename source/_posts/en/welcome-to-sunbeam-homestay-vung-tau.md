@@ -4,7 +4,7 @@ date: 2024-05-24 21:34:19
 lang: en
 alternate:
   vi: /welcome-sunbeam-homestay/
-cover: https://drscdn.500px.org/photo/1094005634/q%3D80_m%3D600/v2?sig=2e2bb6cbedd0e5eba40f94e23d3e842b30681957a9f3ff11deaac484bdbf2cc6
+cover: https://i.ibb.co/mkFM4pw/exterior1.jpg
 description: Welcome to Sunbeam Homestay Vung Tau — cozy rooms with sea views, free wifi and a prime beachfront location on Thuy Van Street. Book now!
 tags:
 ---
@@ -13,7 +13,7 @@ tags:
 
 Dreaming of a wonderful vacation with a poetic sea view? Sunbeam Homestay is the ideal destination for you! 🏖️
 
-![Book Sunbeam Homestay](https://drscdn.500px.org/photo/1094005634/q%3D80_m%3D600/v2?sig=2e2bb6cbedd0e5eba40f94e23d3e842b30681957a9f3ff11deaac484bdbf2cc6 "Book Sunbeam Homestay")
+![Book Sunbeam Homestay](https://i.ibb.co/mkFM4pw/exterior1.jpg "Book Sunbeam Homestay")
 
 ## ✨ What Makes Sunbeam Homestay Special:
 
@@ -21,13 +21,13 @@ Dreaming of a wonderful vacation with a poetic sea view? Sunbeam Homestay is the
 
 Enjoy spectacular sunsets and peaceful sunrises right from your balcony. Every morning you wake up to the sound of waves — it feels like living inside a dreamy painting.
 
-![Sea view at Sunbeam Homestay](https://drscdn.500px.org/photo/1094006796/q%3D80_m%3D600/v2?sig=48cdd3f977260300746ac85f9f160f042d87226334358d63794bffc60a24c935 "Sea view at Sunbeam Homestay")
+![Sea view at Sunbeam Homestay](https://i.ibb.co/VWYJ8qbm/patio2.jpg "Sea view at Sunbeam Homestay")
 
 ### 🛏 Comfortable Rooms
 
 Rooms are modern and spacious with full amenities: air conditioning, flat-screen TV and a private bathroom.
 
-![Comfortable room](https://drscdn.500px.org/photo/1093681090/q%3D80_m%3D600/v2?sig=24cc1dc03e1a9af5ae4652a10ef32602c27409c0f237acdfded3926fc97955b1 "Comfortable room")
+![Comfortable room](https://i.ibb.co/667xbWQ/bedroom1a.jpg "Comfortable room")
 
 ### 🌐 Free Wi-Fi
 
@@ -39,7 +39,7 @@ Join fun activities like cycling along the coast, walking or trying water sports
 
 ## 📸 Don't forget to share your beautiful photos at Sunbeam Homestay with the hashtag #SunbeamHomestay for a chance to receive attractive gifts!
 
- <img src='https://drscdn.500px.org/photo/1093681073/q%3D90_m%3D2048/v2?sig=4e792a6c05728efc8b55ade970ebe8fb13b86b690cb1c3b04e50d68ca289ffd2' alt='z5435761817312_71766ff90c2508daa6bc0831b85d43fb by Sunbeam Homestay on 500px.com' />
+ <img src='https://i.ibb.co/CsTNVLfd/extra2.jpg' alt='z5435761817312_71766ff90c2508daa6bc0831b85d43fb by Sunbeam Homestay on 500px.com' />
 
 ## 📍 Address
 

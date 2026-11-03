@@ -39,13 +39,13 @@ Nguyên liệu chính để làm bánh khọt là **bột gạo nguyên chất**
 2. **Nhân bánh**: Tôm cắt bỏ đầu, lột vỏ, làm sạch rồi để ráo. Có thể làm phần tôm cháy để tăng thêm sức hấp dẫn cho món ăn bằng cách giã nhuyễn tôm và cho vào đảo đều đến khi tôm mịn và khô rang.
 3. **Đổ bánh**: Đổ bột vào khuôn, cho tôm tươi đã bóc vỏ vào giữa, đậy nắp chờ bánh chín. Khi bánh vừa chín, gắp bánh đặt ra đĩa và rắc thêm chút tôm cháy, mỡ hành.
 
-![Cách làm bánh khọt](https://www.btaskee.com/wp-content/uploads/2023/09/do-banh-khot-vung-tau.jpg "Cách làm bánh khọt")
+![Cách làm bánh khọt](https://i1-giadinh.vnecdn.net/2013/02/25/banh-khot-1-jpg-1361780395.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=uhYMKwJ_UASwrmbCB0Tl1w "Cách làm bánh khọt")
 
 ## 🍃 Thưởng Thức Bánh Khọt Đúng Điệu
 
 Cuộn bánh trong lá rau xà lách, thêm vài cọng rau thơm, chấm với nước mắm chua ngọt pha sền sệt. Cảm nhận đầu lưỡi cái giòn của bánh, vị ngọt của tôm, sò, cái mát của rau và mùi thơm ngậy của mỡ hành.
 
-![Bánh khọt thưởng thức cùng rau](https://giavihanhphuc.com/files/folder_1278/images/banh-khot-kinh-doanh-NCK800.jpg "Bánh khọt thưởng thức cùng rau")
+![Bánh khọt thưởng thức cùng rau](https://mia.vn/media/uploads/blog-du-lich/banh-khot-vung-tau-lieu-xieu-truoc-vi-ngon-dam-da-cua-mon-banh-khot-02-1634003926.png "Bánh khọt thưởng thức cùng rau")
 
 Bánh khọt Vũng Tàu ngon phải là những chiếc bánh vừa giòn vừa dai, vị béo của bột gạo và nước dừa, được ăn kèm với các loại rau sống. Khá nhiều người cho rằng, **rau sống và nước mắm quyết định 50% sự thành công của món ăn này**. Vị béo ngậy của mỡ hành kết hợp với vị ngọt thơm của tôm quyện trong vỏ bánh giòn rụm, được đưa đẩy bởi vị ngọt của nước chấm và các loại rau củ quả ăn kèm tạo nên sức hấp dẫn riêng của bánh khọt.
 

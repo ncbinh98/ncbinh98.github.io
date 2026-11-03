@@ -31,7 +31,7 @@ Vũng Tàu không chỉ nổi tiếng với những bãi biển đẹp mà còn 
 - **Địa chỉ 1:** 03 Trần Phú, Phường 5, TP. Vũng Tàu
 - **Địa chỉ 2:** Khu vực cảng tàu khách cánh ngầm, 09 Hạ Long, Phường 2, TP. Vũng Tàu
 
-![Nhà Hàng Gành Hào](https://ganhhao.com.vn/wp-content/uploads/2018/01/canh_ganh_hao.jpg "Nhà Hàng Gành Hào 1")
+![Nhà Hàng Gành Hào](https://static.vinwonders.com/production/2025/05/nha-hang-ganh-hao-vung-tau.jpg "Nhà Hàng Gành Hào 1")
 
 ![Nhà Hàng Gành Hào](https://www.dulichthienthai.com/wp-content/uploads/2023/09/nha-hang-ganh-hao-2.jpg "Nhà Hàng Gành Hào 2")
 
@@ -73,7 +73,7 @@ Lẩu Cá Đuối Hoàng Minh là món ăn đặc trưng của Vũng Tàu. Với
 
 - **Địa chỉ:** 14 Nguyễn Trường Tộ, Phường 3, TP. Vũng Tàu
 
-![Bánh Khọt Gốc Vú Sữa](https://cdn.alongwalk.info/vn/wp-content/uploads/2022/06/22025658/image-banh-khot-vung-tau-o-dau-ngon-nhi-chia-se-12-quan-banh-khot-ngon-o-vung-tau-165581621882308.png "Bánh Khọt Gốc Vú Sữa")
+![Bánh Khọt Gốc Vú Sữa](https://cms.vietnamcoracle.com/wp-content/uploads/2018/01/IMG_0443-copy-blog-final-1024x768.jpg "Bánh Khọt Gốc Vú Sữa")
 
 Bánh Khọt Gốc Vú Sữa nổi tiếng với món bánh khọt giòn tan, bên trong là nhân tôm tươi ngọt lịm. Đây là món ăn dân dã nhưng rất đặc trưng của Vũng Tàu.
 
@@ -81,7 +81,7 @@ Bánh Khọt Gốc Vú Sữa nổi tiếng với món bánh khọt giòn tan, b�
 
 - **Địa chỉ:** Số 9 Phan Chu Trinh, Phường 2, TP. Vũng Tàu
 
-![Bánh Bèo Tuyết Mai](https://media-cdn.tripadvisor.com/media/photo-s/09/eb/d2/a0/tuyet-mai-vung-tau.jpg "Bánh Bèo Tuyết Mai")
+![Bánh Bèo Tuyết Mai](https://static.vinwonders.com/production/2025/06/banh-beo-tuyet-mai-vung-tau.jpg "Bánh Bèo Tuyết Mai")
 
 Quán Bánh Bèo Tuyết Mai mang đến cho bạn hương vị bánh bèo truyền thống với nước chấm đậm đà và topping phong phú.
 
@@ -97,7 +97,7 @@ Cơm Tấm Loan là điểm dừng chân lý tưởng cho những ai yêu thích
 
 - **Địa chỉ:** 88 Lê Lai, Phường 3, TP. Vũng Tàu
 
-![Cơm Tấm 67](https://ticovilla.com/wp-content/uploads/2022/09/Com-tam-Vung-Tau-3.jpg "Cơm Tấm 67")
+![Cơm Tấm 67](https://static.vinwonders.com/production/2025/07/com-tam-67-vung-tau.jpg "Cơm Tấm 67")
 
 Cơm Tấm 67 cũng là một lựa chọn không tồi cho những tín đồ cơm tấm. Quán nổi tiếng với miếng sườn nướng thơm phức, được ướp gia vị đặc trưng.
 

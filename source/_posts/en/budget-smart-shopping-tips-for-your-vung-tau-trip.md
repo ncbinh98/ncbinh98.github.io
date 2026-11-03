@@ -1,6 +1,6 @@
 ---
 title: Budget-Smart Shopping Tips For Your Vung Tau Trip 🏡💰
-date: 2026-08-09 07:18:26
+date: 2026-10-28 08:15:00
 lang: en
 alternate:
   vi: /homestay-vung-tau-tien-nghi-gia-tot-bi-kip-mua-sam-khong-lo-chay-tui-cho-chuyen-di-cua-ban/

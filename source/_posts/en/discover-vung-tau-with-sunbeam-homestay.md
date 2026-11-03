@@ -6,21 +6,21 @@ alternate:
   vi: /kham-pha-vung-tau-trai-nghiem-tuyet-voi-tai-sunbeam-homestay/
 description: Explore Vung Tau from Sunbeam Homestay — Paradise golf, LOTTE Mart, Tho Trang park, Bai Sau night market, Mui Nghinh Phong and more.
 tags: [explore Vung Tau, Sunbeam Homestay, famous places Vung Tau, Paradise golf course, LOTTE Mart Vung Tau, Tho Trang park, Bai Sau night market, Mui Nghinh Phong, Christ the King statue, Hon Ba, Vung Tau travel, Vung Tau accommodation, Vung Tau homestay, Vung Tau attractions, Vung Tau culture, Vung Tau scenery, Vung Tau entertainment, Vung Tau food, Vung Tau shopping, Vung Tau relaxation]
-cover: https://drscdn.500px.org/photo/1094005521/q%3D80_m%3D600/v2?sig=67fab24fc80e5bad0d3ffa49704a7fae5c50c5209a8a853de10d9b89f0ca1839
+cover: https://i.ibb.co/pjLpThhJ/patio1.jpg
 ---
 
 # Sunbeam Homestay - Your Ideal Base To Explore Vung Tau
 
 Here's a guide from Sunbeam Homestay to some must-visit spots nearby:
 
-![ban_do](https://drscdn.500px.org/photo/1094005521/q%3D80_m%3D600/v2?sig=67fab24fc80e5bad0d3ffa49704a7fae5c50c5209a8a853de10d9b89f0ca1839 "Vung Tau tourist attractions map")
+![Vung Tau tourist attractions map](https://wikidulich.com/wp-content/uploads/2024/06/Ban-do-du-lich-Vung-Tau-001.png "Vung Tau tourist attractions map")
 
 🏌️‍♂️ **Paradise Golf Course (1.1KM)**
 ![san_golf_paradise](https://golfparadise.com.vn/wp-content/uploads/2023/05/background-trang-chu-1-compressed.jpg "Paradise Golf Course")
 A paradise for golf lovers with lush green fairways and stunning sea views. You'll enjoy a wonderful mix of relaxation and sport.
 
 🛒 **LOTTE Mart Vung Tau (1KM)**
-![lotte_mart](https://displaysolution.vn/Image/Picture/man-hinh-ghep/Si%C3%AAu%20th%E1%BB%8B%20LOTTE%20Mart%20V%C5%A9ng%20T%C3%A0u.jpg "LOTTE Mart Vung Tau")
+![lotte_mart](https://upload.wikimedia.org/wikipedia/commons/e/e3/Vong_xoay_Dai_Liet_sy-_Duong_thi_sach%2C_Phuong_Thang_tam%2C_tp_vungtau%2C_vn_-_panoramio.jpg "LOTTE Mart Vung Tau")
 A convenient shopping destination for everything from groceries and fashion to electronics. The ideal place to find all you need for your vacation.
 
 🎡 **Tho Trang (White Rabbit) Park (450M)**
@@ -36,7 +36,7 @@ A lively market full of delicious street food and unique souvenirs. Exploring th
 Breathtaking scenery and a peaceful place to relax by the sea. The ideal destination to enjoy quiet moments and fresh air.
 
 ✝️ **Christ The King Statue (4.5KM)**
-![tuong_chua_kito_vua](https://ittpa.baria-vungtau.gov.vn/portal/editor/images/Anh%20tin%20du%20lich/fggfs1234567ssssssffdsgdgsggasg.jpg "Christ The King Statue")
+![tuong_chua_kito_vua](https://ik.imagekit.io/tvlk/blog/2023/01/tuong-dai-chua-kito-vua-1.jpg?tr=dpr-2,w-675 "Christ The King Statue")
 A famous landmark with panoramic views of the city and the sea. Don't miss the chance to explore this site and admire the stunning view from the mountain top.
 
 🏝️ **Hon Ba Island (3KM)**

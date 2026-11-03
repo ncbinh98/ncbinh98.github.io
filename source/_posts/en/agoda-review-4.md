@@ -4,13 +4,13 @@ date: 2024-05-24 11:35:14
 lang: en
 alternate:
   vi: /review-agoda/4/
-cover: https://drscdn.500px.org/photo/1094013042/q%3D80_m%3D600/v2?sig=4a40d7638e225c7419ed3d75f4b927a104196a584eaf2713bba144ee394916ef
+cover: https://i.ibb.co/7tH80hyf/living1.jpg
 categories:
   - [Review Agoda]
 description: "Guest review of Sunbeam Homestay Vung Tau: an ideal family destination with a 90m2 apartment, sea-view balcony, near beach and night market."
 ---
 
-<img src='https://drscdn.500px.org/photo/1094013042/q%3D80_m%3D600/v2?sig=4a40d7638e225c7419ed3d75f4b927a104196a584eaf2713bba144ee394916ef' alt='10,0 Family Trip (donghyuk)' />
+<img src='https://i.ibb.co/k22zVNfs/sunbeam-review-agoda-donghyuk-9-1.png' alt='10,0 Family Trip (donghyuk)' />
 
 # 🏡 Sunbeam Homestay – The Ideal Destination for Families
 

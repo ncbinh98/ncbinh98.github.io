@@ -55,13 +55,13 @@ The main ingredient for making Banh Khot is **pure rice flour**, which can be mi
 2. **The filling**: Remove the shrimp heads, peel, clean and drain. You can make caramelized crispy shrimp (tom chay) to make the dish even more appealing by mashing the shrimp and stirring them well until they become fine and dry-roasted.
 3. **Pour the cakes**: Pour the batter into the mould, place the peeled fresh shrimp in the middle, cover and wait for the cakes to cook. When the cakes are just done, lift them onto a plate and sprinkle with a little crispy shrimp and scallion oil.
 
-![How to make Banh Khot](https://www.btaskee.com/wp-content/uploads/2023/09/do-banh-khot-vung-tau.jpg "How to make Banh Khot")
+![How to make Banh Khot](https://i1-giadinh.vnecdn.net/2013/02/25/banh-khot-1-jpg-1361780395.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=uhYMKwJ_UASwrmbCB0Tl1w "How to make Banh Khot")
 
 ## 🍃 How To Enjoy Banh Khot Properly
 
 Roll the cake in a lettuce leaf, add a few sprigs of aromatic herbs and dip it in the thick sweet-and-sour fish sauce. Feel the crispiness of the cake on your tongue, the sweetness of the shrimp and scallops, the freshness of the vegetables and the rich aroma of the scallion oil.
 
-![Banh Khot served with herbs](https://giavihanhphuc.com/files/folder_1278/images/banh-khot-kinh-doanh-NCK800.jpg "Banh Khot served with herbs")
+![Banh Khot served with herbs](https://mia.vn/media/uploads/blog-du-lich/banh-khot-vung-tau-lieu-xieu-truoc-vi-ngon-dam-da-cua-mon-banh-khot-02-1634003926.png "Banh Khot served with herbs")
 
 Good Vung Tau Banh Khot should be cakes that are both crispy and chewy, with the rich taste of rice flour and coconut water, served with fresh herbs. Quite a few people believe that **fresh herbs and fish sauce determine 50% of the success of this dish**. The rich flavor of scallion oil combined with the sweet fragrance of shrimp wrapped in a crispy shell, lifted by the sweetness of the dipping sauce and the accompanying vegetables, creates the unique appeal of Banh Khot.
 

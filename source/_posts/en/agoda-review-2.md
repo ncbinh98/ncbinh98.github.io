@@ -1,16 +1,16 @@
 ---
-title: 10,0 Worth It (Oanh)
+title: 10,0 Beautiful sea view, spacious and well-equipped apartment (Vu)
 date: 2024-05-24 11:35:14
 lang: en
 alternate:
   vi: /review-agoda/2/
-cover: https://drscdn.500px.org/photo/1094012957/q%3D80_m%3D600/v2?sig=2d7f5a6409154f0cfd6ebe19d25b7fb42e8e04e06df13885ee84fdc3c1c41b67
+cover: https://i.ibb.co/VWYJ8qbm/patio2.jpg
 categories:
   - [Review Agoda]
 description: "Guest review of Sunbeam Homestay Vung Tau: a beautiful sea-view homestay with 2 bedrooms, spacious balcony, modern amenities and beachfront location."
 ---
 
-<img src='https://drscdn.500px.org/photo/1094012957/q%3D80_m%3D600/v2?sig=2d7f5a6409154f0cfd6ebe19d25b7fb42e8e04e06df13885ee84fdc3c1c41b67' alt='10,0 Worth It (Oanh)' />
+<img src='https://i.ibb.co/9m653y2M/sunbeam-review-agoda-Vu.png' alt='10,0 Beautiful sea view, spacious and well-equipped apartment (Vu)' />
 
 # ✨ Sunbeam Homestay – A Beautiful Sea-View Homestay in Vung Tau
 

@@ -1,10 +1,10 @@
 ---
 title: 90m2 2-Bedroom Sea View Apartment - The Perfect Choice For Your Vacation 🌊✨
-date: 2026-08-16 20:18:21
+date: 2026-11-02 16:30:00
 lang: en
 alternate:
   vi: /can-ho-90m2-2phong-ngu-vung-tau/
-cover: https://drscdn.500px.org/photo/1093681098/q%3D80_m%3D600/v2?sig=ca40a0018ee57099a4692afcaf0b4bba442b1fb78f6e834a9c4043b5052cc8f0
+cover: https://i.ibb.co/pjLpThhJ/patio1.jpg
 sticky: true
 description: Book the 90m2 2-bedroom sea view apartment at Sunbeam Homestay Vung Tau — rated 4.64/5 on Airbnb and 9.0/10 on Agoda, steps from the beach.
 tags: [Sunbeam Homestay Vung Tau, sea view homestay Vung Tau, 2 bedroom apartment Vung Tau, apartment for rent Vung Tau, Vung Tau accommodation, family homestay Vung Tau, cheap homestay Vung Tau, Vung Tau vacation, Airbnb review Vung Tau, beachfront apartment Vung Tau]
@@ -21,8 +21,6 @@ Welcome to our 90m2 apartment at Sunbeam Homestay Vung Tau! Located on the **16t
 ![Sunbeam Homestay apartment building exterior](https://i.ibb.co/mkFM4pw/exterior1.jpg "Sunbeam Homestay building on Thuy Van Street Vung Tau")
 
 ![Living room of Sunbeam Homestay apartment](https://i.ibb.co/7tH80hyf/living1.jpg "Spacious living room of Sunbeam Homestay apartment")
-
-![Sunbeam Homestay sea view apartment Vung Tau](https://drscdn.500px.org/photo/1093681098/q%3D90_m%3D2048/v2?sig=76d762fbe70254646a4ec33e600df55bb3959fb9c5e28a571684d90c4fe31e58 "Sunbeam Homestay sea view apartment Vung Tau")
 
 ### Highlights
 
@@ -61,18 +59,6 @@ The apartment has **2 spacious bedrooms**, each with a comfortable **king-size b
 
 ![Bedroom 2 Sunbeam Homestay Vung Tau](https://i.ibb.co/hx42Hq4b/bedroom2c.jpg "Bedroom 2 Sunbeam Homestay Vung Tau")
 
-<img src='https://drscdn.500px.org/photo/1093681098/q%3D90_m%3D2048/v2?sig=76d762fbe70254646a4ec33e600df55bb3959fb9c5e28a571684d90c4fe31e58' alt='Bedroom Sunbeam Homestay Vung Tau' />
-
-<br/>
-
-<img src='https://drscdn.500px.org/photo/1093681095/q%3D90_m%3D2048/v2?sig=71b3e33e27db8fe91c7389a70fca47eb55d60cbd1d461e017c0ca196c316b4a7' alt='Bedroom Sunbeam Homestay Vung Tau' />
-<br/>
-
-<img src='https://drscdn.500px.org/photo/1093681089/q%3D90_m%3D2048/v2?sig=4b37b931da8e68c3008f6108cd03e5fbb8258883f0d6e51fd91488a95a34ffd0' alt='Bedroom Sunbeam Homestay Vung Tau' />
-<br/>
-
- <img src='https://drscdn.500px.org/photo/1093681072/q%3D90_m%3D2048/v2?sig=15daaffb2d502981364ac4c777d2803cfc1402e81c009b6a5053819042b78baa' alt='Bedroom Sunbeam Homestay Vung Tau' />
-
 ### 2. Bathrooms
 
 With **2 private bathrooms**, the apartment ensures convenience and privacy for everyone. Each bathroom has a shower, sink and all essentials. Many guests share that **the water temperature is very stable** – comfortable showers with no sudden hot-cold surprises!
@@ -85,12 +71,6 @@ With **2 private bathrooms**, the apartment ensures convenience and privacy for 
 
 ![Bathroom 2 Sunbeam Homestay Vung Tau](https://i.ibb.co/jvHsfW1b/bath2.jpg "Bathroom 2 Sunbeam Homestay Vung Tau")
 
- <img src='https://drscdn.500px.org/photo/1093681070/q%3D90_m%3D2048/v2?sig=29b51591a8a1220c02e13d7634af8cfc7b4012f8a27705634129121f4b84a70f' alt='Bathroom Sunbeam Homestay Vung Tau' />
-
-<br/>
-
- <img src='https://drscdn.500px.org/photo/1093681082/q%3D90_m%3D2048/v2?sig=f15ccd84fae96fac408d13f7c3693d640ff5bc916cf6f1a186045a377aa920ce' alt='Bathroom Sunbeam Homestay Vung Tau' />
-
 ### 3. Living Room
 
 A spacious living room with modern furniture: a comfy sofa, flat-screen TV and coffee table. The ideal space to relax, watch movies or chat with family after a day of exploring Vung Tau.
@@ -99,8 +79,6 @@ A spacious living room with modern furniture: a comfy sofa, flat-screen TV and c
 
 ![Living room Sunbeam Homestay Vung Tau](https://i.ibb.co/chLwd12X/living2.jpg "Sofa corner in the living room Sunbeam Homestay Vung Tau")
 
-<img src='https://drscdn.500px.org/photo/1093681090/q%3D90_m%3D2048/v2?sig=bd6d9426ced272bc11fa5286e6b8489ca296ffd4c4c7840d5e6d66ca449c6d8f' alt='Living room Sunbeam Homestay Vung Tau' />
-
 ### 4. Kitchen
 
 The kitchen comes **fully equipped with utensils and appliances**: induction cooker, microwave, fridge, pots and pans. Just grab fresh seafood from the morning market and you can cook a delicious meal for the whole family right in the apartment!
@@ -108,8 +86,6 @@ The kitchen comes **fully equipped with utensils and appliances**: induction coo
 ![Kitchen Sunbeam Homestay Vung Tau](https://i.ibb.co/YT8V1gjx/kitchen1.jpg "Kitchen Sunbeam Homestay Vung Tau")
 
 ![Kitchen Sunbeam Homestay Vung Tau](https://i.ibb.co/h1Vm897H/kitchen2.jpg "Cooking area Sunbeam Homestay Vung Tau")
-
-  <img src='https://drscdn.500px.org/photo/1093681076/q%3D90_m%3D2048/v2?sig=1afc4e9c4a903f3a3ddf68ec66706dce06064fa3b154f260652eaefc0284f065' alt='Kitchen Sunbeam Homestay Vung Tau' />
 
 ### 5. Spacious Balcony With Sea View
 
@@ -122,15 +98,6 @@ The highlight that makes everyone fall in love is the **spacious balcony with se
 ![Relaxing corner on the balcony](https://i.ibb.co/jPtH8CQJ/extra1.jpg "Relaxing corner on the balcony Sunbeam Homestay Vung Tau")
 
 ![Sunrise from the balcony](https://i.ibb.co/CsTNVLfd/extra2.jpg "Sunrise from Sunbeam Homestay balcony")
-
-<img src='https://drscdn.500px.org/photo/1093681092/q%3D90_m%3D2048/v2?sig=94262325b14950e52729a2fd18141ece6231dbd93290bff9aeb1aa4f1e6d74b4' alt='Balcony sea view Sunbeam Homestay Vung Tau' />
-
-<br/>
-
- <img src='https://drscdn.500px.org/photo/1093681069/q%3D90_m%3D2048/v2?sig=e26db5d55357fe9d1390413f9fd2c913066467ecfaec2657a785ceb7c83813db' alt='Balcony sea view Sunbeam Homestay Vung Tau' />
- <br/>
-
- <img src='https://drscdn.500px.org/photo/1093681073/q%3D90_m%3D2048/v2?sig=4e792a6c05728efc8b55ade970ebe8fb13b86b690cb1c3b04e50d68ca289ffd2' alt='Balcony sea view Sunbeam Homestay Vung Tau' />
 
 ## 📍 Convenient Location
 
@@ -321,7 +288,7 @@ Not only on Airbnb — the apartment also scores **9.0/10 "Wonderful" on Agoda**
 
 ![Agoda review from guest han](https://i.ibb.co/FbR2dz0j/agoda-han.png "10/10 review from han on Agoda")
 
-![Agoda review from guest Tran](https://i.ibb.co/S7WpPbG6/agoda-tran.png "10/10 review from Tran on Agoda")
+![Agoda review from guest Tran](https://i.ibb.co/0yTv8qzw/sunbeam-review-agoda-Tran-5-2.png "10/10 review from Tran on Agoda")
 
 ![Agoda review from guest Tuan](https://i.ibb.co/35LhvCGR/agoda-tuan.png "9.6/10 review from Tuan on Agoda")
 

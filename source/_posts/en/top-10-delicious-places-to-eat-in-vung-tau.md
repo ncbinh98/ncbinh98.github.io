@@ -35,7 +35,7 @@ Vung Tau is not only famous for its beautiful beaches but also for its rich culi
 - **Address 1:** 03 Trần Phú, Phường 5, TP. Vũng Tàu
 - **Address 2:** Khu vực cảng tàu khách cánh ngầm, 09 Hạ Long, Phường 2, TP. Vũng Tàu
 
-![Gành Hào Restaurant](https://ganhhao.com.vn/wp-content/uploads/2018/01/canh_ganh_hao.jpg "Gành Hào Restaurant 1")
+![Gành Hào Restaurant](https://static.vinwonders.com/production/2025/05/nha-hang-ganh-hao-vung-tau.jpg "Gành Hào Restaurant 1")
 
 ![Gành Hào Restaurant](https://www.dulichthienthai.com/wp-content/uploads/2023/09/nha-hang-ganh-hao-2.jpg "Gành Hào Restaurant 2")
 
@@ -77,7 +77,7 @@ Lẩu Cá Đuối Hoàng Minh (ray fish hotpot) is a signature dish of Vung Tau.
 
 - **Address:** 14 Nguyễn Trường Tộ, Phường 3, TP. Vũng Tàu
 
-![Banh Khot Goc Vu Sua](https://cdn.alongwalk.info/vn/wp-content/uploads/2022/06/22025658/image-banh-khot-vung-tau-o-dau-ngon-nhi-chia-se-12-quan-banh-khot-ngon-o-vung-tau-165581621882308.png "Banh Khot Goc Vu Sua")
+![Banh Khot Goc Vu Sua](https://cms.vietnamcoracle.com/wp-content/uploads/2018/01/IMG_0443-copy-blog-final-1024x768.jpg "Banh Khot Goc Vu Sua")
 
 Bánh Khọt Gốc Vú Sữa is famous for its crispy, crunchy Banh Khot with sweet fresh shrimp filling inside. It's a rustic yet very distinctive dish of Vung Tau.
 
@@ -85,7 +85,7 @@ Bánh Khọt Gốc Vú Sữa is famous for its crispy, crunchy Banh Khot with sw
 
 - **Address:** Số 9 Phan Chu Trinh, Phường 2, TP. Vũng Tàu
 
-![Banh Beo Tuyet Mai](https://media-cdn.tripadvisor.com/media/photo-s/09/eb/d2/a0/tuyet-mai-vung-tau.jpg "Banh Beo Tuyet Mai")
+![Banh Beo Tuyet Mai](https://static.vinwonders.com/production/2025/06/banh-beo-tuyet-mai-vung-tau.jpg "Banh Beo Tuyet Mai")
 
 Quán Bánh Bèo Tuyết Mai brings you the traditional Banh Beo flavor with a rich dipping sauce and plentiful toppings.
 
@@ -101,7 +101,7 @@ Cơm Tấm Loan is an ideal stop for broken rice lovers. With fragrant grilled p
 
 - **Address:** 88 Lê Lai, Phường 3, TP. Vũng Tàu
 
-![Com Tam 67](https://ticovilla.com/wp-content/uploads/2022/09/Com-tam-Vung-Tau-3.jpg "Com Tam 67")
+![Com Tam 67](https://static.vinwonders.com/production/2025/07/com-tam-67-vung-tau.jpg "Com Tam 67")
 
 Cơm Tấm 67 is also a solid choice for broken rice fans. The restaurant is famous for its fragrant grilled ribs marinated with signature spices.
 
